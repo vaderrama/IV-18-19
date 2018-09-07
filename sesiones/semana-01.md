@@ -3,8 +3,9 @@
 <!-- poner fecha y crear la encuesta inicial -->
 
 Agradeceré que contestes la
-[encuesta inicial](). Se
-recuerda al estudiante que es su responsabilidad atender a clase o
+[encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSf-Vga9rqveO0vybzZGgh4cY7qOYvjfvSbZYyH_H9w893AgXg/viewform). Se
+recuerda al estudiante que es su responsabilidad atender a clase o, si
+no es posible,
 enterarse de los contenidos impartidos en la misma a través de esta web, el grupo de Telegram o los compañeros.
 
 
@@ -17,17 +18,16 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 3. Vernos las caras.
 4. Explicar la
    [práctica 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha
-   de entrega:
-<!-- poner fecha de entrega -->
-
+   de entrega: viernes 21 de septiembre, 9:30 de la mañana.
 5. Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
    infraestructura.
 
 ## Contenidos
 
-* Con 30 personas y aforo suficiente, no hace falta organizar grupos
-  de prácticas. Que cada uno venga el día que quiera, o ninguno. 
+* Con el número de estudiantes matriculados y aforo suficiente, no hace falta organizar grupos
+  de prácticas. Que cada uno venga el día que quiera, o ninguno (véase
+  la nota al principio de esta página)
 * Presentación del profesor y los recursos de la
   asignatura: [web](http://jj.github.io/IV)
   y [Twitter `@iv_gii`](http://twitter.com/iv_gii), incluyendo el
@@ -58,20 +58,22 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   particiones *nativas* para evitar problemas, no máquinas virtuales. 
 * Entender el sistema de entrega de objetivos y prácticas/proyecto: *fork* de este repositorio (que
   habrá que actualizar periódicamente) y *pull request* al mismo para
-  "entrega" de objetivos y demás.
-<!-- poner fecha de este seminario y otros con DAI -->
-* El , habrá un
+  "entrega" de objetivos y demás. Hay
+  un
+  [seminario sobre git](https://www.meetup.com/es-ES/Granada-Geek/events/254439261/) el
+  día 14 de septiembre a las 13:30 en esta misma clase.
+* Más adelante, habrá un
   seminario de media hora sobre ["Pilas, microservicios, arquitecturas con letras griegas y otras dos o tres cosas que quizás no hayas aprendido hasta ahora"](https://www.meetup.com/es-ES/Granada-Geek/events/242919355/). Se ruega a todos los estudiantes que hagan lo
   posible por asistir al mismo o conseguir el material una vez
   impartido. Tratándose de un seminario no es obligatorio, pero su
   contenido va a resultar muy útil para el resto de la asignatura y se
-  valorará la asistencia dentro del apartado "Trabajo autónomo". 
+  valorará la asistencia dentro del apartado "Trabajo autónomo".
 * Debe queder muy claro que las tutorías no son para que el profesor
   repita el material de clase, sobre todo porque el material de clase
   está todo en la web y las explicaciones son sólo bajo demanda. Si un
   estudiante falta a clase o se incorpora más tarde, tendrá que revisar él
   solo el material y preguntar las dudas en clase o por alguno de los
-  medios indicados anteriormente.
+  medios indicados anteriormente, incluyendo por supuesto tutorías.
 * Todos los estudiantes deberán solicitar una tutoría al profesor para
   aclarar cualquier aspecto de la asignatura que
   no esté suficientemente largo y poder comenzar el proyecto que se hará a lo largo
