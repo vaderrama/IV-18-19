@@ -14,8 +14,8 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
    grupo de Telegram de la asignatura y conocer el resto de los recursos de la asignatura.
 2. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 3. Vernos las caras.
-4. Explicar la
-   [práctica 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha
+4. Explicar el
+   [hito 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha
    de entrega: viernes 21 de septiembre, 9:30 de la mañana.
 5. Entender la importancia de metodologías ágiles como SCRUM en el
    desarrollo de proyectos informáticos, incluyendo proyectos de
