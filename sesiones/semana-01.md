@@ -1,7 +1,5 @@
 # Semana del 
 
-<!-- poner fecha y crear la encuesta inicial -->
-
 Agradeceré que contestes la
 [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSf-Vga9rqveO0vybzZGgh4cY7qOYvjfvSbZYyH_H9w893AgXg/viewform). Se
 recuerda al estudiante que es su responsabilidad atender a clase o, si
@@ -62,10 +60,8 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   un
   [seminario sobre git](https://www.meetup.com/es-ES/Granada-Geek/events/254439261/) el
   día 14 de septiembre a las 13:30 en esta misma clase.
-* Más adelante, habrá un
-  seminario de media hora sobre ["Pilas, microservicios, arquitecturas con letras griegas y otras dos o tres cosas que quizás no hayas aprendido hasta ahora"](https://www.meetup.com/es-ES/Granada-Geek/events/242919355/). Se ruega a todos los estudiantes que hagan lo
-  posible por asistir al mismo o conseguir el material una vez
-  impartido. Tratándose de un seminario no es obligatorio, pero su
+* Más adelante, habrá un [hackatón dedicado al desarrollo de microservicios basado en tests](https://www.meetup.com/es-ES/Granada-Geek/events/254608936/). Se ruega a todos los estudiantes que hagan lo
+  posible por asistir al mismo, porque les ahorrará trabajo más adelante cuando tenga que desplegar dicho proyecto. Tratándose de un seminario no es obligatorio, pero su
   contenido va a resultar muy útil para el resto de la asignatura y se
   valorará la asistencia dentro del apartado "Trabajo autónomo".
 * Debe queder muy claro que las tutorías no son para que el profesor
