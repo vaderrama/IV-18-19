@@ -1,4 +1,4 @@
-# Semana del 
+# Semana del 12 de septiembre
 
 Agradeceré que contestes la
 [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSf-Vga9rqveO0vybzZGgh4cY7qOYvjfvSbZYyH_H9w893AgXg/viewform). Se
