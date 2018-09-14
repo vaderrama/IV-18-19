@@ -30,7 +30,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   asignatura: [web](http://jj.github.io/IV)
   y [Twitter `@iv_gii`](http://twitter.com/iv_gii), incluyendo el
   grupo de Telegram.
-* [Visión general de la asignatura](http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/espti/infraestructuravirtual).
+* [Visión general de la asignatura](http://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/curso_actual/cuarto/tecnologiasdelainformacion/gii_infraestructura_virtual_20172018_firmada).
 * Metodología
   docente:
   [Clase invertida](http://www.tecnologiasparalaeducacion.es/la-clase-inversa-flip-classroom-tecnologias/),
