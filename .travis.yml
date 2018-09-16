@@ -1,9 +1,8 @@
-branches:
-  except:
-    - gh-pages
-language: perl
-perl:
-  - "5.16"
-install: cpanm Test::More Test::Harness Git File::Slurper JSON Net::Ping TAP::Formatter::Color Term::ANSIColor
-script: prove -c
+services:
+  - docker
 
+install:
+  - docker pull jjmerelo/iv-test
+  - docker images
+script: 
+  - docker run -t -v  $TRAVIS_BUILD_DIR:/test jjmerelo/iv-test
