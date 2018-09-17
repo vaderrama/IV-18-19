@@ -16,7 +16,7 @@ Añade debajo enlaces a tu proyecto
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| | |
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
-| GALERA GARRIDO, JUSTO JAVIER| | |
+| GALERA GARRIDO, JUSTO JAVIER| [Repositorio]https://github.com/JotaGalera/FindAInformatic | 1.0 |
 | GARCIA MANCILLA, JAVIER| | |
 | GOMEZ MARTIN, ANGEL| | |
 | GUERRERO PINTEÑO, ALVARO| | |
