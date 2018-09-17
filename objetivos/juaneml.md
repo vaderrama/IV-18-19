@@ -1,3 +1,3 @@
 # Fichero objetivos
 Juan Esteban Moreno López
--[x] Entendida la creación de ficheros
+[x] Entendida la creación de ficheros
