@@ -16,9 +16,9 @@ Añade debajo enlaces a tu proyecto
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| | |
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
-| GALERA GARRIDO, JUSTO JAVIER| | |
+| GALERA GARRIDO, JUSTO JAVIER| [Repositorio]https://github.com/JotaGalera/FindAInformatic | 1.0 |
 | GARCIA MANCILLA, JAVIER| | |
-| GOMEZ MARTIN, ANGEL| | |
+| GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.0 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE|[Proyecto](https://github.com/Saytes/BirthBot) |1.0|
@@ -26,7 +26,7 @@ Añade debajo enlaces a tu proyecto
 | HERRERA VARGAS, ALBERTO| | |
 | JALDO RUIZ, JESUS MIGUEL| | |
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
-| JIMENEZ CAZORLA, MIGUEL| | |
+| JIMENEZ CAZORLA, MIGUEL|[Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)|1.0|
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL| | |
 | LOPEZ RUIZ, MARIO ANTONIO| | |
