@@ -1,7 +1,8 @@
 # Objetivos hito 0
 
-- [x] Fichero de objetivos creado.
+- [x] [Fichero](https://github.com/JJ/IV-18-19/blob/master/objetivos/harvestcore.md) de objetivos creado.
 - [x] Fork del repositorio del curso.
-- [ ] Creación del repositorio del proyecto y actualización del link en el hito.
-- [ ] Creación del repositorio de ejercicios.
-- [x] Configuración de GitHub y git.
+- [x] Creación del repositorio del [proyecto](https://github.com/harvestcore/IPContainer) y actualización del link en el [hito 0](https://github.com/JJ/IV-18-19/blob/master/proyectos/hito-0.md).
+- [x] Creación del repositorio de [ejercicios](https://github.com/harvestcore/IV1819-Ejercicios).
+- [x] Configuración de [GitHub](https://github.com/harvestcore/) y git.
+
