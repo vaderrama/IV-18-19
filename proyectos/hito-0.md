@@ -31,7 +31,7 @@ Añade debajo enlaces a tu proyecto
 | LOPEZ CASTRO, JUAN MANUEL| | |
 | LOPEZ RUIZ, MARIO ANTONIO| | |
 | MARTINEZ GARCIA, ANTONIO|[Repositorio](https://github.com/antoniomg89/Project-Z) |0.1|
-| MARTIR MORENO, NATALIA MARIA| | |
+| MARTIR MORENO, NATALIA MARIA|[ProyectoIV-BOT](https://github.com/natalia2911/ProyectoIV-BOT) |0.1|
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO| | |
 | MOLINERO CASTILLO, JONATHAN| | |
@@ -50,7 +50,7 @@ Añade debajo enlaces a tu proyecto
 | RUIZ LOPEZ, MANUEL| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
-| SANCHEZ DE LECHINA TEJADA, JESUS| | |
+| SANCHEZ DE LECHINA TEJADA, JESUS|[Proyecto](https://github.com/jojelupipa/Proyecto_IV) |0.1|
 | SARRIONANDIA DE LEÓN, AITOR| | |
 | TALAVERA MENDOZA, FERNANDO RAFAEL| | |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
