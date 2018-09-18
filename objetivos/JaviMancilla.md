@@ -2,15 +2,15 @@
 
 ## Hito 0 (Semana 1)
 
-- [ ] Configuración de GitHub.
+- [x] Configuración de GitHub.
 
-- [ ] Actualizar información al perfil.
+- [x] Actualizar información al perfil.
 
-- [ ] Actulizar el documento de Google Drive con mi nick de GitHub.
+- [x] Actulizar el documento de Google Drive con mi nick de GitHub.
 
-- [ ] Enviar el fichero de objetivos 
+- [x] Enviar el fichero de objetivos 
 
-- [ ] Respositorios de la asignatura:
+- [x] Respositorios de la asignatura:
 
 - [Proyecto](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819.git)
 
