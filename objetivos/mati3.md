@@ -1,4 +1,4 @@
-Objetivos del hito 0
+## Objetivos del hito 0
 
 [X] Familiarizarse con GIT.
 
