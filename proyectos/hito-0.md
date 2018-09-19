@@ -47,7 +47,7 @@ Añade debajo enlaces a tu proyecto
 | PULIDO POVEDA, JUAN CARLOS| | |
 | REY PEDROSA, PABLO| | |
 | RODRIGUEZ MARIN, SERGIO| | |
-| RUIZ LOPEZ, MANUEL| | |
+| RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1 |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS|[Proyecto](https://github.com/jojelupipa/Proyecto_IV) |0.1|
