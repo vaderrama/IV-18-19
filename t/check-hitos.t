@@ -43,7 +43,7 @@ SKIP: {
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
 
-  for my $f (qw( README.md .gitignore LICENSE )) {
+  for my $f (qw( README.md \.gitignore LICENSE )) {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
