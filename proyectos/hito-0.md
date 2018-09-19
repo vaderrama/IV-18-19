@@ -24,7 +24,7 @@ Añade debajo enlaces a tu proyecto
 | GUTIERREZ SEGOVIA, JORGE|[Proyecto](https://github.com/Saytes/BirthBot) |1.0|
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO| | |
-| JALDO RUIZ, JESUS MIGUEL| | |
+| JALDO RUIZ, JESUS MIGUEL|[Proyecto IV - OWResult](https://github.com/JmZero/Proyecto-IV)|0.1|
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
 | JIMENEZ CAZORLA, MIGUEL|[Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)|1.0|
 | KEMP MUÑOZ, MARCEL| | |
