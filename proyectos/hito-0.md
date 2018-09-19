@@ -6,7 +6,7 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALVAREZ CARRASCO, JUAN| | |
 | ARIZA GARCIA, CARLOS| | |
-| BALDERAS RUIZ, LUIS| | |
+| BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 0.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
@@ -15,7 +15,7 @@ Añade debajo enlaces a tu proyecto
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL|[Planificador Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) |1.0|
 | FLORES GARRIDO, FERNANDO| | |
-| FUERTES MORENO, PEDRO LUIS| | |
+| FUERTES MORENO, PEDRO LUIS|[API REST en Java](https://github.com/pedroluisfuertes/iv-proyecto)|1.0|
 | GALERA GARRIDO, JUSTO JAVIER|[Repositorio](https://github.com/JotaGalera/FindAInformatic) | 1.0 |
 | GARCIA MANCILLA, JAVIER| | |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.0 |
@@ -24,7 +24,7 @@ Añade debajo enlaces a tu proyecto
 | GUTIERREZ SEGOVIA, JORGE|[Proyecto](https://github.com/Saytes/BirthBot) |1.0|
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO| | |
-| JALDO RUIZ, JESUS MIGUEL| | |
+| JALDO RUIZ, JESUS MIGUEL|[Proyecto IV - OWResult](https://github.com/JmZero/Proyecto-IV)|0.1|
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
 | JIMENEZ CAZORLA, MIGUEL|[Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)|1.0|
 | KEMP MUÑOZ, MARCEL| | |
