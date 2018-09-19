@@ -1,7 +1,7 @@
 # Objetivos Sergio Rodríguez Marín
 
 ## Repositorio de ejercicios
-[Ejercicios de clase](https://github.com/pavocejudo/ejerciciosIV/)
+[Ejercicios de clase](https://github.com/pavocejudo/ejerciciosIV/)  
 [Proyecto para la asignatura](https://github.com/pavocejudo/ProyectoIV)
 ## Hito 0
 - [X] Configuración de claves SSH para los proyectos.
