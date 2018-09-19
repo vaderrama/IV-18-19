@@ -30,7 +30,7 @@ Añade debajo enlaces a tu proyecto
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL| | |
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 0.1 |
-| MARTINEZ GARCIA, ANTONIO|[Repositorio](https://github.com/antoniomg89/Project-Z) |0.1|
+| MARTINEZ GARCIA, ANTONIO|[Repositorio](https://github.com/antoniomg89/Project-Z) |0.2|
 | MARTIR MORENO, NATALIA MARIA|[ProyectoIV-BOT](https://github.com/natalia2911/ProyectoIV-BOT) |0.1|
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO| | |
