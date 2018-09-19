@@ -1,5 +1,7 @@
 # -*- cperl -*-
 
+use lib qw(/usr/lib /usr/local/lib ../lib lib);
+
 use Test::More;
 use Git;
 use LWP::Simple;
