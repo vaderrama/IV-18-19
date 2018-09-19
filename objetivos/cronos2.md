@@ -3,4 +3,4 @@
 [x] Empezar a escribir los objetivos
 [x] Crear el repositorio del proyecto
 [x] Añadir los archivos pertinentes al repositorio del proyecto
-[ ] Configurar el perfil de GitHub
+[x] Configurar el perfil de GitHub
