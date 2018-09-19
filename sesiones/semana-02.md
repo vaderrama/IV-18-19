@@ -4,7 +4,11 @@ Agradeceré que contestes la
 [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSf-Vga9rqveO0vybzZGgh4cY7qOYvjfvSbZYyH_H9w893AgXg/viewform). Se
 recuerda al estudiante que es su responsabilidad atender a clase o, si
 no es posible,
-enterarse de los contenidos impartidos en la misma a través de esta web, el grupo de Telegram o los compañeros.
+enterarse de los contenidos impartidos en la misma a través de esta
+web, el grupo de Telegram o los compañeros.
+
+Si no pudisteis ir a la charla de git anterior, [podéis ir a esta
+nueva edición](https://www.meetup.com/es-ES/Granada-Geek/events/254689025/).
 
 
 ## Objetivos a cubrir en la sesión
@@ -23,12 +27,12 @@ recurso.
 ## Contenidos
 
 * Al final de la semana, haber entregado el [hito 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). 
-* Tener a punto una instalación Linux para llevar a cabo las
-actividades de la asignatura.
+* Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
 * Manejar de forma básica la línea de órdenes de Linux.
 * Aprender a instalar software libre en Linux.
 * Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
-* [Poner al final de cada sesión los objetivos alcanzados](Cumpliendo_Objetivos.md).
+* [Poner al final de cada semana los objetivos alcanzados](Cumpliendo_Objetivos.md),
+  y siempre antes de la entrega del hito del proyecto.
 * Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un *pull request*, en este caso al repo del compañero.
 
 ## Material para la clase
@@ -37,7 +41,9 @@ actividades de la asignatura.
 
 ## Material adicional
 
-Podéis añadir trucos o enlaces a material adicional en esta zona.
+Podéis añadir trucos o enlaces a material adicional en esta zona,
+editándola y haciendo un pull request, quizás a la vez de la entrega
+de objetivos.
 
 ## Siguientes sesiones
 
