@@ -5,7 +5,7 @@
 [Proyecto para la asignatura](https://github.com/pavocejudo/ProyectoIV)
 ## Hito 0
 - [X] Configuración de claves SSH para los proyectos.
-- [ ] Cambio del nombre y correo electrónico para que aparezca en los commits.
+- [X] Cambio del nombre y correo electrónico para que aparezca en los commits.
 - [X] Edición del perfil en GitHub para que aparezca nombre completo, ciudad y universidad.
 - [X] Fork del [repositorio de la asignatura de IV](https://github.com/JJ/IV-18-19)
 - [X] Configuración del proyecto
