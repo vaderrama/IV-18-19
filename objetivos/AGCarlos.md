@@ -13,7 +13,8 @@
 
 #### Semana 2
 
--   [ ] Rellenar hoja de calculo
+-   [x] Rellenar hoja de calculo
 -   [x] Lectura del tema 1
--   [ ] [Ejercicios del tema 1](https://github.com/AGCarlos/IV_1819_Ejercicios/blob/master/Tema1.md)
+-   [ ] [Ejercicios del tema 1](https://github.com/AGCarlos/IV_1819_Ejercicios/blob/master/Tema1.md) (En proceso)
 -   [x] Agregar nick en fichero de notas de Google Drive
+-   [x] Agregar proyecto a la tabla
