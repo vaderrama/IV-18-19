@@ -54,7 +54,7 @@ Añade debajo enlaces a tu proyecto
 | SARRIONANDIA DE LEÓN, AITOR| | |
 | TALAVERA MENDOZA, FERNANDO RAFAEL| | |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
-| TORRES ROSEL, PABLO| | |
+| TORRES ROSEL, PABLO|[Proyecto](https://github.com/pablotr9/proyecto-IV) |0.1|
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
 | VIÑAS RODRIGUEZ, JOSE MARIA |[Proyecto](https://github.com/joseviro/ProyectoTPV)|1.0|
