@@ -8,3 +8,5 @@
 - [Ejercicios](https://github.com/manoliot/IV-18-19-Ejercicios)
 - [x] Creación del [fichero de objetivos](https://github.com/JJ/IV-18-19/blob/master/objetivos/manoliot.md)
 - [x] Añadido enlace al proyecto en el [hito 0](https://github.com/JJ/IV-18-19/blob/master/proyectos/hito-0.md)
+- [x] Descripción del proyecto en el README.md
+- [x] Creación de [Github Pages](https://manoliot.github.io/tiempo-aemet-bot) del proyecto
