@@ -5,4 +5,4 @@ Objetivos práctica 0
 - [x] Fichero objetivos creado.
 - [x] Perfil de github configurado.
 - [x] Configuración de git.
-- [x] Realizados los primeros [ejercicios de la semana 2](https://github.com/antoniomg89/EjerciciosIV/blob/master/ES2.md)
+- [x] Realizados los [ejercicios de la semana 2](https://github.com/antoniomg89/EjerciciosIV/blob/master/ES2.md)

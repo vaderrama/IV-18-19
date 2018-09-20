@@ -1,5 +1,7 @@
 # -*- cperl -*-
 
+use lib qw(/usr/lib /usr/local/lib ../lib lib /usr/lib/perl5 /usr/lib/perl /usr/local/lib/perl5 /usr/local/lib/perlr /usr/share/perl5);
+
 use Test::More;
 use Git;
 use LWP::Simple;
@@ -43,7 +45,7 @@ SKIP: {
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
 
-  for my $f (qw( README.md .gitignore LICENSE )) {
+  for my $f (qw( README.md \.gitignore LICENSE )) {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
