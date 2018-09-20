@@ -37,7 +37,7 @@ SKIP: {
   like($url_repo,qr/github.com/,"El URL es de GitHub");
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/(.+)/);
   my @ficheros_objetivos = glob "objetivos/*.md";
-  my @enviados = map { lc }, @ficheros_objetivos;
+  my @enviados = map { lc } @ficheros_objetivos;
   my $repo_dir = "/tmp/$user-$name";
   isnt( grep( /$user/, @enviados), 0, "$user ha enviado objetivos" );
   if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
