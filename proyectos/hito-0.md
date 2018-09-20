@@ -56,5 +56,5 @@ Añade debajo enlaces a tu proyecto
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
 | TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
-| VALENZUELA GARCIA, JORGE| | |
+| VALENZUELA GARCIA, JORGE| [Proyecto](https://github.com/Jovalga/ProyectoIV) | 0.1 |
 | VIÑAS RODRIGUEZ, JOSE MARIA |[Proyecto](https://github.com/joseviro/ProyectoTPV)|1.0|
