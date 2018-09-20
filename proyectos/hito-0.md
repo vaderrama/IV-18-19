@@ -1,3 +1,4 @@
+
 # Hito 0
 
 Añade debajo enlaces a tu proyecto
@@ -22,7 +23,7 @@ Añade debajo enlaces a tu proyecto
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE|[Proyecto](https://github.com/Saytes/BirthBot) |1.0|
-| HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
+| HERNANDEZ RECIO, ALEJANDRO MANUEL| [BilltasticJS](https://github.com/alexhzr/BilltasticJS) | 0.9 |
 | HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital-IV) | 1.0 |
 | JALDO RUIZ, JESUS MIGUEL|[Proyecto IV - OWResult](https://github.com/JmZero/Proyecto-IV)|0.1|
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
