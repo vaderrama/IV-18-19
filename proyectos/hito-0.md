@@ -26,7 +26,7 @@ Añade debajo enlaces a tu proyecto
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| [BilltasticJS](https://github.com/alexhzr/BilltasticJS) | 0.9 |
 | HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital-IV) | 1.0 |
 | JALDO RUIZ, JESUS MIGUEL|[Proyecto IV - OWResult](https://github.com/JmZero/Proyecto-IV)|0.1|
-| JIMENEZ ARGUELLO, ANTONIO JOSE|[ProyectoIV](https://github.com/antonioJ95/ProyectoIV)|1.0 |
+| JIMENEZ ARGUELLO, ANTONIO JOSE|[ProyectoIV](https://github.com/antonioJ95/ProyectoIV)|0.1|
 | JIMENEZ CAZORLA, MIGUEL|[Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)|1.0|
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL| [ProyectoIV](https://github.com/juanmaLC/ProyectoIV)|1.1 |
