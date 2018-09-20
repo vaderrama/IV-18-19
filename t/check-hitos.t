@@ -1,6 +1,6 @@
 # -*- cperl -*-
 
-use lib qw(/usr/lib /usr/local/lib ../lib lib);
+use lib qw(/usr/lib /usr/local/lib ../lib lib /usr/lib/perl5 /usr/lib/perl /usr/local/lib/perl5 /usr/local/lib/perlr /usr/share/perl5);
 
 use Test::More;
 use Git;
