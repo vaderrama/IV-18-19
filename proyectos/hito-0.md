@@ -41,7 +41,7 @@ Añade debajo enlaces a tu proyecto
 | OSORIO GIRALDEZ, OSCAR| | |
 | PASTORINI , TATIANA DANIELA| | |
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 1.1|
-| PINEDA MOCHON, IGNACIO| | |
+| PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV) | 1.0 |
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| | |
