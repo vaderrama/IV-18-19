@@ -19,13 +19,13 @@ my $github;
 
 SKIP: {
   my ($this_hito) = ($diff =~ $diff_regex);
-  skip "No hay envío de proyecto", 5 unless defined $this_hito;
+  skip "No hay envío de proyecto", 7 unless defined $this_hito;
   my @files = split(/diff --git/,$diff);
   my ($diff_hito) = grep( /$diff_regex/, @files);
   say "Tratando diff\n\t$diff_hito";
   my @lines = split("\n",$diff_hito);
   my @adds = grep(/^\+[^+]/,@lines);
-  is( $#adds, 0, "Añade sólo una línea");
+  is( $#adds, 0, "Añade sólo una línea"); # Test 1
   my $url_repo;
   if ( $adds[0] =~ /\(http/ ) {
     ($url_repo) = ($adds[0] =~ /\((http\S+)\)/);
@@ -33,14 +33,14 @@ SKIP: {
     ($url_repo) = ($adds[0] =~ /^\+.+(http\S+)/s);
   }
   say $url_repo;
-  isnt($url_repo,"","El envío incluye un URL");
-  like($url_repo,qr/github.com/,"El URL es de GitHub");
+  isnt($url_repo,"","El envío incluye un URL"); # Test 2
+  like($url_repo,qr/github.com/,"El URL es de GitHub"); # Test 3
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/(.+)/);
 
   # Comprobación de envío de objetivos
   my @ficheros_objetivos = glob "objetivos/*.md";
   my @enviados = map { lc } @ficheros_objetivos;
-  isnt( grep( /$user/, @enviados), 0, "$user ha enviado objetivos" );
+  isnt( grep( /$user/, @enviados), 0, "$user ha enviado objetivos" ); # Test 4
 
   my $repo_dir = "/tmp/$user-$name";
   if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
@@ -51,7 +51,7 @@ SKIP: {
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
 
-  for my $f (qw( README.md \.gitignore LICENSE )) {
+  for my $f (qw( README.md \.gitignore LICENSE )) { # Tests 5-7
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
