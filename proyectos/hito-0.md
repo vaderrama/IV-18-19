@@ -11,7 +11,7 @@ Añade debajo enlaces a tu proyecto
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
-| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV1819) | 0.1 |
+| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.1 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL|[Planificador Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) |1.0|
