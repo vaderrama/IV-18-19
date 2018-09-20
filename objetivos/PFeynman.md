@@ -8,3 +8,4 @@ Objetivos práctica 0
 - [x] Creación y configuración del repositorio del proyecto.
 - [x] Añadir enlace del proyecto al fichero de proyectos.
 - [x] Creación del repositorio de ejercicios.
+- [x] Añadir nombre de Github a la hoja de cálculo.
