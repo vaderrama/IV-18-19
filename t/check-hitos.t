@@ -1,5 +1,7 @@
 # -*- cperl -*-
 
+use lib qw(/usr/lib /usr/local/lib ../lib lib /usr/lib/perl5 /usr/lib/perl /usr/local/lib/perl5 /usr/local/lib/perlr /usr/share/perl5);
+
 use Test::More;
 use Git;
 use LWP::Simple;
@@ -34,6 +36,12 @@ SKIP: {
   isnt($url_repo,"","El envío incluye un URL");
   like($url_repo,qr/github.com/,"El URL es de GitHub");
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/(.+)/);
+
+  # Comprobación de envío de objetivos
+  my @ficheros_objetivos = glob "objetivos/*.md";
+  my @enviados = map { lc } @ficheros_objetivos;
+  isnt( grep( /$user/, @enviados), 0, "$user ha enviado objetivos" );
+
   my $repo_dir = "/tmp/$user-$name";
   if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
     mkdir($repo_dir);
@@ -43,7 +51,7 @@ SKIP: {
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
 
-  for my $f (qw( README.md .gitignore LICENSE )) {
+  for my $f (qw( README.md \.gitignore LICENSE )) {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
