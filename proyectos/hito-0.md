@@ -6,7 +6,7 @@ Añade debajo enlaces a tu proyecto
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALVAREZ CARRASCO, JUAN| | |
-| ARIZA GARCIA, CARLOS| | |
+| ARIZA GARCIA, CARLOS| [Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) | 1.0 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 0.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
 | CALVO VILLAZAN, RUBEN| | |
@@ -52,7 +52,7 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS|[Proyecto](https://github.com/jojelupipa/Proyecto_IV) |0.1|
-| SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/AitorSDL/proyecto-iv-1819) | 1.0 |
+| SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/AitorSDL/proyecto-iv-1819)|1.0|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 0.1 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
 | TORRES ROSEL, PABLO|[Proyecto](https://github.com/pablotr9/proyecto-IV) |0.1|
