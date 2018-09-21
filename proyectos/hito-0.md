@@ -35,7 +35,7 @@ Añade debajo enlaces a tu proyecto
 | MARTIR MORENO, NATALIA MARIA|[ProyectoIV-BOT](https://github.com/natalia2911/ProyectoIV-BOT) |0.1|
 | MARTOS RODRIGUEZ, ANTONIO|[Proyecto-IV](https://github.com/toniMR/Proyecto-IV) |1.0|
 | MAS MESA, IGNACIO | [game-server](https://github.com/cronos2/game-server) | 0.1 |
-| MORENO LOPEZ, JUAN ESTEBAN| | |
+| MORENO LOPEZ, JUAN ESTEBAN|[Proyecto](https://github.com/juaneml/IV_1819_Proyecto) |0.5|
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |0.1|
 | ORDUÑA DIAZ, ADRIAN|[proyectoIV](https://github.com/adriordi/proyectoIV) | 0.1 |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.0|
