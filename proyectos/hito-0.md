@@ -49,7 +49,7 @@ Añade debajo enlaces a tu proyecto
 | RODRIGUEZ MARIN, SERGIO| | |
 | RUIZ LOPEZ, MANUEL| | |
 | SANCHEZ JIMENEZ, DAVID| | |
-| SANCHEZ PALOMINO, ALVARO|[Proyecto](https.//github.com/Alvarosanpal/Proyecto_IV)|1.0|
+| SANCHEZ PALOMINO, ALVARO|[Proyecto](https://github.com/Alvarosanpal/Proyecto_IV)|1.0|
 | SANCHEZ DE LECHINA TEJADA, JESUS|[Proyecto](https://github.com/jojelupipa/Proyecto_IV) |0.1|
 | SARRIONANDIA DE LEÓN, AITOR| | |
 | TALAVERA MENDOZA, FERNANDO RAFAEL| | |
