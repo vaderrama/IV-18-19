@@ -9,8 +9,6 @@ Añade debajo enlaces a tu proyecto
 | ARIZA GARCIA, CARLOS| [Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) | 1.0 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 0.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
-| CALVO VILLAZAN, RUBEN| | |
-| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV1819) | 0.1 |
 | CALVO VILLAZAN, RUBEN| [Proyecto](https://github.com/rubcv/IV-18-19-Proyecto) | 1.0 |
 | CRUZ PEREZ, SERGIO| [Almacen musical DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) |0.1|
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.1 |
