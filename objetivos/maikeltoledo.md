@@ -13,6 +13,6 @@
 
 #### 2º Semana
 - [x] Entregar hito 0.
-- [x] Instalación de Ubuntu Mate limpio para las prácticas.
+- [x] Instalación de Ubuntu Mate limpio para las prácticas
 
 #### 3º Semana
