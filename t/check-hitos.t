@@ -40,7 +40,8 @@ SKIP: {
   # Comprobación de envío de objetivos
   my @ficheros_objetivos = glob "objetivos/*.md";
   my @enviados = map { lc } @ficheros_objetivos;
-  isnt( grep( /$user/, @enviados), 0, "$user ha enviado objetivos" ); # Test 4
+  my $lc_user = lc $user;
+  isnt( grep( /$lc_user/, @enviados), 0, "$user ha enviado objetivos" ); # Test 4
 
   my $repo_dir = "/tmp/$user-$name";
   if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
