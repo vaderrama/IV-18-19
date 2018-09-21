@@ -13,3 +13,4 @@
 * [x] Entender licencias y obtener una.
 * [x] Poner a punto las herramientas.
 * [x] Creación del fichero .gitignore en el proyecto.
+* [x] Tabla de proyecto rellena.
