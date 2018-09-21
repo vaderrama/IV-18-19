@@ -15,7 +15,7 @@ Añade debajo enlaces a tu proyecto
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL|[Planificador Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) |1.0|
-| FLORES GARRIDO, FERNANDO| | |
+| FLORES GARRIDO, FERNANDO| [Proyecto-IV](https://github.com/FFGFER/Proyecto-IV) | 0.1 |
 | FUERTES MORENO, PEDRO LUIS|[API REST en Java](https://github.com/pedroluisfuertes/iv-proyecto)|1.0|
 | GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 1.0 |
 | GARCIA MANCILLA, JAVIER|[Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819.git) |1.0|
@@ -26,10 +26,10 @@ Añade debajo enlaces a tu proyecto
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| [BilltasticJS](https://github.com/alexhzr/BilltasticJS) | 0.9 |
 | HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital-IV) | 1.0 |
 | JALDO RUIZ, JESUS MIGUEL|[Proyecto IV - OWResult](https://github.com/JmZero/Proyecto-IV)|0.1|
-| JIMENEZ ARGUELLO, ANTONIO JOSE| | |
+| JIMENEZ ARGUELLO, ANTONIO JOSE|[ProyectoIV](https://github.com/antonioJ95/ProyectoIV)|0.1|
 | JIMENEZ CAZORLA, MIGUEL|[Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)|1.0|
 | KEMP MUÑOZ, MARCEL| | |
-| LOPEZ CASTRO, JUAN MANUEL| [ProyectoIV](https://github.com/juanmaLC/ProyectoIV)|1.0 |
+| LOPEZ CASTRO, JUAN MANUEL| [ProyectoIV](https://github.com/juanmaLC/ProyectoIV)|1.1 |
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 0.1 |
 | MARTINEZ GARCIA, ANTONIO|[Repositorio](https://github.com/antoniomg89/Project-Z) |0.1|
 | MARTIR MORENO, NATALIA MARIA|[ProyectoIV-BOT](https://github.com/natalia2911/ProyectoIV-BOT) |0.1|
@@ -38,7 +38,7 @@ Añade debajo enlaces a tu proyecto
 | MOLINERO CASTILLO, JONATHAN| | |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |0.1|
-| ORDUÑA DIAZ, ADRIAN| | |
+| ORDUÑA DIAZ, ADRIAN|[proyectoIV](https://github.com/adriordi/proyectoIV) | 0.1 |
 | OSORIO GIRALDEZ, OSCAR| | |
 | PASTORINI , TATIANA DANIELA| | |
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 1.1|
