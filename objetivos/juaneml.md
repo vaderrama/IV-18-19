@@ -1,7 +1,7 @@
 # Fichero objetivos
 Juan Esteban Moreno López
 - [x] -Entendida la creación de ficheros.
-- [x] -Fork repositorio de la asignatura IV-18-19.[Fork repositorio IV](https://github.com/juaneml/IV-18-19)
+- [x] -Fork repositorio de la asignatura IV-18-19. [Fork repositorio IV](https://github.com/juaneml/IV-18-19)
 - [x] -Creación repositorio proyecto. [Repositorio Proyecto](https://github.com/juaneml/IV_1819_Proyecto)
 - [x] -Creación repositorio ejercicios. [Ejercicios](https://github.com/juaneml/Ejercicios-IV)
 - [x] -Entender la metodología docente, de evaluación y de interacción de la asignatura.
