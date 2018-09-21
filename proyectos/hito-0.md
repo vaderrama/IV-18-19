@@ -12,7 +12,7 @@ Añade debajo enlaces a tu proyecto
 | CALVO VILLAZAN, RUBEN| | |
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV1819) | 0.1 |
 | CALVO VILLAZAN, RUBEN| [Proyecto](https://github.com/rubcv/IV-18-19-Proyecto) | 1.0 |
-| CRUZ PEREZ, SERGIO| [Almacén musical DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) | 0.1 |
+| CRUZ PEREZ, SERGIO| [Almacen musical DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) |0.1|
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.1 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
