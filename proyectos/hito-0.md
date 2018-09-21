@@ -9,17 +9,11 @@ Añade debajo enlaces a tu proyecto
 | ARIZA GARCIA, CARLOS| [Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) | 1.0 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 0.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
-<<<<<<< HEAD
 | CALVO VILLAZAN, RUBEN| | |
-<<<<<<< HEAD
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV1819) | 0.1 |
-=======
-=======
 | CALVO VILLAZAN, RUBEN| [Proyecto](https://github.com/rubcv/IV-18-19-Proyecto) | 1.0 |
->>>>>>> f74485a8353b10632695e6e49a2628abbe46f153
 | CRUZ PEREZ, SERGIO| [Almacén musical DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) | 0.1 |
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.1 |
->>>>>>> 960697a6828417a42003e2f58922fc9064597f0f
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL|[Planificador Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) |1.0|
