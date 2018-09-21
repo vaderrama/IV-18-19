@@ -35,12 +35,10 @@ Añade debajo enlaces a tu proyecto
 | MARTIR MORENO, NATALIA MARIA|[ProyectoIV-BOT](https://github.com/natalia2911/ProyectoIV-BOT) |0.1|
 | MARTOS RODRIGUEZ, ANTONIO|[Proyecto-IV](https://github.com/toniMR/Proyecto-IV) |1.0|
 | MAS MESA, IGNACIO | [game-server](https://github.com/cronos2/game-server) | 0.1 |
-| MOLINERO CASTILLO, JONATHAN| | |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |0.1|
 | ORDUÑA DIAZ, ADRIAN|[proyectoIV](https://github.com/adriordi/proyectoIV) | 0.1 |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.0|
-| PASTORINI , TATIANA DANIELA| | |
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 1.1|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV) | 1.0 |
 | PRALEA , MARICICA| | |
