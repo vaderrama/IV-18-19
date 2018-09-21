@@ -27,4 +27,4 @@ en esta asignatura.
 - [x] Licencia (GNU GPLv3), readme y gitignore añadidos en todos estos
   repositorios. 
 - [x] Fichero para los objetivos creado *(espero que)* [aquí](https://github.com/JJ/IV-18-19/blob/master/objetivos/jojelupipa.md).
-- [ ] Crear web del proyecto
+- [x] Crear [web del proyecto](https://jojelupipa.github.io/Proyecto_IV/)

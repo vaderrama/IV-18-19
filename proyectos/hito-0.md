@@ -15,7 +15,7 @@ Añade debajo enlaces a tu proyecto
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL|[Planificador Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) |1.0|
-| FLORES GARRIDO, FERNANDO| [Proyecto-IV](https://github.com/FFGFER/Proyecto-IV) | 0.1 |
+| FLORES GARRIDO, FERNANDO| [Tienda-Videojuegos](https://github.com/FFGFER/Proyecto-IV) | 0.1 |
 | FUERTES MORENO, PEDRO LUIS|[API REST en Java](https://github.com/pedroluisfuertes/iv-proyecto)|1.0|
 | GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 1.0 |
 | GARCIA MANCILLA, JAVIER|[Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819.git) |1.0|
@@ -39,7 +39,7 @@ Añade debajo enlaces a tu proyecto
 | MORENO LOPEZ, JUAN ESTEBAN| | |
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |0.1|
 | ORDUÑA DIAZ, ADRIAN|[proyectoIV](https://github.com/adriordi/proyectoIV) | 0.1 |
-| OSORIO GIRALDEZ, OSCAR| | |
+| OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.0|
 | PASTORINI , TATIANA DANIELA| | |
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 1.1|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV) | 1.0 |
@@ -50,12 +50,12 @@ Añade debajo enlaces a tu proyecto
 | RODRIGUEZ MARIN, SERGIO| | |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1 |
 | SANCHEZ JIMENEZ, DAVID| | |
-| SANCHEZ PALOMINO, ALVARO| | |
+| SANCHEZ PALOMINO, ALVARO|[Proyecto](https://github.com/Alvarosanpal/Proyecto_IV)|1.0|
 | SANCHEZ DE LECHINA TEJADA, JESUS|[Proyecto](https://github.com/jojelupipa/Proyecto_IV) |0.1|
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/AitorSDL/proyecto-iv-1819)|1.0|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 0.1 |
-| TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
+| TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) | 0.1 |
 | TORRES ROSEL, PABLO|[Proyecto](https://github.com/pablotr9/proyecto-IV) |0.1|
 | UCEDA MORENO, ALEJANDRO| | |
-| VALENZUELA GARCIA, JORGE| | |
+| VALENZUELA GARCIA, JORGE| [Proyecto](https://github.com/Jovalga/ProyectoIV) | 0.1 |
 | VIÑAS RODRIGUEZ, JOSE MARIA |[Proyecto](https://github.com/joseviro/ProyectoTPV)|1.0|
