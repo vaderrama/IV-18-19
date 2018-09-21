@@ -5,13 +5,8 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-<<<<<<< HEAD
 | ALVAREZ CARRASCO, JUAN|[Proyecto](https://github.com/vaderrama/Proyecto-IV) | 1.0 |
-| ARIZA GARCIA, CARLOS| | |
-=======
-| ALVAREZ CARRASCO, JUAN| | |
 | ARIZA GARCIA, CARLOS| [Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) | 1.0 |
->>>>>>> upstream/master
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 0.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
 | CALVO VILLAZAN, RUBEN| | |
