@@ -10,4 +10,11 @@
 -   [x] Configurar git  
 -   [x] Poner a punto las herramientas  
 -   [x] Enviar fichero de objetivos al repositorio del JJ
--   [ ] Rellenar hoja de calculo
+
+#### Semana 2
+
+-   [x] Rellenar hoja de calculo
+-   [x] Lectura del tema 1
+-   [ ] [Ejercicios del tema 1](https://github.com/AGCarlos/IV_1819_Ejercicios/blob/master/Tema1.md) (En proceso)
+-   [x] Agregar nick en fichero de notas de Google Drive
+-   [x] Agregar proyecto a la tabla
