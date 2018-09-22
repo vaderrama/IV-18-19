@@ -45,7 +45,7 @@ Añade debajo enlaces a tu proyecto
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS|[ProyectoIV](https://github.com/jcpulido97/ProyectoIV) | 1.0 |
 | REY PEDROSA, PABLO|[Proyecto IV](https://github.com/PFeynman/proyecto-iv) |0.1 |
-| RODRIGUEZ MARIN, SERGIO| | |
+| RODRIGUEZ MARIN, SERGIO|[Proyecto](https://github.com/pavocejudo/ProyectoIV) |0.1 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1 |
 | SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/ProyectoIV) | 0.1 |
 | SANCHEZ PALOMINO, ALVARO|[Proyecto](https://github.com/Alvarosanpal/Proyecto_IV)|1.0|
