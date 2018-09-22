@@ -1,5 +1,14 @@
 # Tercera semana, 24 de septiembre
 
+Esta semana es el hackatón
+en
+[dos](https://www.meetup.com/es-ES/Granada-Geek/events/254608936/) [partes](https://www.meetup.com/es-ES/Granada-Geek/events/254608969/). Conviene
+que participéis para encaminar el proyecto que se irá desarrollando en
+la
+asignatura. También
+[el viernes](https://www.meetup.com/es-ES/Granada-Geek/events/254909910/) se
+dará un taller de git más avanzado, con algunas de las cosas que se
+usarán en el primer hito.
 
 ## Objetivos de la semana
 
