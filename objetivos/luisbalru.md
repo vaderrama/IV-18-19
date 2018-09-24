@@ -12,4 +12,11 @@
 - [x] Iniciación a conceptos fundamentales relacionados con la virtualización a través de los [apuntes de Cloud computing](https://jj.github.io/cloud-computing/), y los artículos siguientes:
 	- [Choudhary, Vipin. (2018). Cloud Computing and its Applications: A Review. International Journal of Emerging Trends & Technology in Computer Science. 5. 20-27. ](https://www.researchgate.net/publication/325359863_Cloud_Computing_and_its_Applications_A_Review)
 	- [Fernández, Alberto & Río, Sara & Herrera, Francisco & Benítez, José. (2013). An Overview on the Structure and Applications for Business Intelligence and Data Mining in Cloud Computing. Advances in Intelligent Systems and Computing. 172. 10.1007/978-3-642-30867-3_50. ](https://www.researchgate.net/publication/266484765_An_Overview_on_the_Structure_and_Applications_for_Business_Intelligence_and_Data_Mining_in_Cloud_Computing)
-- [x] Comprendo las técnicas de coste de amortización de un equipo informático y de su uso. [Ejercicio 1]()
+- [x] Comprendo las técnicas de coste de amortización de un equipo informático y de su uso. [Ejercicio 1](https://gist.github.com/luisbalru/9f1d1ad31836b2bbf053ce7b14054855)
+- [x] Comprendo el concepto de X as a service gracias al siguiente artículo de [TechTarget](https://searchcloudcomputing.techtarget.com/definition/XaaS-anything-as-a-service)
+- [x] Entiendo qué implica diseñar un proyecto como el de la asignatura (asistencia al Hackaton de microservicios):
+- [x] Comprendo los niveles de virtualización y sus denominaciones genéricas
+- [x] Entiendo el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Comprobado que mi ordenador habitual lo usa:
+	- [Ejercicio 3](https://gist.github.com/luisbalru/d68b1aae91cbf3bfb4e0b30c246851c2) (Sin terminar)
+	- [Ejercicio 4](https://gist.github.com/luisbalru/d8a288a20d60418089113ac7db84f0a0)
+	
