@@ -9,8 +9,8 @@ Añade debajo enlaces a tu proyecto
 | ARIZA GARCIA, CARLOS| [Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) | 1.0 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 0.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
-| CALVO VILLAZAN, RUBEN| | |
-| CRUZ PEREZ, SERGIO| | |
+| CALVO VILLAZAN, RUBEN| [Proyecto](https://github.com/rubcv/IV-18-19-Proyecto) | 1.0 |
+| CRUZ PEREZ, SERGIO| [Almacen musical DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) |0.1|
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.1 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
@@ -35,19 +35,17 @@ Añade debajo enlaces a tu proyecto
 | MARTIR MORENO, NATALIA MARIA|[ProyectoIV-BOT](https://github.com/natalia2911/ProyectoIV-BOT) |0.1|
 | MARTOS RODRIGUEZ, ANTONIO|[Proyecto-IV](https://github.com/toniMR/Proyecto-IV) |1.0|
 | MAS MESA, IGNACIO | [game-server](https://github.com/cronos2/game-server) | 0.1 |
-| MOLINERO CASTILLO, JONATHAN| | |
-| MORENO LOPEZ, JUAN ESTEBAN| | |
+| MORENO LOPEZ, JUAN ESTEBAN|[Proyecto](https://github.com/juaneml/IV_1819_Proyecto) |0.5|
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |0.1|
 | ORDUÑA DIAZ, ADRIAN|[proyectoIV](https://github.com/adriordi/proyectoIV) | 0.1 |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.0|
-| PASTORINI , TATIANA DANIELA| | |
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 1.1|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV) | 1.0 |
-| PRALEA , MARICICA| | |
+| PRALEA , MARICICA|[Proyecto_IV](https://github.com/maricicaP/Proyecto_IV) | 0.1 |
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS|[ProyectoIV](https://github.com/jcpulido97/ProyectoIV) | 1.0 |
 | REY PEDROSA, PABLO|[Proyecto IV](https://github.com/PFeynman/proyecto-iv) |0.1 |
-| RODRIGUEZ MARIN, SERGIO| | |
+| RODRIGUEZ MARIN, SERGIO|[Proyecto](https://github.com/pavocejudo/ProyectoIV) |0.1 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1 |
 | SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/ProyectoIV) | 0.1 |
 | SANCHEZ PALOMINO, ALVARO|[Proyecto](https://github.com/Alvarosanpal/Proyecto_IV)|1.0|
