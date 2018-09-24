@@ -53,7 +53,7 @@ usarán en el primer hito.
 
 * *Teoría*: [Desarrollo basado en pruebas (TDD)](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas)
 
-* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura). Plazo para la entrega de este primer hito: **13:30 del 1 de octubre de 2018**. 
+* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura). Plazo para la entrega de este primer hito: **13:30 del 1 de octubre de 2018**. 
 
 ## Siguiente semana
 
