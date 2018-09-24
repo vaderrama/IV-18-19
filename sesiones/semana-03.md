@@ -28,7 +28,7 @@ usarán en el primer hito.
 * Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
 
 * Entender lo que se pide en el 
-  [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
+  [primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura)
   al final de la semana y entregarlo al principio de la semana siguiente.
 
 * Entender el formato JSON y su importancia para ficheros de
