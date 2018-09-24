@@ -1,4 +1,4 @@
-##**Objetivos práctica 0**
+## Objetivos práctica 0
 
 - [x] Uso de Markdown.
 - [x] Repositorio creado con mi [proyecto](https://github.com/luisbalru/TwitterLocationFlow)
@@ -7,7 +7,7 @@
 - [x] Entendiendo SCRUM gracias a [proyectos ágiles](https://proyectosagiles.org/que-es-scrum/)
 - [x] Creado una [Github Page](https://luisbalru.github.io/TwitterLocationFlow/) para mi proyecto.
 
-##**Objetivos Semana del 17-9**
+## Objetivos Semana del 17-9
 
 - [x] Iniciación a conceptos fundamentales relacionados con la virtualización a través de los [apuntes de Cloud computing](https://jj.github.io/cloud-computing/), y los artículos siguientes:
 	- [Choudhary, Vipin. (2018). Cloud Computing and its Applications: A Review. International Journal of Emerging Trends & Technology in Computer Science. 5. 20-27. ](https://www.researchgate.net/publication/325359863_Cloud_Computing_and_its_Applications_A_Review)
@@ -20,3 +20,37 @@
 	- [Ejercicio 3](https://gist.github.com/luisbalru/d68b1aae91cbf3bfb4e0b30c246851c2) (Sin terminar)
 	- [Ejercicio 4](https://gist.github.com/luisbalru/d8a288a20d60418089113ac7db84f0a0)
 	
+## Objetivos de la semana del 24/9
+
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de IV
+- [ ] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [ ]  Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+- [x] Entender qué son los objetivos y cómo hacerlos correctamente.
+- [x] Sin problemas en el hito cero.
+- [ ] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+- [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [ ] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
+- [ ] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [ ] Comprender el papel de las build tools o herramientas de automatización.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
