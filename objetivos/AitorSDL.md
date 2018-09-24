@@ -26,3 +26,13 @@
 ✓ Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 
 ✓ Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+
+
+
+# Objetivos tercera semana
+
+✗ Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+✓ Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+
+✗ Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
