@@ -7,6 +7,7 @@
 - [x] Realizado el fork al repositorio del profesor.
 - [x] Actualizar hoja de calculo con nick de Github
 - [x] Añadir licencias y .gitignore
+- [x] Configurar la clave pública y privada con SSH
 
 
 
