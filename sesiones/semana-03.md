@@ -15,7 +15,7 @@ usarán en el primer hito.
 2. Comprender cómo las pruebas de software encajan dentro del concepto
    de infraestructura virtual.
 
-3. Usar los entornos virtuales de desarrollo en diferentes lenguajes de
+3. Usar los gestores de versiones en diferentes lenguajes de
   programación y entender su utilidad.
 
 4. Entender los ficheros de *requisitos* y su utilidad en las
