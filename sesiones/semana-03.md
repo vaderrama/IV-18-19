@@ -15,7 +15,7 @@ usarán en el primer hito.
 2. Comprender cómo las pruebas de software encajan dentro del concepto
    de infraestructura virtual.
 
-3. Usar los entornos virtuales de desarrollo en diferentes lenguajes de
+3. Usar los gestores de versiones en diferentes lenguajes de
   programación y entender su utilidad.
 
 4. Entender los ficheros de *requisitos* y su utilidad en las
@@ -23,8 +23,12 @@ usarán en el primer hito.
 
 ## Otros objetivos
 
+* Entender qué son los objetivos y cómo hacerlos correctamente.
+
+* Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
+
 * Entender lo que se pide en el 
-  [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
+  [primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura)
   al final de la semana y entregarlo al principio de la semana siguiente.
 
 * Entender el formato JSON y su importancia para ficheros de
@@ -49,7 +53,7 @@ usarán en el primer hito.
 
 * *Teoría*: [Desarrollo basado en pruebas (TDD)](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas)
 
-* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura). Plazo para la entrega de este primer hito: **13:30 del 1 de octubre de 2018**. 
+* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura). Plazo para la entrega de este primer hito: **13:30 del 1 de octubre de 2018**. 
 
 ## Siguiente semana
 

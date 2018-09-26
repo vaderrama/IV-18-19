@@ -5,7 +5,7 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| ALARCON CUADROS, SAMUEL| | |
+| ALARCON CUADROS, SAMUEL|[Pozyx-localizacion-interiores](https://github.com/kaizensamuel/Pozyx-localizacion-interiores) | 1.0 |
 | ALVAREZ CARRASCO, JUAN|[Proyecto](https://github.com/vaderrama/Proyecto-IV) | 1.0 |
 | ARIZA GARCIA, CARLOS| [Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) | 1.0 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 0.1 |
@@ -42,7 +42,7 @@ Añade debajo enlaces a tu proyecto
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.0|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 1.1|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV) | 1.0 |
-| PRALEA , MARICICA|[Proyecto_IV](https://github.com/maricicaP/Proyecto_IV) | 0.1 |
+| PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS|[ProyectoIV](https://github.com/jcpulido97/ProyectoIV) | 1.0 |
 | REY PEDROSA, PABLO|[Proyecto IV](https://github.com/PFeynman/proyecto-iv) |0.1 |
