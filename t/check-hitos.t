@@ -199,7 +199,7 @@ sub fail_x {
 
 sub get_github {
   my $url = shift;
-  my $response = $ua->get($url);
-  die "No pude descargar la página" if !$response->result->body;
-  return $response->result->body;
+  my $page = `curl $url`;
+  die "No pude descargar la página" if !$page;
+  return $page;
 }
