@@ -17,7 +17,7 @@
 - [x] Entiendo qué implica diseñar un proyecto como el de la asignatura (asistencia al Hackaton de microservicios):
 - [x] Comprendo los niveles de virtualización y sus denominaciones genéricas
 - [x] Entiendo el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Comprobado que mi ordenador habitual lo usa:
-	- [Ejercicio 3](https://gist.github.com/luisbalru/d68b1aae91cbf3bfb4e0b30c246851c2) (Sin terminar)
+	- [Ejercicio 3](https://gist.github.com/luisbalru/d68b1aae91cbf3bfb4e0b30c246851c2)
 	- [Ejercicio 4](https://gist.github.com/luisbalru/d8a288a20d60418089113ac7db84f0a0)
 	
 ## Objetivos de la semana del 24/9
