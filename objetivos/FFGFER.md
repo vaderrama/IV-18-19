@@ -8,5 +8,5 @@
 - [x] Hacer un fork al repositorio de la asignatura.
 - [x] Asignar una licencia al repositorio del proyecto.
 - [x] Crear archivo de objetivos y subirlo al repositorio de la asignatura.
-- [ ] Definir funcionalidad del proyecto.
+- [x] Definir funcionalidad del proyecto.
 - [x] Añadir el repositorio de mi proyecto al listado de proyectos que hay en el repositorio de la asignatura.

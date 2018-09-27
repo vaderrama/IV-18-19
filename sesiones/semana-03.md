@@ -1,12 +1,21 @@
 # Tercera semana, 24 de septiembre
 
+Esta semana es el hackatón
+en
+[dos](https://www.meetup.com/es-ES/Granada-Geek/events/254608936/) [partes](https://www.meetup.com/es-ES/Granada-Geek/events/254608969/). Conviene
+que participéis para encaminar el proyecto que se irá desarrollando en
+la
+asignatura. También
+[el viernes](https://www.meetup.com/es-ES/Granada-Geek/events/254909910/) se
+dará un taller de git más avanzado, con algunas de las cosas que se
+usarán en el primer hito.
 
 ## Objetivos de la semana
 
 2. Comprender cómo las pruebas de software encajan dentro del concepto
    de infraestructura virtual.
 
-3. Usar los entornos virtuales de desarrollo en diferentes lenguajes de
+3. Usar los gestores de versiones en diferentes lenguajes de
   programación y entender su utilidad.
 
 4. Entender los ficheros de *requisitos* y su utilidad en las
@@ -14,8 +23,12 @@
 
 ## Otros objetivos
 
+* Entender qué son los objetivos y cómo hacerlos correctamente.
+
+* Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
+
 * Entender lo que se pide en el 
-  [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
+  [primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura)
   al final de la semana y entregarlo al principio de la semana siguiente.
 
 * Entender el formato JSON y su importancia para ficheros de
@@ -40,7 +53,7 @@
 
 * *Teoría*: [Desarrollo basado en pruebas (TDD)](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas)
 
-* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura). Plazo para la entrega de este primer hito: **13:30 del 1 de octubre de 2018**. 
+* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura). Plazo para la entrega de este primer hito: **13:30 del 1 de octubre de 2018**. 
 
 ## Siguiente semana
 
