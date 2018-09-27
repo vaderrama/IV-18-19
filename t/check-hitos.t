@@ -4,7 +4,7 @@ use lib qw(/usr/lib /usr/local/lib ../lib lib /usr/lib/perl5 /usr/lib/perl /usr/
 
 use Test::More;
 use Git;
-use LWP::UserAgent;
+use Mojo::UserAgent;
 use File::Slurper qw(read_text);
 use JSON;
 use Net::Ping;
@@ -15,7 +15,7 @@ use v5.14; # For say
 my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD^1','HEAD');
 my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
-my $ua =  LWP::UserAgent->new( agent => 'IV-GitHub-scraper/0.1');
+my $ua =  Mojo::UserAgent->new;
 my $github;
 
 SKIP: {
@@ -201,7 +201,7 @@ sub fail_x {
 
 sub get_github {
   my $url = shift;
-  my $page = `wget -qO- $url`;
-  die "No pude descargar la página" if !$page;
-  return $page;
+  my $response = $ua->get($url);
+  die "No pude descargar la página" if !$response->result->body;
+  return $response->result->body;
 }
