@@ -49,7 +49,7 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS| | |
-| SARRIONANDIA DE LEÓN, AITOR|[Tienda de ropa](https://github.com/aitorSDL/proyecto-iv-1819)|1.1|
+| SARRIONANDIA DE LEÓN, AITOR|[Tienda de ropa](https://github.com/aitorSDL/proyecto-iv-1819)|1.0|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| | |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
 | TORRES ROSEL, PABLO| | |
