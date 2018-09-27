@@ -1,7 +1,7 @@
 # Objetivos IV Juan Alvarez
 
 
-##Tercera Semana
+## Tercera Semana
 
 - [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [X] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
@@ -15,7 +15,7 @@
 - [X] Comprender el papel de las build tools o herramientas de automatización.
 
 
-##Segunda Semana
+## Segunda Semana
 
 - [X] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 - [X] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
@@ -24,7 +24,7 @@
 - [X] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 - [X] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
-##Primera Semana
+## Primera Semana
 ### Hito 0
 - [X] Creación de un par de claves y subida de clave pública a GitHub.
 - [X] Configuración correcta de Git
