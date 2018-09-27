@@ -31,8 +31,8 @@
 
 # Objetivos tercera semana
 
-✗ Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+✓ Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 
 ✓ Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
 
-✗ Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+✓ Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
