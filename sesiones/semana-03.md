@@ -40,7 +40,7 @@ usarán en el primer hito.
   otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
 
 * Comprender la utilidad de la virtualización y definición en un
-  fichero de herramientas de desarrollo.
+  fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
   
 * Instalar las herramientas necesarias para crear y aplicar tests en
   un proyecto.
