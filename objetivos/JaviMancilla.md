@@ -29,7 +29,7 @@
 de los sistemas opertavos. Saber si el ordenador habitual lo usa.
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura. 
-- [] Actualizar la descripción del proyecto, añadiendo mas características. 
+- [x] Actualizar la descripción del proyecto, añadiendo mas características. 
 
 
 
