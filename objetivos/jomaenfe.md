@@ -16,7 +16,7 @@
 
 ### Sesión 2:
 
-- [] Actualizar la descripción del proyecto.
+- [X] Actualizar la descripción del proyecto.
 - [X] [Ejercicios](https://github.com/jomaenfe/Ejercicios-IV1819) de la introduccion entregados.   
 - [X] Tener superado el hito 0.
 - [X] Entender los conceptos fundamentales relacionados con la virtualización.
