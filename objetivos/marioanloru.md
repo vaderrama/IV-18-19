@@ -21,8 +21,8 @@ Objetivos Infraestructura Virtual
 - [x] Manejo y creación de *milestones* en Github
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación, en mi caso: Node.js
-- [ ] Comprender la utilidad de la virtualización y definición de un fichero de herramientas de desarrollo
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto
+- [x] Comprender la utilidad de la virtualización y definición de un fichero de herramientas de desarrollo
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto
 - [x] Comprender el papel de las *build tools* o herramienta de automatización
 - [ ] Realizar y entregar ejercicios del tema 1
 
