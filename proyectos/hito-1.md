@@ -5,9 +5,9 @@ Añade debajo enlaces a tu proyecto
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALVAREZ CARRASCO, JUAN| | |
-| ARIZA GARCIA, CARLOS| | |
+| ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.1 |
 | BALDERAS RUIZ, LUIS| | |
-| CABRERA GONZALEZ, MARIA MATILDE| | |
+| CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.3 |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| | |
@@ -50,7 +50,7 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS| | |
 | SARRIONANDIA DE LEÓN, AITOR| | |
-| TALAVERA MENDOZA, FERNANDO RAFAEL| | |
+| TALAVERA MENDOZA, FERNANDO RAFAEL| [CloudyCloud](https://github.com/Thejokeri/IV-18-19-Proyecto) | 0.2 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) |0.2|
 | TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
