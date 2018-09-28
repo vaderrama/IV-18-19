@@ -17,11 +17,11 @@ Añade debajo enlaces a tu proyecto
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| | |
-| GARCIA MANCILLA, JAVIER| | |
+| GARCIA MANCILLA, JAVIER| [Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819.git) | 1.0 |
 | GOMEZ MARTIN, ANGEL| | |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
-| GUTIERREZ SEGOVIA, JORGE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.3 |
+| GUTIERREZ SEGOVIA, JORGE|[BirthBot](https://github.com/Saytes/BirthBot.git)|1.1|
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO| | |
 | JALDO RUIZ, JESUS MIGUEL| | |
