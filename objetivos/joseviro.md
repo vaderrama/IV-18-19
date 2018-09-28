@@ -14,7 +14,7 @@ Objetivos primera sesión
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección. Realizado gracias al [ejercicio 2](https://github.com/joseviro/ejercicios/blob/master/tema1/ejercicio2/Ejercicio2.md) del tema 1.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
-- [] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual. Aportación a este [repositorio](https://github.com/JJ/tdd-gdg)
 
 - [] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 
@@ -29,7 +29,7 @@ Objetivos primera sesión
 
 - [] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 
-- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos. Aprendido gracias videos de youtube.
 
 - [] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
 
