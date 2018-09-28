@@ -55,4 +55,4 @@ Añade debajo enlaces a tu proyecto
 | TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
-| VIÑAS RODRIGUEZ, JOSE MARIA | [repositorio](https://github.com/joseviro/ProyectoTPV) | 1.1 |
+| VIÑAS RODRIGUEZ, JOSE MARIA | | |
