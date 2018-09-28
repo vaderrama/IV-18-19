@@ -30,6 +30,3 @@ recurso.
 
 Objetivos de la semana del 24 de septiembre
 ============================
-
-- [x] Realizado el hito 1.
-- [x] Varios fallos corregidos.
