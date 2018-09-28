@@ -31,11 +31,11 @@
 
 * [ ] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
   
-* [ ] Entender qué son los objetivos y cómo hacerlos correctamente.
+* [x] Entender qué son los objetivos y cómo hacerlos correctamente.
   
 * [ ] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
   
-* [ ] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+* [x] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 
 * [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 
