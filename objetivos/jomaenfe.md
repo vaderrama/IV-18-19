@@ -14,6 +14,13 @@
 
 - [X] Enviar el fichero de objetivos al repositorio del profesor.
 
+### Sesión 2:
 
-
-
+- [] Actualizar la descripción del proyecto.
+- [X] [Ejercicios](https://github.com/jomaenfe/Ejercicios-IV1819) de la introduccion entregados.   
+- [X] Tener superado el hito 0.
+- [X] Entender los conceptos fundamentales relacionados con la virtualización.
+- [X] Conocer las tecnicas de calculo del coste de amortización de un equipo informático.
+- [X] Entender el soporte de hardware de las técnicas de virtualización.
+- [X] Comprender los distintos niveles de virtualización.
+- [X] Entender que implica diseñar un proyecto que se irá elaborando durante la asignatura.
