@@ -13,15 +13,15 @@ Añade debajo enlaces a tu proyecto
 | DEL RIO AGUILAR, ALBERTO| | |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
-| ENRIQUEZ FERNANDEZ, JOSE MANUEL| | |
+| ENRIQUEZ FERNANDEZ, JOSE MANUEL|[Planificador Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.1 |
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| | |
-| GARCIA MANCILLA, JAVIER| | |
+| GARCIA MANCILLA, JAVIER| [Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819.git) | 1.0 |
 | GOMEZ MARTIN, ANGEL| | |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
-| GUTIERREZ SEGOVIA, JORGE| | |
+| GUTIERREZ SEGOVIA, JORGE|[BirthBot](https://github.com/Saytes/BirthBot.git)|1.1|
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO| | |
 | JALDO RUIZ, JESUS MIGUEL| | |
