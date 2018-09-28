@@ -15,7 +15,7 @@ usarán en el primer hito.
 2. Comprender cómo las pruebas de software encajan dentro del concepto
    de infraestructura virtual.
 
-3. Usar los entornos virtuales de desarrollo en diferentes lenguajes de
+3. Usar los gestores de versiones en diferentes lenguajes de
   programación y entender su utilidad.
 
 4. Entender los ficheros de *requisitos* y su utilidad en las
@@ -40,7 +40,7 @@ usarán en el primer hito.
   otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
 
 * Comprender la utilidad de la virtualización y definición en un
-  fichero de herramientas de desarrollo.
+  fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
   
 * Instalar las herramientas necesarias para crear y aplicar tests en
   un proyecto.
