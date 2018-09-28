@@ -30,3 +30,7 @@ recurso.
 
 Objetivos de la semana del 24 de septiembre
 ============================
+
+- [x] Realizadas pruebas de integración continua (pytests).
+- [x] Vistas las virtudes en el uso de entornos virtuales de desarrollo.
+- [x] Realizados los primeros ejercicios de la semana.
