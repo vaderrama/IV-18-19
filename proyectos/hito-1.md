@@ -21,7 +21,7 @@ Añade debajo enlaces a tu proyecto
 | GOMEZ MARTIN, ANGEL| | |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
-| GUTIERREZ SEGOVIA, JORGE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.3 |
+| GUTIERREZ SEGOVIA, JORGE| | |
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO| | |
 | JALDO RUIZ, JESUS MIGUEL| | |
