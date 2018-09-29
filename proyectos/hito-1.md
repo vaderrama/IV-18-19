@@ -30,8 +30,8 @@ Añade debajo enlaces a tu proyecto
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL| | |
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 0.1 |
-| MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 0.1 |
-| MARTIR MORENO, NATALIA MARIA| | |
+| MARTINEZ GARCIA, ANTONIO| | |
+| MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT) |1.0 |
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | | |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
@@ -49,10 +49,10 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS| | |
-| SARRIONANDIA DE LEÓN, AITOR| | |
+| SARRIONANDIA DE LEÓN, AITOR|[Tienda de ropa](https://github.com/aitorSDL/proyecto-iv-1819) |1.1|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [CloudyCloud](https://github.com/Thejokeri/IV-18-19-Proyecto) | 0.2 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) |0.2|
 | TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
-| VIÑAS RODRIGUEZ, JOSE MARIA | | |
+| VIÑAS RODRIGUEZ, JOSE MARIA | [proyecto](https://github.com/joseviro/ProyectoTPV) | 1.1 |
