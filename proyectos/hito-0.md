@@ -48,7 +48,7 @@ Añade debajo enlaces a tu proyecto
 | REY PEDROSA, PABLO|[Proyecto IV](https://github.com/PFeynman/proyecto-iv) |0.1 |
 | RODRIGUEZ MARIN, SERGIO|[Proyecto](https://github.com/pavocejudo/ProyectoIV) |0.1 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1 |
-| SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/ProyectoIV) | 0.1 |
+| SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/Weather_App) | 0.1 |
 | SANCHEZ PALOMINO, ALVARO|[Proyecto](https://github.com/Alvarosanpal/Proyecto_IV)|1.0|
 | SANCHEZ DE LECHINA TEJADA, JESUS|[Proyecto](https://github.com/jojelupipa/Proyecto_IV) |0.1|
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/AitorSDL/proyecto-iv-1819)|1.0|
