@@ -34,7 +34,7 @@ SKIP: {
   say $url_repo;
   isnt($url_repo,"","El envío incluye un URL"); # Test 2
   like($url_repo,qr/github.com/,"El URL es de GitHub"); # Test 3
-  my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/(.+)/);
+  my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/([^\.]+)/);
 
   # Comprobación de envío de objetivos
   my @ficheros_objetivos = glob "objetivos/*.md";
