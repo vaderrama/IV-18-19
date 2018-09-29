@@ -18,7 +18,7 @@ usarán en el primer hito.
 3. Usar los gestores de versiones en diferentes lenguajes de
   programación y entender su utilidad.
 
-4. Entender los ficheros de *requisitos* y su utilidad en las
+4. Entender los ficheros de *requisitos* o *dependencias* y su utilidad en las
   infraestructuras virtuales. 
 
 ## Otros objetivos
