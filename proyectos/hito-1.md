@@ -6,7 +6,7 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALVAREZ CARRASCO, JUAN| | |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.1 |
-| BALDERAS RUIZ, LUIS| | |
+| BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 1.3.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.3 |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
@@ -18,7 +18,7 @@ Añade debajo enlaces a tu proyecto
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| | |
 | GARCIA MANCILLA, JAVIER| [Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819.git) | 1.0 |
-| GOMEZ MARTIN, ANGEL| | |
+| GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer.git) | 1.1 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE|[BirthBot](https://github.com/Saytes/BirthBot.git)|1.1|
