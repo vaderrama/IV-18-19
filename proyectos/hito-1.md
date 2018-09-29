@@ -46,7 +46,7 @@ Añade debajo enlaces a tu proyecto
 | REY PEDROSA, PABLO| | |
 | RODRIGUEZ MARIN, SERGIO| | |
 | RUIZ LOPEZ, MANUEL | | |
-| SANCHEZ JIMENEZ, DAVID| | |
+| SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/Weather_App) | 0.2 |
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS| | |
 | SARRIONANDIA DE LEÓN, AITOR|[Tienda de ropa](https://github.com/aitorSDL/proyecto-iv-1819) |1.1|
