@@ -17,7 +17,7 @@
 - [x] Entiendo qué implica diseñar un proyecto como el de la asignatura (asistencia al Hackaton de microservicios):
 - [x] Comprendo los niveles de virtualización y sus denominaciones genéricas
 - [x] Entiendo el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Comprobado que mi ordenador habitual lo usa:
-	- [Ejercicio 3](https://gist.github.com/luisbalru/d68b1aae91cbf3bfb4e0b30c246851c2) (Sin terminar)
+	- [Ejercicio 3](https://gist.github.com/luisbalru/d68b1aae91cbf3bfb4e0b30c246851c2)
 	- [Ejercicio 4](https://gist.github.com/luisbalru/d8a288a20d60418089113ac7db84f0a0)
 	
 ## Objetivos de la semana del 24/9
@@ -30,7 +30,7 @@
 - [ ] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
-- [ ] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+- [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
 - [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [x] Comprender el papel de las build tools o herramientas de automatización. Vease:
 	- [Artículo en Stack Overflow](https://stackoverflow.com/questions/7249871/what-is-a-build-tool).

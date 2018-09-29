@@ -1,10 +1,8 @@
 # -*- cperl -*-
 
-use lib qw(/usr/lib /usr/local/lib ../lib lib /usr/lib/perl5 /usr/lib/perl /usr/local/lib/perl5 /usr/local/lib/perlr /usr/share/perl5);
-
 use Test::More;
 use Git;
-use LWP::Simple;
+use Mojo::UserAgent;
 use File::Slurper qw(read_text);
 use JSON;
 use Net::Ping;
@@ -15,6 +13,7 @@ use v5.14; # For say
 my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD^1','HEAD');
 my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
+my $ua =  Mojo::UserAgent->new;
 my $github;
 
 SKIP: {
@@ -35,7 +34,7 @@ SKIP: {
   say $url_repo;
   isnt($url_repo,"","El envío incluye un URL"); # Test 2
   like($url_repo,qr/github.com/,"El URL es de GitHub"); # Test 3
-  my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/(.+)/);
+  my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/([^\.]+)/);
 
   # Comprobación de envío de objetivos
   my @ficheros_objetivos = glob "objetivos/*.md";
@@ -88,9 +87,9 @@ SKIP: {
     isnt( $deployment_url, "", "URL de despliegue hito 3");
   SKIP: {
       skip "Ya en el hito siguiente", 2 unless $this_hito == 3;
-      my $status = get $deployment_url;
+      my $status = $ua->get($deployment_url);
       if ( ! $status || $status =~ /html/ ) {
-	$status = get "$deployment_url/status"; # Por si acaso han movido la ruta
+	$status = $ua->get( "$deployment_url/status"); # Por si acaso han movido la ruta
       }
       isnt( $status, undef, "Despliegue hecho en $deployment_url" );
       my $status_ref = from_json( $status );
@@ -109,7 +108,7 @@ SKIP: {
     isnt( $deployment_url, "", "URL de despliegue hito 4");
   SKIP: {
       skip "Ya en el hito siguiente", 2 unless $this_hito == 4;
-      my $status = get "$deployment_url/status";
+      my $status = $ua->get( "$deployment_url/status" );
       isnt( $status, undef, "Despliegue hecho en $deployment_url" );
       my $status_ref = from_json( $status );
       like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
@@ -118,7 +117,7 @@ SKIP: {
 
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
-    my $dockerhub = get $dockerhub_url;
+    my $dockerhub = $ua->get($dockerhub_url);
     like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
   }
 
@@ -133,7 +132,7 @@ SKIP: {
     unlike( $deployment_url, qr/(heroku|now)/, "Despliegue efectivamente hecho en IaaS" );
     isnt( $deployment_url, "", "URL de despliegue hito 5");
     check_ip($deployment_url);
-    my $status = get "http://$deployment_url/status";
+    my $status = $ua->get("http://$deployment_url/status");
     isnt( $status, undef, "Despliegue correcto en $deployment_url/status" );
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
@@ -158,14 +157,14 @@ sub doing {
 
 sub how_many_milestones {
   my ($user,$repo) = @_;
-  my $page = get( "https://github.com/$user/$repo/milestones" );
+  my $page = get_github( "https://github.com/$user/$repo/milestones" );
   my ($milestones ) = ( $page =~ /(\d+)\s+Open/);
   return $milestones;
 }
 
 sub closed_issues {
   my ($user,$repo) = @_;
-  my $page = get( "https://github.com/$user/$repo".'/issues?q=is%3Aissue+is%3Aclosed' );
+  my $page = get_github( "https://github.com/$user/$repo".'/issues?q=is%3Aissue+is%3Aclosed' );
   my (@closed_issues ) = ( $page =~ m{<li\s+(id=.+?</li>)}gs );
   return @closed_issues;
 
@@ -173,7 +172,7 @@ sub closed_issues {
 
 sub closes_from_commit {
   my ($user,$repo,$issue) = @_;
-  my $page = get( "https://github.com/$user/$repo/issues/$issue" );
+  my $page = get_github( "https://github.com/$user/$repo/issues/$issue" );
   return $page =~ /closed\s+this\s+in/gs ;
   
 }
@@ -196,4 +195,11 @@ sub check {
 
 sub fail_x {
   return BOLD.MAGENTA."✘".RESET.join(" ",@_);
+}
+
+sub get_github {
+  my $url = shift;
+  my $page = `curl $url`;
+  die "No pude descargar la página" if !$page;
+  return $page;
 }

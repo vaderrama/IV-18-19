@@ -27,3 +27,10 @@ recurso.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando
    durante la asignatura.
 - [x] Realizados los [ejercicios de la semana](https://github.com/antoniomg89/EjerciciosIV/blob/master/ES2.md)
+
+Objetivos de la semana del 24 de septiembre
+============================
+
+- [x] Realizadas pruebas de integración continua (pytests).
+- [x] Vistas las virtudes en el uso de entornos virtuales de desarrollo.
+- [x] Realizados los primeros ejercicios de la semana.
