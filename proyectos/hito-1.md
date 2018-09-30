@@ -28,14 +28,14 @@ Añade debajo enlaces a tu proyecto
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-) | 1.2 |
 | KEMP MUÑOZ, MARCEL| | |
-| LOPEZ CASTRO, JUAN MANUEL| | |
+| LOPEZ CASTRO, JUAN MANUEL|[ProyectoIV](https://github.com/juanmaLC/ProyectoIV) |1.1 |
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 0.1 |
 | MARTINEZ GARCIA, ANTONIO| | |
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT) |1.0 |
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | | |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
-| NAVARRETE CAMPOS, GINES| | |
+| NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) | 0.6 |
 | ORDUÑA DIAZ, ADRIAN| | |
 | OSORIO GIRALDEZ, OSCAR| | |
 | PEREZ RUBIALES, DAVID JESUS| | |
@@ -48,7 +48,7 @@ Añade debajo enlaces a tu proyecto
 | RUIZ LOPEZ, MANUEL | | |
 | SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/Weather_App) | 0.2 |
 | SANCHEZ PALOMINO, ALVARO| | |
-| SANCHEZ DE LECHINA TEJADA, JESUS| | |
+| SANCHEZ DE LECHINA TEJADA, JESUS|[Duckpiler](https://github.com/jojelupipa/Duckpiler) | 0.2 |
 | SARRIONANDIA DE LEÓN, AITOR|[Tienda de ropa](https://github.com/aitorSDL/proyecto-iv-1819) |1.1|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [CloudyCloud](https://github.com/Thejokeri/IV-18-19-Proyecto) | 0.2 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) |0.2|
