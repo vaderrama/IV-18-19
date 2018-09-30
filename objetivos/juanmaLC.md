@@ -15,3 +15,12 @@
  - [ ] Niveles de virtualización
  - [x] Entender que implica diseñar un proyecto 
  - [x] Entregado el hito 0
+ 
+ 
+ **Objeticos de la tercera sesion**
+ 
+ - [x] Aprender y comprender las pruebas de software
+ - [x] Buscar diferentes framework para el desarrollo del proyecto
+ - [x] Elegir el lenguaje para desarrollar el servicio web 
+ - [x] Instalar todas las herramientas necesarias
+ - [x] Entrega del primer hito
