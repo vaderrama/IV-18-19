@@ -12,8 +12,16 @@
 - [x] Creación de [Github Pages](https://manoliot.github.io/tiempo-aemet-bot) del proyecto
 
 # Objetivos del Tema 1:
+
 - [x] Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, Cloud computing, Utility Computing, Software as a Service o Google AppSpot).
 - [x] Conocer el concepto de software libre y su importancia dentro de la computación nube.
 - [x] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
 - [x] Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
 - [x] Realizar los [ejercicios](https://github.com/manoliot/IV-18-19-Ejercicios/blob/master/Tema%201/ejercicios.md).
+
+# Objetivos del Hito 1:
+
+- [x] Creación de milestones correspondientes a los hitos.
+- [x] Creación de issues correspondientes al hito 1.
+- [x] Descripción del proyecto.
+- [x] Descripción de las herramientas a utilizar en el desarrollo del proyecto.
