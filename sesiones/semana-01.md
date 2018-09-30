@@ -72,7 +72,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   medios indicados anteriormente, incluyendo por supuesto tutorías.
 * Todos los estudiantes deberán solicitar una tutoría al profesor para
   aclarar cualquier aspecto de la asignatura que
-  no esté suficientemente largo y poder comenzar el proyecto que se hará a lo largo
+  no esté suficientemente claro y poder comenzar el proyecto que se hará a lo largo
   del curso. La cita será por la mañana, incluyendo el horario de las prácticas.
 
 ## Material de la asignatura
