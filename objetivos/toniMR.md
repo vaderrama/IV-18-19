@@ -16,6 +16,6 @@
 [Proyecto](https://github.com/toniMR/Proyecto-IV).
 
 ## Objetivos de la Tercera Semana
-- [ ] Comprender como las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [ ] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
-- [ ] Entender los ficheros de *requisitos* y su utilidad en las infraestructuras virtuales.
+- [X] Comprender como las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [X] Entender los ficheros de *requisitos* y su utilidad en las infraestructuras virtuales.
