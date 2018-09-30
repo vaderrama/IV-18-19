@@ -16,7 +16,7 @@ Añade debajo enlaces a tu proyecto
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL|[Planificador Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.1 |
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
-| GALERA GARRIDO, JUSTO JAVIER| [FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 1.1 |
+| GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic)|1.2.1|
 | GARCIA MANCILLA, JAVIER| [Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819.git) | 1.0 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer.git) | 1.1 |
 | GUERRERO PINTEÑO, ALVARO| | |
