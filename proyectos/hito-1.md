@@ -37,7 +37,7 @@ Añade debajo enlaces a tu proyecto
 | MORENO LOPEZ, JUAN ESTEBAN| | |
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) | 0.6 |
 | ORDUÑA DIAZ, ADRIAN| | |
-| OSORIO GIRALDEZ, OSCAR| | |
+| OSORIO GIRALDEZ, OSCAR|[Gestor de citas](https://github.com/widowert/ProyectoIV)|1.1|
 | PEREZ RUBIALES, DAVID JESUS| | |
 | PINEDA MOCHON, IGNACIO| | |
 | PRALEA , MARICICA| | |
