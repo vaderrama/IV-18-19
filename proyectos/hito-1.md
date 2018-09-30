@@ -23,7 +23,7 @@ Añade debajo enlaces a tu proyecto
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE|[BirthBot](https://github.com/Saytes/BirthBot.git)|1.1|
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
-| HERRERA VARGAS, ALBERTO| | |
+| HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital-IV) | 1.1 |
 | JALDO RUIZ, JESUS MIGUEL| | |
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-) | 1.2 |
