@@ -14,8 +14,8 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [X] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 - [X] Entender la importacia de metodologías ágiles como SCRUM.
 
-## Histo 1
+## Hito 1
 - [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 - [X] Entender el concepto de DevOps.
 - [X] Usar herramientas para la gestión de los ciclos de desarrollo de una aplicación y entender cuáles son éstos.
-- [X] Aprender a usar la integración continua en cualquier aplicación. 
+- [X] Aprender a usar la integración continua en cualquier aplicación.
