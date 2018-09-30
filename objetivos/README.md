@@ -25,4 +25,6 @@ esta forma
 y antes de ponerte a trabajar con tu *fork* local del repositorio
 recuerda hacer
 
-	git pull upstream master
+	git pull upstream master --rebase
+
+
