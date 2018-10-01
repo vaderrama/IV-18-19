@@ -1,6 +1,6 @@
 ﻿# Objetivos
 
-## Hito 0
+### Hito 0
 
 - [x] Familiarizarse con Github
 - [x] Crear un repositorio para el proyecto
@@ -10,7 +10,7 @@
 - [x] Añadir licencias y .gitignore
 - [x] Configurar par de claves
 
-## Hito 1
+### Hito 1
 
 - [x] Conocer los conceptos de issue y milestone
 - [x] Explicar el proyecto a realizar
