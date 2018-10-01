@@ -48,7 +48,7 @@ Añade debajo enlaces a tu proyecto
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1.1 |
 | SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/Weather_App) | 0.2 |
 | SANCHEZ PALOMINO, ALVARO|[Proyecto_IV](https://github.com/Alvarosanpal/Proyecto_IV)|0.6|
-| SANCHEZ DE LECHINA TEJADA, JESUS|[Duckpiler](https://github.com/jojelupipa/Duckpiler) | 0.2 |
+| SANCHEZ DE LECHINA TEJADA, JESUS|[Duckpiler](https://github.com/jojelupipa/Duckpiler) | 0.2.1 |
 | SARRIONANDIA DE LEÓN, AITOR|[Tienda de ropa](https://github.com/aitorSDL/proyecto-iv-1819) |1.1|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [CloudyCloud](https://github.com/Thejokeri/IV-18-19-Proyecto) | 0.2 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) |0.2|
