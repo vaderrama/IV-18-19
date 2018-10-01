@@ -1,4 +1,4 @@
-﻿# Objetivos
+﻿# Objetivos 
 
 ## Hito 0
 
@@ -17,4 +17,3 @@
 - [x] Buscar los lenguajes más apropiados para el proyecto
 - [x] Subir los objetivos
 - [x] Realizar el pull request
-

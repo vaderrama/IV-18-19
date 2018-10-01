@@ -22,12 +22,12 @@
 	
 ## Objetivos de la semana del 24/9
 
-- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de IV
-- [ ] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de IV
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
 - [ ]  Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
 - [x] Entender qué son los objetivos y cómo hacerlos correctamente.
 - [x] Sin problemas en el hito cero.
-- [ ] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+- [x] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación; por ejemplo, entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma. node.js se usa extensivamente en los ejemplos de la asignatura.
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
@@ -36,6 +36,16 @@
 	- [Artículo en Stack Overflow](https://stackoverflow.com/questions/7249871/what-is-a-build-tool).
 	- [Listado de build tools apps](https://en.wikipedia.org/wiki/List_of_build_automation_software).
 
+## Objetivos de la semana del 1/10
+
+- [ ] Comenzar con la configuración de los sistemas de integración continua. 
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de IV.  
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.  
+- [ ] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente. 
+	- [ ] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
+- [ ] Entender el segundo hito del proyecto.  
+- [ ] Comprender los mecanismos de despliegue automático usando git.  
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes IVs.  
 
 
 
