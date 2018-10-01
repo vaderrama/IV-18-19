@@ -1,4 +1,4 @@
-Lista de objetivos hito 0:
+Lista de objetivos Semana 1 y 2:
 
 - [x] Git configurado(Claves publicas/privadas, nombre, email, ...)
 - [x] Fork realizado al repositorio del profesor
@@ -7,7 +7,7 @@ Lista de objetivos hito 0:
 - [x] Licencia, readme y gitignore(Repo. proyecto)
 
 
-Lista de objetivos hito 1:
+Lista de objetivos Semana 3:
 
 - [x] Comprender el papel de las pruebas software dentro del concepto de infraestructuras virturales.
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
