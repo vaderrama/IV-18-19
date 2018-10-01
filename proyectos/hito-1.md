@@ -42,7 +42,7 @@ Añade debajo enlaces a tu proyecto
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV)| 1.1|
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
-| PULIDO POVEDA, JUAN CARLOS| | |
+| PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 1.3 |
 | REY PEDROSA, PABLO| | |
 | RODRIGUEZ MARIN, SERGIO| | |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1.1 |
