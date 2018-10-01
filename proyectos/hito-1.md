@@ -24,7 +24,7 @@ Añade debajo enlaces a tu proyecto
 | GUTIERREZ SEGOVIA, JORGE|[BirthBot](https://github.com/Saytes/BirthBot.git)|1.1|
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital-IV) | 1.1 |
-| JALDO RUIZ, JESUS MIGUEL|[OWStatistics](https://github.com/JmZero/Proyecto-IV) | 1.0 |
+| JALDO RUIZ, JESUS MIGUEL|[OWStatistics](https://github.com/JmZero/Proyecto-IV) | 1.1 |
 | JIMENEZ ARGUELLO, ANTONIO JOSE|[ProyectoIV](https://github.com/antonioJ95/ProyectoIV)|0.3 |
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-) | 1.2 |
 | KEMP MUÑOZ, MARCEL| [Proyecto_IV - Crupier](https://github.com/MarcelKemp/Proyecto_IV) | 1.1 |
