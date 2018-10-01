@@ -20,5 +20,5 @@ Lista de objetivos hito 1:
 - [x] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
 - [x] Usar el sistema de control de fuentes "git" para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
 - [x] Descripción del proyecto(bases de datos,servidores de mensajería...).
-- [x] Aprender a trabajar con hitos(milestones) y órdenes de trabajo (issues) en el repositorio.
+- [x] Aprender a trabajar con hitos(milestones) y órdenes de trabajo (issues) en el repositorio, utilizar un milestone con 3 issues cerrados con commit.
 - [x] Pull Request hito 1.
