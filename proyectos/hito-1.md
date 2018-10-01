@@ -39,7 +39,7 @@ Añade debajo enlaces a tu proyecto
 | ORDUÑA DIAZ, ADRIAN| | |
 | OSORIO GIRALDEZ, OSCAR|[Gestor de citas](https://github.com/widowert/ProyectoIV)|1.1|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 1.2|
-| PINEDA MOCHON, IGNACIO| | |
+| PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV)| 1.1|
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| | |
