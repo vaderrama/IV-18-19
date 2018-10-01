@@ -36,6 +36,16 @@
 	- [Artículo en Stack Overflow](https://stackoverflow.com/questions/7249871/what-is-a-build-tool).
 	- [Listado de build tools apps](https://en.wikipedia.org/wiki/List_of_build_automation_software).
 
+## Objetivos de la semana del 1/10
+
+- [ ] Comenzar con la configuración de los sistemas de integración continua. 
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de IV.  
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.  
+- [ ] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente. 
+	- [ ] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
+- [ ] Entender el segundo hito del proyecto.  
+- [ ] Comprender los mecanismos de despliegue automático usando git.  
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes IVs.  
 
 
 
