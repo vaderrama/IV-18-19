@@ -18,5 +18,5 @@
 - [x] Describir de qué herramientas e infraestructura nos ayudaremos a la hora de la realización del proyecto.
 
 Ejercicios:
-[https://github.com/FFGFER/Ejercicios-IV/tree/master/Tema%020introductorio](https://github.com/FFGFER/Ejercicios-IV/tree/master/Tema%020introductorio)
+[https://github.com/FFGFER/Ejercicios-IV/tree/master/Tema%20introductorio](https://github.com/FFGFER/Ejercicios-IV/tree/master/Tema%20introductorio)
 
