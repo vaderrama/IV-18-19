@@ -32,9 +32,9 @@ git remote add origin git@github.com:<minick>/IV-18-19.git # Añades el tuyo
 git remote add upstream https://github.com/JJ/IV-18-19.git
 ```
 
-    iii. Sobre la copia *fresca* del repositorio, copia los dos ficheros
+iii. Sobre la copia *fresca* del repositorio, copia los dos ficheros
     que hayas cambiado.
-    iv. `git push --force` pisará tu repositorio y pondrá el original +
+iv. `git push --force` pisará tu repositorio y pondrá el original +
        el cambio que quieras hacer.
        
 Recuerda que si has modificado los dos ficheros, tienes que hacer PRs
