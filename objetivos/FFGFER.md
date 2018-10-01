@@ -10,3 +10,8 @@
 - [x] Crear archivo de objetivos y subirlo al repositorio de la asignatura.
 - [x] Definir funcionalidad del proyecto.
 - [x] Añadir el repositorio de mi proyecto al listado de proyectos que hay en el repositorio de la asignatura.
+
+## Hito 1
+- [x] [Realizar los ejercicios del tema introductorio.](https://github.com/FFGFER/Ejercicios-IV/tree/master/Tema%20introductorio)
+- [x] Refinar la descripción del microservicio en el que nos vamos a centrar a la hora de la realización de las prácticas de la asignatura.
+- [x] Describir de qué herramientas e infraestructura nos ayudaremos a la hora de la realización del proyecto.
