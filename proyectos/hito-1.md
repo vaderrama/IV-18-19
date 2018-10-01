@@ -44,7 +44,7 @@ Añade debajo enlaces a tu proyecto
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 1.3 |
 | REY PEDROSA, PABLO| [Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.0.1 |
-| RODRIGUEZ MARIN, SERGIO| | |
+| RODRIGUEZ MARIN, SERGIO| [gAcademy](https://github.com/pavocejudo/ProyectoIV)|0.1 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1.1 |
 | SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/Weather_App) | 0.2 |
 | SANCHEZ PALOMINO, ALVARO|[Proyecto_IV](https://github.com/Alvarosanpal/Proyecto_IV)|0.6|
