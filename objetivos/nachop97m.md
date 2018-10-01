@@ -17,7 +17,7 @@ Lista de objetivos de Ingacio Pineda Mochon
 - [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
 - [x] Entender qué son los objetivos y cómo hacerlos correctamente.
 - [x] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
-- [ ] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+- [x] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación: Ruby.
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
