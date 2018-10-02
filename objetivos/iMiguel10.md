@@ -21,3 +21,18 @@ Repositorio de ejercicios: [Ejercicios IV](https://github.com/iMiguel10/Ejercici
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
 - [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+
+---
+
+# Objetivos hito 2
+
+- [ ] Añadir funcionalidad al proyecto.
+- [ ] Comenzar con la configuración de los sistemas de integración continua
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Entregar el primer hito del proyecto.
+- [x] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
+- [ ] Entender el segundo hito del proyecto
+- [ ] Comprender los mecanismos de despliegue automático usando git.
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [ ] Haber alcanzado el 60% de los objetivos del tema introductorio tras haber realizado algunos ejercicios propuestos.
