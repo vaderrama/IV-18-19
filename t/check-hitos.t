@@ -74,6 +74,7 @@ SKIP: {
     doing("hito 2");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
     like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/, "Está presente el badge de Travis con enlace al repo correcto");
+    is( travis_status($README), 'Passing', "Los tests deben pasar en Travis");
   }
 
   if ( $this_hito > 2 ) { # Despliegue en algún lado
@@ -202,4 +203,11 @@ sub get_github {
   my $page = `curl -ss $url`;
   die "No pude descargar la página" if !$page;
   return $page;
+}
+
+sub travis_status {
+  my $README = shift;
+  my ($build_status) = ($README =~ /Status\[\([^)]+\)/);
+  my $status_svg = `curl -ss $build_status`;
+  return $status_svg =~ /passing/?"Passing":"Fail";
 }
