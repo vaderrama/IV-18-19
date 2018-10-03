@@ -20,6 +20,7 @@ qué va](https://www.meetup.com/es-ES/Granada-Geek/events/255018246/)
 * Entender los errores en la entrega del
   [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
   y corregirlos si es pertinente.
+  * Comprender qué se debe hacer y qué no a la hora de hacer un PR.
 * Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
 * Comprender los mecanismos de despliegue automático usando git.
 * Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
@@ -28,7 +29,6 @@ qué va](https://www.meetup.com/es-ES/Granada-Geek/events/255018246/)
 
 Terminamos con
 [el tema sobre desarrollo basado en pruebas (TDD)](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas).
-
 
 Comenzamos con el
 [segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),

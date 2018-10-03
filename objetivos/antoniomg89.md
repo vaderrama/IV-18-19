@@ -34,3 +34,11 @@ Objetivos de la semana del 24 de septiembre
 - [x] Realizadas pruebas de integración continua (pytests).
 - [x] Vistas las virtudes en el uso de entornos virtuales de desarrollo.
 - [x] Realizados los primeros ejercicios de la semana.
+- [x] Probando los tests con JUnit 4.
+- [x] Vista la forma de realizar descripciones de módulo en python con pip.
+
+Objetivos de la semana, comienza el 1 de octubre
+============================
+
+- [x] Viendo las formas de realizar tests con **flask**.
+- [ ] Subir al repositorio el proyecto realizado hasta ahora con flask.
