@@ -68,7 +68,7 @@ SKIP: {
     }
   }
   my $README =  read_text( "$repo_dir/README.md");
-  unlike( $README, /[hH]ito/, "El README no debe incluir la palabra hito");
+  unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
   
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
     doing("hito 2");

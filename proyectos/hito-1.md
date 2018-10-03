@@ -31,7 +31,7 @@ Añade debajo enlaces a tu proyecto
 | LOPEZ CASTRO, JUAN MANUEL|[ProyectoIV](https://github.com/juanmaLC/ProyectoIV) |1.1 |
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 0.1 |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2 |
-| MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT) |2.4 |
+| MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT) |2.3 |
 | MARTOS RODRIGUEZ, ANTONIO|[Proyecto-IV](https://github.com/toniMR/Proyecto-IV) |2.0|
 | MAS MESA, IGNACIO | [game-server](https://github.com/cronos2/game-server) | 0.2.0 |
 | MORENO LOPEZ, JUAN ESTEBAN|[Proyecto](https://github.com/juaneml/IV_1819_Proyecto) |1.1.3 |
