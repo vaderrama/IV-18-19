@@ -41,4 +41,4 @@ Objetivos de la semana, comienza el 1 de octubre
 ============================
 
 - [x] Viendo las formas de realizar tests con **flask**.
-- [ ] Subir al repositorio el proyecto realizado hasta ahora con flask.
+- [x] Probando tests con **unittest**.
