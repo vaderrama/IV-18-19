@@ -19,3 +19,18 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [X] Entender el concepto de DevOps.
 - [X] Usar herramientas para la gestión de los ciclos de desarrollo de una aplicación y entender cuáles son éstos.
 - [X] Aprender a usar la integración continua en cualquier aplicación.
+
+## Hito 2
+### Semana 4
+- [X] Comenzar la configuración de los sistemas de integración continua
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [X] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+
+Django sí puede ser utilizado para ofrecer microservicios.
+Bootstrap/CSS se usan para una web que estoy haciendo que interactúe con el servicio.
+El README.md del proyecto no describe objetivos de la asignatura, si no de la aplicación; va con idea de poder ver el progreso sin tener que repasar los issues/hitos. He cambiado el nombre para evitar confusión.
+
+- [X] Entender el segundo hito.
+- [X] Comprender los mecanismos de despliegue automático usando git.
+- [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
