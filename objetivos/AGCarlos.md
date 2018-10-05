@@ -34,4 +34,4 @@
  -   [x] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
 -   [x] Entender el segundo hito del proyecto
 -   [ ] Comprender los mecanismos de despliegue automático usando git.
--   [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+-   [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
