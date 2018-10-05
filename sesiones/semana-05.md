@@ -10,9 +10,8 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 ## Otros objetivos
 
-* Comenzar a Configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+* Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 * Comprender los mecanismos de despliegue automático a través de git
-* Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
 
 ## Material para la clase
 
@@ -27,6 +26,6 @@ que se entrega el  **11:30 del 15 de octubre de 2018**.
 
 ## Siguiente semana
 
-[Quinta semana](semana-05.md).
+[Sexta semana](semana-06.md).
 
 
