@@ -37,3 +37,13 @@
 ## Enlace Repositorio de ejercicios  iv-18-19
 6. [X] Repositorio de  [Ejercicios-IV](https://github.com/kaizensamuel/Ejercicios-IV)
 
+
+# Semana del 24 de septiembre
+
+# Objetivos
+1. [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+2. [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+3. [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+
+## Enlace Repositorio del proyecto iv-18-19
+5. [X] Repositorio del [Tienda online componentes](https://github.com/kaizensamuel/proyecto-IV-18-19)
