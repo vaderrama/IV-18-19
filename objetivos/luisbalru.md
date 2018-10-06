@@ -45,8 +45,9 @@
 	- [x] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
 - [ ] Entender el segundo hito del proyecto.  
 - [ ] Comprender los mecanismos de despliegue automático usando git.  
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes IVs.  
-
+	- [Senddo](http://senddo.es/deploy-with-git-desplegar-con-git/)
+- [x] Entender el formato YAML y su uso en la descripción de diferentes IVs.  
+	- Artículo de OpenStack:[Use YAML templates for creating new virtual devops environments](https://specs.openstack.org/openstack/fuel-specs/specs/8.0/template-based-virtual-devops-environments.html)
 
 
 
