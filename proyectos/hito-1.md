@@ -10,7 +10,7 @@ Añade debajo enlaces a tu proyecto
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.3 |
 | CALVO VILLAZAN, RUBEN| [Servicio web](https://github.com/rubcv/IV-18-19-Proyecto)|1.1 |
 | CRUZ PEREZ, SERGIO| [Almacén musical DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual)| 1.1|
-| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 2.0 |
+| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 2.1 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL|[Planificador Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.1 |
