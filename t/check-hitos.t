@@ -34,7 +34,7 @@ SKIP: {
   say $url_repo;
   isnt($url_repo,"","El envío incluye un URL"); # Test 2
   like($url_repo,qr/github.com/,"El URL es de GitHub"); # Test 3
-  my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/(.+)/);
+  my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/([^\.]+)/);
 
   # Comprobación de envío de objetivos
   my @ficheros_objetivos = glob "objetivos/*.md";
@@ -67,13 +67,14 @@ SKIP: {
       is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
     }
   }
-  my $README;
+  my $README =  read_text( "$repo_dir/README.md");
+  unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
   
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
     doing("hito 2");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
-    $README =  read_text( "$repo_dir/README.md");
     like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/, "Está presente el badge de Travis con enlace al repo correcto");
+    is( travis_status($README), 'Passing', "Los tests deben pasar en Travis");
   }
 
   if ( $this_hito > 2 ) { # Despliegue en algún lado
@@ -199,7 +200,14 @@ sub fail_x {
 
 sub get_github {
   my $url = shift;
-  my $page = `curl $url`;
+  my $page = `curl -ss $url`;
   die "No pude descargar la página" if !$page;
   return $page;
+}
+
+sub travis_status {
+  my $README = shift;
+  my ($build_status) = ($README =~ /Status\[\([^)]+\)/);
+  my $status_svg = `curl -ss $build_status`;
+  return $status_svg =~ /passing/?"Passing":"Fail";
 }

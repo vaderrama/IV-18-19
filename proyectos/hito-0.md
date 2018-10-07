@@ -1,4 +1,3 @@
-
 # Hito 0
 
 Añade debajo enlaces a tu proyecto
@@ -42,13 +41,13 @@ Añade debajo enlaces a tu proyecto
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.0|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 1.1|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV) | 1.0 |
-| PRALEA , MARICICA| | |
+| PRALEA , MARICICA|[ Proyecto_IV](https://github.com/maricicaP/Proyecto_IV) |1.0 |
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS|[ProyectoIV](https://github.com/jcpulido97/ProyectoIV) | 1.0 |
 | REY PEDROSA, PABLO|[Proyecto IV](https://github.com/PFeynman/proyecto-iv) |0.1 |
 | RODRIGUEZ MARIN, SERGIO|[Proyecto](https://github.com/pavocejudo/ProyectoIV) |0.1 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.1 |
-| SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/ProyectoIV) | 0.1 |
+| SANCHEZ JIMENEZ, DAVID| [Proyecto](https://github.com/Koltharius/Weather_App) | 0.1 |
 | SANCHEZ PALOMINO, ALVARO|[Proyecto](https://github.com/Alvarosanpal/Proyecto_IV)|1.0|
 | SANCHEZ DE LECHINA TEJADA, JESUS|[Proyecto](https://github.com/jojelupipa/Proyecto_IV) |0.1|
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/AitorSDL/proyecto-iv-1819)|1.0|
