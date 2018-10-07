@@ -40,11 +40,7 @@ Añade debajo enlaces a tu proyecto
 | OSORIO GIRALDEZ, OSCAR|[Gestor de citas](https://github.com/widowert/ProyectoIV)|1.1|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 2.0|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV)| 1.1|
-<<<<<<< HEAD
 | PRALEA , MARICICA| [Proyecto_IV](https://github.com/maricicaP/Proyecto_IV) |1.1 |
-=======
-| PRALEA , MARICICA|  | |
->>>>>>> 618356fa5093845452e10235c885abb6c32621a9
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2 |
 | REY PEDROSA, PABLO| [Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.0.1 |
