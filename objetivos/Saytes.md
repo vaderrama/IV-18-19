@@ -22,3 +22,11 @@ de los sistemas opertavos. Saber si el ordenador habitual lo usa.
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura. 
 - [x] Actualizar la descripción del proyecto, añadiendo las herramientas y servicios a usar. 
+
+## Hito 2 (Semana 4)
+
+- [ ] Comenzar con la configuración de los sistemas de integración continua.
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [ ] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+- [ ] Comprender los mecanismos de despliegue automático usando git.
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.

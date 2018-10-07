@@ -35,3 +35,21 @@
 [X] Comprender el papel de las build tools o herramientas de automatización.
 
 [X] Hacer los ejercicios del tema "desarrollo basado en pruebas", o como mínimo entender que se pide y para que sirve.
+
+## Objetivos del hito 2 ##
+
+[X] Comenzar con la configuración de los sistemas de integración continua
+
+[X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+[X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+[ ] Entender los errores en la entrega del primer hito del proyecto, poner el framework que voy a usar.
+
+[ ] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
+
+[ ] Entender y entregar el segundo hito del proyecto
+
+[X]  Comprender los mecanismos de despliegue automático usando git.
+
+[ ]  Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
