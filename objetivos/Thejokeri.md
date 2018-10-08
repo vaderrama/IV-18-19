@@ -55,7 +55,7 @@
 
 * [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
-* [ ] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+* [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
 
 * [ ] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
 
@@ -64,3 +64,8 @@
 * [ ] Comprender los mecanismos de despliegue automático usando git.
 
 * [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+### Semana 5 
+
+* [ ] Terminar la configuración de los sistemas de integración continua.
+* [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
