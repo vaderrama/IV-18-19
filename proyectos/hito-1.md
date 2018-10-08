@@ -4,6 +4,7 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
+| ALARCON CUADROS, SAMUEL|[Tienda online componentes](https://github.com/kaizensamuel/proyecto-IV-18-19)| 1.0 |
 | ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 1.1.1 |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.1 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 1.3.1 |
@@ -40,7 +41,7 @@ Añade debajo enlaces a tu proyecto
 | OSORIO GIRALDEZ, OSCAR|[Gestor de citas](https://github.com/widowert/ProyectoIV)|1.1|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 2.0|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV)| 1.1|
-| PRALEA , MARICICA|  | |
+| PRALEA , MARICICA| [Proyecto_IV](https://github.com/maricicaP/Proyecto_IV) |1.1|
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2 |
 | REY PEDROSA, PABLO| [Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.0.1 |

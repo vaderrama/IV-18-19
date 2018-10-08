@@ -73,7 +73,8 @@ SKIP: {
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
     doing("hito 2");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
-    like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/, "Está presente el badge de Travis con enlace al repo correcto");
+    my $travis_domain = travis_domain( $README, $user, $name );
+    ok( $travis_domain =~ /(com|org)/ , "Está presente el badge de Travis con enlace al repo correcto");
     is( travis_status($README), 'Passing', "Los tests deben pasar en Travis");
   }
 
@@ -205,9 +206,15 @@ sub get_github {
   return $page;
 }
 
+sub travis_domain {
+  my ($README, $user, $name) = @_;
+  my ($domain) = ($README =~ /.Build Status..https:\/\/travis-ci.(\w+)\/$user\/$name/);
+  return $domain;
+}
+
 sub travis_status {
   my $README = shift;
-  my ($build_status) = ($README =~ /Status\[\([^)]+\)/);
-  my $status_svg = `curl -ss $build_status`;
+  my ($build_status) = ($README =~ /tatus..([^\)]+)\)/);
+  my $status_svg = `curl -L -s $build_status`;
   return $status_svg =~ /passing/?"Passing":"Fail";
 }

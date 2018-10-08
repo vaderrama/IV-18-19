@@ -22,3 +22,20 @@ Lista de objetivos Semana 3:
 - [x] Descripción del proyecto(bases de datos,servidores de mensajería...).
 - [x] Aprender a trabajar con hitos(milestones) y órdenes de trabajo (issues) en el repositorio, utilizar un milestone con 3 issues cerrados con commit.
 - [x] Pull Request hito 1.
+
+Lista de objetivos Semana 4:
+
+- [x] Errores de la entrega hito 1 corregidos.
+- [x] Entender segundo hito.
+- [x] Comprender los mecanismos de despliegue automático usando git.
+- [x] Entender el formato YAML y su uso.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Comprender el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción.
+
+Lista de objetivos Semana 5:
+
+- [] Terminar la configuración de los sistemas de integración continua.
+- [x] Estudiar el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción y darse de alta en alguno.
+- [] Comenzar a configurar los toolbet de diferentes sistemas Paas, en mi caso Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
