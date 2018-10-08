@@ -73,7 +73,8 @@ SKIP: {
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
     doing("hito 2");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
-    like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/, "Está presente el badge de Travis con enlace al repo correcto");
+    my $travis_domain = travis_domain( $README, $user, $name );
+    ok( $travis_domain =~ /(com|org)/ , "Está presente el badge de Travis con enlace al repo correcto");
     is( travis_status($README), 'Passing', "Los tests deben pasar en Travis");
   }
 
@@ -203,6 +204,12 @@ sub get_github {
   my $page = `curl -ss $url`;
   die "No pude descargar la página" if !$page;
   return $page;
+}
+
+sub travis_domain {
+  my ($README, $user, $name) = @_;
+  my ($domain) = ($README =~ /.Build Status..https:\/\/travis-ci.(\w+)\/$user\/$name/);
+  return $domain;
 }
 
 sub travis_status {
