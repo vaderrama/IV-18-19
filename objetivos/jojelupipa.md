@@ -55,7 +55,7 @@ en esta asignatura.
 - [x] Comprender cómo las pruebas de software encajan dentro del
   concepto de infraestructura virtual.
   
-- [ ] Usar los entornos virtuales de desarrollo en diferentes
+- [x] Usar los entornos virtuales de desarrollo en diferentes
   lenguajes de programación y entender su utilidad.
   
 - [ ] Entender los ficheros de requisitos y su utilidad en las
@@ -71,7 +71,7 @@ en esta asignatura.
 - [x] Entender lo que se pide en el primer hito del proyecto al final
   de la semana y entregarlo al principio de la semana siguiente. 
   
-- [ ] Entender el formato JSON y su importancia para ficheros de
+- [x] Entender el formato JSON y su importancia para ficheros de
   configuración e intercambio genérico de datos. 
   
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación;
@@ -100,3 +100,29 @@ ejemplos de la asignatura.
   
 - [x] Explicar qué pasos se van a llevar a cabo para hacerlo
   
+## Semana del 1 de octubre
+
+### Objetivos principales de la semana
+
+- [ ] Comenzar con la configuración de los sistemas de integración
+  continua 
+
+- [ ] Comprender cómo las pruebas de software encajan dentro del
+  concepto de infraestructura virtual. 
+
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y
+  su uso en prueba y producción. 
+
+### Otros objetivos
+
+- [ ] Entender los errores en la entrega del primer hito del proyecto
+  y corregirlos si es pertinente.
+  
+- [ ] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
+
+- [ ] Entender el segundo hito del proyecto
+
+- [ ] Comprender los mecanismos de despliegue automático usando git. 
+
+- [ ] Entender el formato YAML y su uso en la descripción de
+  diferentes infraestructuras virtuales. 
