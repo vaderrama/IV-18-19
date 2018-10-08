@@ -214,7 +214,7 @@ sub travis_domain {
 
 sub travis_status {
   my $README = shift;
-  my ($build_status) = ($README =~ /Status\[\([^)]+\)/);
-  my $status_svg = `curl -ss $build_status`;
+  my ($build_status) = ($README =~ /tatus..([^\)]+)\)/);
+  my $status_svg = `curl -L -s $build_status`;
   return $status_svg =~ /passing/?"Passing":"Fail";
 }
