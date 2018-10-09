@@ -29,7 +29,7 @@ Lista de objetivos Semana 4:
 - [x] Entender segundo hito.
 - [x] Comprender los mecanismos de despliegue automático usando git.
 - [x] Entender el formato YAML y su uso.
-- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comenzar con la configuración de los sistemas de integración continua(Travis).
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Comprender el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción.
 
