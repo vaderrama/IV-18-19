@@ -5,7 +5,7 @@ Añade debajo enlaces a tu proyecto
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALARCON CUADROS, SAMUEL| | |
-| ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 2.0 |
+| ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 2.1 |
 | ARIZA GARCIA, CARLOS| | |
 | BALDERAS RUIZ, LUIS| | |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
