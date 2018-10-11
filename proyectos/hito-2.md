@@ -35,7 +35,7 @@ Añade debajo enlaces a tu proyecto
 | MARTIR MORENO, NATALIA MARIA| | |
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | | |
-| MORENO LOPEZ, JUAN ESTEBAN| | |
+| MORENO LOPEZ, JUAN ESTEBAN| [Proyecto](https://github.com/juaneml/IV_1819_Proyecto) |2.0 |
 | NAVARRETE CAMPOS, GINES| | |
 | ORDUÑA DIAZ, ADRIAN| | |
 | OSORIO GIRALDEZ, OSCAR| | |
