@@ -7,7 +7,7 @@ Añade debajo enlaces a tu proyecto
 | ALARCON CUADROS, SAMUEL| | |
 | ALVAREZ CARRASCO, JUAN| | |
 | ARIZA GARCIA, CARLOS| | |
-| BALDERAS RUIZ, LUIS|[TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 2.0 |
+| BALDERAS RUIZ, LUIS|[TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 2.1 |
 | CABRERA GONZALEZ, MARIA MATILDE| | |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
