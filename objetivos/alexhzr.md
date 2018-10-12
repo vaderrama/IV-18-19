@@ -6,7 +6,9 @@
    - [BilltasticJS - REST server en Node.js usando Express y MongoDB](https://github.com/alexhzr/BilltasticJS)
 
 ## Semana 02
-- [ ] Instalar algún entorno Unix en el portátil
-- [ ] Configurar Git en Unix
-- [ ] Crear el par de claves
-- [ ] Elegir una licencia adecuada
+- [x] Instalar algún entorno Unix en el portátil
+- [x] Configurar Git en Unix
+- [x] Crear el par de claves
+- [x] Elegir una licencia adecuada
+- [x] Entender el concepto de desarrollo con test
+- [x] Ampliar la descripción de mi proyecto y trabajar con milestones
