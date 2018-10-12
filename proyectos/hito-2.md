@@ -7,7 +7,7 @@ Añade debajo enlaces a tu proyecto
 | ALARCON CUADROS, SAMUEL| | |
 | ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 2.1 |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.2.1 |
-| BALDERAS RUIZ, LUIS|[TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 2.1 |
+| BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 2.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
