@@ -41,11 +41,15 @@
 - [x] Comenzar con la configuración de los sistemas de integración continua. 
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de IV.  
 - [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.  
-- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente. 
-	- [x] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.  
+	- [x] Comprender qué se debe hacer y qué no a la hora de hacer un PR.  
+
 - [x] Entender el segundo hito del proyecto.  
 - [x] Comprender los mecanismos de despliegue automático usando git.  
+	- [Senddo](http://senddo.es/deploy-with-git-desplegar-con-git/)
 - [x] Entender el formato YAML y su uso en la descripción de diferentes IVs.  
+	- Artículo de OpenStack: [Use YAML templates for creating new virtual devops environments](https://specs.openstack.org/openstack/fuel-specs/specs/8.0/template-based-virtual-devops-environments.html)
+
 
 ## Objetivos de la semana del 8/10
 
