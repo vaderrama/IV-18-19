@@ -23,7 +23,7 @@
 
 - [x] -Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 
-- [x]- Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+- [x] -Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 
 ***Otros objetivos***
 - [x] -Entender qué son los objetivos y cómo hacerlos correctamente.
@@ -31,3 +31,13 @@
 - [x] -Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
 
 - [x] -Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+
+## Semana 1 de Octubre
+-[x] -Comenzar con la configuración de los sistemas de integración continua.
+-[x] -Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+-[x] -Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+-[x] -Comprender los mecanismos de despliegue automático usando git.
+
+## Semana 8 de Octubre
+-[x] -Terminar la configuración de los sistemas de integración continua.
+-[x]Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
