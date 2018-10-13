@@ -22,3 +22,12 @@
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
 - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [x] Comprender el papel de las *build tools* o herramientas de automatización.
+
+## Semana 4
+
+- [x] Comenzar con la configuración de los sistemas de integración continua
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [x] Entender el segundo hito del proyecto
+- [x] Comprender los mecanismos de despliegue automático usando git.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
