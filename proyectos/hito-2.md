@@ -51,7 +51,7 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS| | |
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.1|
-| TALAVERA MENDOZA, FERNANDO RAFAEL| | |
+| TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 1.0 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
 | TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.2 |
 | UCEDA MORENO, ALEJANDRO| | |
