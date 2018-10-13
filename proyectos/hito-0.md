@@ -42,7 +42,7 @@ Añade debajo enlaces a tu proyecto
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 1.1|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV) | 1.0 |
 | PRALEA , MARICICA|[ Proyecto_IV](https://github.com/maricicaP/Proyecto_IV) |1.0 |
-| PRIETO INFANTE, JAVIER| | [Proyecto] |(https://github.com/JaviPrieto/IV-Proyecto) |0.1 |
+| PRIETO INFANTE, JAVIER| [Proyecto](https://github.com/JaviPrieto/IV-Proyecto) |0.1 |
 | PULIDO POVEDA, JUAN CARLOS|[ProyectoIV](https://github.com/jcpulido97/ProyectoIV) | 1.0 |
 | REY PEDROSA, PABLO|[Proyecto IV](https://github.com/PFeynman/proyecto-iv) |0.1 |
 | RODRIGUEZ MARIN, SERGIO|[Proyecto](https://github.com/pavocejudo/ProyectoIV) |0.1 |
