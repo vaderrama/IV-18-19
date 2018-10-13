@@ -31,3 +31,10 @@
 - [x] Entender el segundo hito del proyecto
 - [x] Comprender los mecanismos de despliegue automático usando git.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+## Semana 5
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git
