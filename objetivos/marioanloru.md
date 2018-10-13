@@ -26,3 +26,15 @@ Objetivos Infraestructura Virtual
 - [x] Comprender el papel de las *build tools* o herramienta de automatización
 - [ ] Realizar y entregar ejercicios del tema 1
 
+
+### Hito 2
+
+#### Semana 4
+
+- [ ] Comenzar con la configuración de los sistemas de integración continua
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción
+- [ ] Entender y corregir errores en la entrega del primer hito del proyecto
+- [ ] Comprender mecanismos de despliegue automática usando git
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales
+
