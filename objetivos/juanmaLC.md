@@ -1,4 +1,4 @@
-**Objetivos de la primera sesion**
+**Objetivos de la primera sesión**
 
 - [x] Fichero explicando de que va a ir el proyecto , funcionalidad , idea ...
 - [x] Licencia que tengo pensada usar
@@ -7,7 +7,7 @@
 - [x] Rellenar hoja de cálculo con mi nick de GitHub 
 
 
-**Objetivos de la segunda sesion**
+**Objetivos de la segunda sesión**
  
  - [x] Conceptos relacionados con la virtualización
  - [ ] Comprender las técnicas de cáculo del coste de amortización de un equipo informático  
@@ -17,10 +17,18 @@
  - [x] Entregado el hito 0
  
  
- **Objeticos de la tercera sesion**
+ **Objetivos de la tercera sesión**
  
  - [x] Aprender y comprender las pruebas de software
  - [x] Buscar diferentes framework para el desarrollo del proyecto
  - [x] Elegir el lenguaje para desarrollar el servicio web 
  - [x] Instalar todas las herramientas necesarias
  - [x] Entrega del primer hito
+ 
+ **Objetivos de la cuarta sesión**
+ 
+ - [ ] Corregir error del primer hito del proyecto.
+ - [x] Entender el segundo hito del proyecto.
+ - [x] Comprender como las pruebas de software encajan dentro del concepto de infraestrcutura virtual.
+ - [x] Comenzar con la configuración  de los sistemas de integración continua.
+ - [ ] Entender el formato YAML.
