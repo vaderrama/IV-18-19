@@ -46,7 +46,7 @@ Añade debajo enlaces a tu proyecto
 | PULIDO POVEDA, JUAN CARLOS| | |
 | REY PEDROSA, PABLO|[Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.1.0|
 | RODRIGUEZ MARIN, SERGIO|[gAcademy](https://github.com/pavocejudo/ProyectoIV) | 0.2 |
-| RUIZ LOPEZ, MANUEL | | |
+| RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.2 |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| [Proyecto](https://github.com/Alvarosanpal/Proyecto_IV) | 1.2 |
 | SANCHEZ DE LECHINA TEJADA, JESUS| [Duckpiler](https://github.com/jojelupipa/Duckpiler) |0.3 |
