@@ -32,3 +32,10 @@
  - [x] Comprender como las pruebas de software encajan dentro del concepto de infraestrcutura virtual.
  - [x] Comenzar con la configuración  de los sistemas de integración continua.
  - [ ] Entender el formato YAML.
+ 
+ **Objetivos de la quinta sesión**
+ 
+ - [x] Terminar la configuración de los sistemas de integración continua.
+ - [x] Estudiar el nivel de plataforma de la infraestructura virtual.
+ - [ ] Empezar a configurar Azure Web.
+ - [x] Comprender los mecanismos de despliegue automático a través de git.
