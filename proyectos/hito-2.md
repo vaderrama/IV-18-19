@@ -47,7 +47,7 @@ Añade debajo enlaces a tu proyecto
 | REY PEDROSA, PABLO|[Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.1.0|
 | RODRIGUEZ MARIN, SERGIO|[gAcademy](https://github.com/pavocejudo/ProyectoIV) | 0.2 |
 | RUIZ LOPEZ, MANUEL | | |
-| SANCHEZ JIMENEZ, DAVID| [Weahter-App](https://github.com/Koltharius/Weather_App) | 0.3 |
+| SANCHEZ JIMENEZ, DAVID| [Weahter-App](https://github.com/Koltharius/Weather_App) | 0.4 |
 | SANCHEZ PALOMINO, ALVARO| [Proyecto](https://github.com/Alvarosanpal/Proyecto_IV) | 1.2 |
 | SANCHEZ DE LECHINA TEJADA, JESUS| [Duckpiler](https://github.com/jojelupipa/Duckpiler) |0.3 |
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.1|
