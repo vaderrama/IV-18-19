@@ -23,12 +23,28 @@
 ### Otros objetivos
 - [X] Entender que son los objetivos y como hacerlos correctamente.
 - [X] Poner en relieve los problemas que haya podido haber en el hito-0 y solucionarlos
-- [] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
+- [X] Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 - [X] Entender el formato JSON y su importancia para ficheros de configuración e intercabio genérico de datos.
 - [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
-- [] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
-- [] Comprender el papel de las *build tools* o herramientas de automatización.
+- [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [X] Comprender el papel de las *build tools* o herramientas de automatización.
 
+## Objetivos de la Cuarta Semana(1 de Octubre)
+- [X] Comenzar la configuración de los sistemas de integración continua.
+- [X] Comprender como las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Comprender el nivel de plataforma de la infraestructura virtual y su uso en prueba y producción.
+### Otros objetivos.
+- [X] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [X] Entender el segundo hito del proyecto.
+- [X] Comprender los mecanismos de despliegue automático usando git.
+- [] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+## Objetivos de la Quinta Semana(8 de Octubre)
+- [X] Terminar la configuración de los sistemas de integración continua.
+- [] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+### Otros objetivos.
+- [] Comenzar a configurar los toolbet de diferentes sistemas PaaS tales como BlueMix, Heroku u Openshift o Azure Web.
+- [X] Comprender los mecanismos de despliegue automático a través de git.
 
 ## Enlace Repositorio de ejercicios
  Repositorio de  [Ejercicios-IV](https://github.com/Alvarosanpal/Ejercicios-IV)
