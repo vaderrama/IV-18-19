@@ -22,3 +22,12 @@
 - [X] Creacion de Milestones e issues en ellos, completando el hito 1.
 - [X] Registrar cambios en Hito 1 y nuevos objetivos.
 
+# Hito 2
+
+## Objetivos
+- [X] Empezar a desarrollar mi proyecto, `proyecto.py`
+- [X] Empezar a testear mi proyecto, `test_proyecto.py`
+- [X] Configurar las herramientas de construcción y prueba.
+- [X] Integración continua funcionando.
+- [X] Desarrollo de las paginas de github, carpeta de documentación y comienzo de la misma.
+- [] Registrar todos los cambios, incluido los Objetivos y el Hito 2.

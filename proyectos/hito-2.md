@@ -30,7 +30,7 @@ Añade debajo enlaces a tu proyecto
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | 2.1 |
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL| | |
-| LOPEZ RUIZ, MARIO ANTONIO| | |
+| LOPEZ RUIZ, MARIO ANTONIO|[Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 1.0 |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.1 |
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT) |1.0 |
 | MARTOS RODRIGUEZ, ANTONIO| | |
@@ -38,7 +38,7 @@ Añade debajo enlaces a tu proyecto
 | MORENO LOPEZ, JUAN ESTEBAN| [Proyecto](https://github.com/juaneml/IV_1819_Proyecto) |2.0 |
 | NAVARRETE CAMPOS, GINES| | |
 | ORDUÑA DIAZ, ADRIAN| | |
-| OSORIO GIRALDEZ, OSCAR| | |
+| OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.2|
 | PEREZ RUBIALES, DAVID JESUS| | |
 | PINEDA MOCHON, IGNACIO| | |
 | PRALEA , MARICICA| | |
@@ -48,7 +48,7 @@ Añade debajo enlaces a tu proyecto
 | RODRIGUEZ MARIN, SERGIO| | |
 | RUIZ LOPEZ, MANUEL | | |
 | SANCHEZ JIMENEZ, DAVID| | |
-| SANCHEZ PALOMINO, ALVARO| | |
+| SANCHEZ PALOMINO, ALVARO| [Proyecto](https://github.com/Alvarosanpal/Proyecto_IV) | 1.2 |
 | SANCHEZ DE LECHINA TEJADA, JESUS| [Duckpiler](https://github.com/jojelupipa/Duckpiler) |0.3 |
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.1|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 1.0 |

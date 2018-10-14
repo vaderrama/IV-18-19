@@ -83,7 +83,7 @@ ejemplos de la asignatura.
 - [ ] Comprender la utilidad de la virtualización y definición en un
   fichero de herramientas de desarrollo.
   
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests
+- [x] Instalar las herramientas necesarias para crear y aplicar tests
   en un proyecto. 
   
 - [x] Comprender el papel de las build tools o herramientas de
@@ -104,10 +104,10 @@ ejemplos de la asignatura.
 
 ### Objetivos principales de la semana
 
-- [ ] Comenzar con la configuración de los sistemas de integración
+- [x] Comenzar con la configuración de los sistemas de integración
   continua 
 
-- [ ] Comprender cómo las pruebas de software encajan dentro del
+- [x] Comprender cómo las pruebas de software encajan dentro del
   concepto de infraestructura virtual. 
 
 - [ ] Comprender el nivel plataforma de la infraestructura virtual y
@@ -115,14 +115,45 @@ ejemplos de la asignatura.
 
 ### Otros objetivos
 
-- [ ] Entender los errores en la entrega del primer hito del proyecto
+- [x] Entender los errores en la entrega del primer hito del proyecto
   y corregirlos si es pertinente.
   
-- [ ] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
+- [x] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
 
-- [ ] Entender el segundo hito del proyecto
+- [x] Entender el segundo hito del proyecto
 
 - [ ] Comprender los mecanismos de despliegue automático usando git. 
 
 - [ ] Entender el formato YAML y su uso en la descripción de
   diferentes infraestructuras virtuales. 
+
+
+### Objetivos Tema: Desarrollo Basado en Pruebas
+
+- [x] Conocer los conceptos relacionados con el proceso de
+  virtualización tanto de software como de hardware y ponerlos en
+  práctica. 
+  
+- [x] Entender el concepto de DevOps.
+
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de
+  una aplicación y entender cuales son estos. 
+
+- [x] Aprender a usar integración continua en cualquier aplicación
+
+## Semana del 8 de octubre
+
+### Objetivos de la semana
+
+- [x] Terminar la configuración de los sistemas de integración
+  continua
+  
+- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su
+  uso en prueba y producción y darse de alta en alguno. 
+  
+### Otros objetivos 
+
+- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS
+  tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+  
+- [ ] Comprender los mecanismos de despliegue automático a través de git
