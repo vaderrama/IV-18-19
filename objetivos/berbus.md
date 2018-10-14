@@ -33,3 +33,12 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Entender el segundo hito.
 - [X] Comprender los mecanismos de despliegue automático usando git.
 - [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+
+## Hito 2
+### Semana 5
+
+- [X] Terminar la configuración de los sistemas de integración continua
+- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [X] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [X] Comprender los mecanismos de despliegue automático a través de git
