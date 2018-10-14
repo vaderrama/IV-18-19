@@ -4,12 +4,13 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
+| ALARCON CUADROS, SAMUEL|[Tienda online componentes](https://github.com/kaizensamuel/proyecto-IV-18-19)| 1.0 |
 | ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 1.1.1 |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.1 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 1.3.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.3 |
-| CALVO VILLAZAN, RUBEN| | |
-| CRUZ PEREZ, SERGIO| | |
+| CALVO VILLAZAN, RUBEN| [Servicio web](https://github.com/rubcv/IV-18-19-Proyecto)|1.1 |
+| CRUZ PEREZ, SERGIO| [Almacén musical DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual)| 1.1|
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 2.1 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
@@ -40,8 +41,8 @@ Añade debajo enlaces a tu proyecto
 | OSORIO GIRALDEZ, OSCAR|[Gestor de citas](https://github.com/widowert/ProyectoIV)|1.1|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 2.0|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV)| 1.1|
-| PRALEA , MARICICA|  | |
-| PRIETO INFANTE, JAVIER| | |
+| PRALEA , MARICICA| [Proyecto_IV](https://github.com/maricicaP/Proyecto_IV) |1.1|
+| PRIETO INFANTE, JAVIER| [Proyecto](https://github.com/JaviPrieto/IV-Proyecto) |0.1 |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2 |
 | REY PEDROSA, PABLO| [Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.0.1 |
 | RODRIGUEZ MARIN, SERGIO| [gAcademy](https://github.com/pavocejudo/ProyectoIV)|0.1 |
