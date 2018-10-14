@@ -1,5 +1,19 @@
 # Objetivos IV Juan Alvarez
 
+## Cuarta Semana
+
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Entender formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos
+- [X] Entender lenguaje Python para el desarrollo correcto de mi aplicación.
+- [X] Comenzar con la configuración de sistemas de integración continua.
+- [X] Entender YAML
+- [X] Corregir y entender errores hito-1
+- [X] Entender YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [X] Instalar las herramientas para crear y aplicar tests.
+- [X] Añadir funcionalidad al proyecto
+- [X] Seguir bien los pasos para hacer un PR (No cometer los fallos indicados)
+- [X] Seguir los pasos de los hitos anteriores
+
 
 ## Tercera Semana
 
