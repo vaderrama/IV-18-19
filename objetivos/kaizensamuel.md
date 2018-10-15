@@ -45,5 +45,28 @@
 2. [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 3. [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 
+
+
 ## Enlace Repositorio del proyecto iv-18-19
 5. [X] Repositorio del [Tienda online componentes](https://github.com/kaizensamuel/proyecto-IV-18-19)
+
+
+
+
+# Semana del 01 de octubre
+
+# Objetivos
+
+1. [x] Comenzar con la configuración de los sistemas de integración continua
+2. [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+3. [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+
+# Semana del 08 de octubre
+
+# Objetivos
+
+1. [x] Terminar la configuración de los sistemas de integración continua
+2. [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+

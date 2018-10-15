@@ -1,4 +1,4 @@
-# Objetivos - Ángel Gómez
+Objetivos - Ángel Gómez
 
 ## Semana 1 (12 sept)
 
@@ -46,9 +46,35 @@
 
 - [x] Comenzar con la configuración de los sistemas de integración continua.
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [ ] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
-
+- [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
 - [x] Entender los errores en la entrega del [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) y corregirlos si es pertinente.
 - [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI).
-- [ ] Comprender los mecanismos de despliegue automático usando git.
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+- [x] Comprender los mecanismos de despliegue automático usando git.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+
+
+
+## Semana 5 (8 oct)
+
+- [x] Terminar la configuración de los sistemas de integración continua.
+- [ ] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [ ] Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
+
+
+
+## Semana 6 (15 oct)
+
+- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [ ] Resolver los problemas que surjan en los primeros despliegues.
+- [ ] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
+- [ ] Darse de alta y probar diferentes servicios PaaS.
+- [ ] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
+- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
+- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags*para releases...
+
+## 

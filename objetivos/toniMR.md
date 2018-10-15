@@ -21,6 +21,6 @@
 - [X] Entender los ficheros de *requisitos* y su utilidad en las infraestructuras virtuales.
 
 ## Objetivos de la Cuarta Semana
-- [ ] Comenzar con la configuración de los sistemas de integración continua.
-- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [X] Comenzar con la configuración de los sistemas de integración continua.
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
