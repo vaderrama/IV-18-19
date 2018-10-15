@@ -36,4 +36,3 @@ Lista de objetivos de Ingacio Pineda Mochon
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 - [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 - [x] Comprender los mecanismos de despliegue automático a través de git
-- [x] Comprender el papel de las build tools o herramientas de automatización.
