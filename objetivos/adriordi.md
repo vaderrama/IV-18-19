@@ -29,3 +29,16 @@ Lista de objetivos
   - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
   - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
   - [x] Comprender el papel de las build tools o herramientas de automatización.
+## Semana 4 y semana 5:
+
+- [x] Entender segundo hito.
+- [x] Comprender los mecanismos de despliegue automático usando git.
+- [x] Entender el formato YAML y su uso.
+- [x] Comenzar con la configuración de los sistemas de integración continua(Travis-CI).
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Comprender el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción.
+- [x] Terminar la configuración de los sistemas de integración continua.
+- [x] Estudiar el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción y darse de alta en alguno.
+- [] Comenzar a configurar los toolbet de diferentes sistemas Paas, no sé todavía si usaré Azure o Heroku.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
+- [x] Clase y Test listos para el hito 2.
