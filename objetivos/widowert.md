@@ -30,4 +30,4 @@
 - [X] Configurar las herramientas de construcción y prueba.
 - [X] Integración continua funcionando.
 - [X] Desarrollo de las paginas de github, carpeta de documentación y comienzo de la misma.
-- [] Registrar todos los cambios, incluido los Objetivos y el Hito 2.
+- [X] Registrar todos los cambios, incluido los Objetivos y el Hito 2.
