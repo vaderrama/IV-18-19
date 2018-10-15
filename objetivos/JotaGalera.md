@@ -37,5 +37,6 @@ Lista de objetivos Semana 5:
 
 - [x] Terminar la configuración de los sistemas de integración continua.
 - [x] Estudiar el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción y darse de alta en alguno.
-- [] Comenzar a configurar los toolbet de diferentes sistemas Paas, en mi caso Azure Web Apps.
+- [x] Comenzar a configurar los toolbet de diferentes sistemas Paas, en mi caso Azure Web Apps.
 - [x] Comprender los mecanismos de despliegue automático a través de git.
+- [x] Clase y Test listos para el hito 2.
