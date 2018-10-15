@@ -56,10 +56,21 @@
 - [x] Terminar la configuración de los sistemas de integración continua.  
 - [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.  
 - [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.  
-- [ ] Comprender los mecanismos de despliegue automático a través de git.  
+- [x] Comprender los mecanismos de despliegue automático a través de git.  
 
+## Objetivos de la semana del 15/10
 
-
+- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.  
+- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.  
+- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.  
+- [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.  
+- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.  
+- [ ] Resolver los problemas que surjan en los primeros despliegues.  
+- [ ] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.  
+- [ ] Darse de alta y probar diferentes servicios PaaS.  
+- [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.  
+- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.  
+- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...  
 
 
 
