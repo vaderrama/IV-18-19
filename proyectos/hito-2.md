@@ -14,11 +14,11 @@ Añade debajo enlaces a tu proyecto
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 2.5 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
-| ENRIQUEZ FERNANDEZ, JOSE MANUEL| | |
+| ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador_diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.2.1 |
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
-| GALERA GARRIDO, JUSTO JAVIER|(https://github.com/JotaGalera/FindAInformatic)FindAInformatic | 2.1 |
-| GARCIA MANCILLA, JAVIER| | |
+| GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 2.2 |
+| GARCIA MANCILLA, JAVIER|[Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.2 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.2 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
@@ -33,21 +33,21 @@ Añade debajo enlaces a tu proyecto
 | LOPEZ RUIZ, MARIO ANTONIO|[Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 1.0 |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.1 |
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT) |1.0 |
-| MARTOS RODRIGUEZ, ANTONIO| | |
+| MARTOS RODRIGUEZ, ANTONIO|[Proyecto-IV](https://github.com/toniMR/Proyecto-IV) |1.0 |
 | MAS MESA, IGNACIO | | |
 | MORENO LOPEZ, JUAN ESTEBAN| [Proyecto](https://github.com/juaneml/IV_1819_Proyecto) |2.0 |
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |0.8 |
 | ORDUÑA DIAZ, ADRIAN| | |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.2|
-| PEREZ RUBIALES, DAVID JESUS| | |
+| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)|2.2|
 | PINEDA MOCHON, IGNACIO| | |
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
-| PULIDO POVEDA, JUAN CARLOS| | |
+| PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2.1 |
 | REY PEDROSA, PABLO|[Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.1.0|
 | RODRIGUEZ MARIN, SERGIO|[gAcademy](https://github.com/pavocejudo/ProyectoIV) | 0.2 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.2 |
-| SANCHEZ JIMENEZ, DAVID| | |
+| SANCHEZ JIMENEZ, DAVID| [Weahter-App](https://github.com/Koltharius/Weather_App) | 0.4 |
 | SANCHEZ PALOMINO, ALVARO| [Proyecto](https://github.com/Alvarosanpal/Proyecto_IV) | 1.2 |
 | SANCHEZ DE LECHINA TEJADA, JESUS| [Duckpiler](https://github.com/jojelupipa/Duckpiler) |0.3 |
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.1|
