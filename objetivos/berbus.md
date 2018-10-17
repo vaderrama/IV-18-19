@@ -42,3 +42,15 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 - [X] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 - [X] Comprender los mecanismos de despliegue automático a través de git
+
+
+## Hito 3
+### Semana 6
+- [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [X] Elegir un sistema (Heroku) para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [X] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [X] Resolver los problemas que surjan en los primeros despliegues.
+- [X] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [X] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
