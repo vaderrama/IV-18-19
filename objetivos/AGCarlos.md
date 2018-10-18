@@ -40,3 +40,10 @@
 -   [x] Algunos test en funcionamiento
 -   [x] Terminar la configuración de los sistemas de integración continua
 -   [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+
+#### Semana 6
+-   [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+-   [x] Darse de alta y probar diferentes servicios PaaS.
+-   [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+-   [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+-   [x] Resolver los problemas que surjan en los primeros despliegues.
