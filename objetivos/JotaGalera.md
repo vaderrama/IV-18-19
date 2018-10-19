@@ -29,13 +29,14 @@ Lista de objetivos Semana 4:
 - [x] Entender segundo hito.
 - [x] Comprender los mecanismos de despliegue automático usando git.
 - [x] Entender el formato YAML y su uso.
-- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comenzar con la configuración de los sistemas de integración continua(Travis).
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Comprender el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción.
 
 Lista de objetivos Semana 5:
 
-- [] Terminar la configuración de los sistemas de integración continua.
+- [x] Terminar la configuración de los sistemas de integración continua.
 - [x] Estudiar el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción y darse de alta en alguno.
-- [] Comenzar a configurar los toolbet de diferentes sistemas Paas, en mi caso Azure Web Apps.
+- [x] Comenzar a configurar los toolbet de diferentes sistemas Paas, en mi caso Azure Web Apps.
 - [x] Comprender los mecanismos de despliegue automático a través de git.
+- [x] Clase y Test listos para el hito 2.

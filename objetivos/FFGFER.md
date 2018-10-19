@@ -17,6 +17,14 @@
 - [x] Refinar la descripción del microservicio en el que nos vamos a centrar a la hora de la realización de las prácticas de la asignatura.
 - [x] Describir de qué herramientas e infraestructura nos ayudaremos a la hora de la realización del proyecto.
 
+## Hito 2
+- [x] Aprobar hito 1.
+- [x] Diseñar y codificar los tests de nuestro proyecto.
+- [x] Configurar Travis adecuadamente para añadir la integración continua.
+- [x] Añadir la funcionalidad a testear después de diseñarla y codificarla.
+- [x] Documentar el hito 2.
+
+
 Ejercicios:
 [https://github.com/FFGFER/Ejercicios-IV/tree/master/Tema%20introductorio](https://github.com/FFGFER/Ejercicios-IV/tree/master/Tema%20introductorio)
 

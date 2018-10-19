@@ -30,13 +30,35 @@
 # Objetivos Semana 3
 
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+
 - [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+
 - [x] Entender qué son los objetivos y cómo hacerlos correctamente.
+
 - [x] Poner de relieve los problemas que haya podido haber en el hito cero y solucionarlos.
+
 - [x] Entender lo que se pide en el primer hito.
+
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+
 - [x] Comenzar el aprendizaje de un nuevo lenguaje de programación: Python.
+
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
+
 - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+
 - [x] Comprender el papel de las *build tools* o herramientas de automatización.
+
+
+# Objetivos Semana 4
+
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [x] Entender el segundo hito del proyecto.
+- [x] Comprender los mecanismos de despliegue automático usando git.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 

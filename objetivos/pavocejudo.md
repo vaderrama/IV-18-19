@@ -32,4 +32,12 @@
 - [X] Formato JSON y su importancia
 - [X] Empezar con tutoriales de [NodeJS](https://www.youtube.com/watch?v=fLZ3L9MIXAQ) y [ExpressJS](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=3s)
 
+## Semana 4
+
+- [X] Comprender segundo hito.
+- [X] Conocer y saber aplicar TDD.
+- [X] Hacer algunos test.
+- [X] Comprender el uso de los test.
+- [X] Conocer y saber utilizar formato JSON.
+- [X] Conocer los mecanismos de despliegue automático con git.
 
