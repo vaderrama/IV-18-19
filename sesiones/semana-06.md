@@ -1,10 +1,10 @@
-# Quinta semana, comienza el 15 de octubre
+# Sexta semana, comienza el 22 de octubre
 
-Esta semana, por ausencia del profesor de teoría, el profesor de prácticas Antonio Fernández Ares impartirá la asignatura.
+Antonio Fernández impartirá la clase del lunes; el miércoles y viernes estarán todos los profesores presentes.
 
 ## Objetivos de la semana
 
-1. Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud.
+1. Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
 2. Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
 3. Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
 3. Entender el concepto de despliegue y cómo la infraestructura
@@ -15,9 +15,9 @@ Esta semana, por ausencia del profesor de teoría, el profesor de prácticas Ant
 
 ## Otros objetivos
 
-1. Darse de alta y probar diferentes servicios PaaS.
+1. Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
 2. Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
-3. Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
+3. Prepararse para la gestión de diferentes puntos de despliegue remoto con `push` configurando los repositorios para ello.
 4. Aprender buenas prácticas en entornos con integración y despliegue
    continuo: uso de ramas en el código, uso de *tags* para
    releases...
