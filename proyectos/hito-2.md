@@ -28,7 +28,7 @@ Añade debajo enlaces a tu proyecto
 | JALDO RUIZ, JESUS MIGUEL| [OWStatistics](https://github.com/JmZero/Proyecto-IV) | 2.3 |
 | JIMENEZ ARGUELLO, ANTONIO JOSE|[ProyectoIV](https://github.com/antonioJ95/ProyectoIV)|1.0 |
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | 2.1 |
-| KEMP MUÑOZ, MARCEL| | |
+| KEMP MUÑOZ, MARCEL| [Proyecto_IV - Crupier](https://github.com/MarcelKemp/Proyecto_IV-Dealer) | 2.1 |
 | LOPEZ CASTRO, JUAN MANUEL|[ProyectoIV](https://github.com/juanmaLC/ProyectoIV) |3.0 |
 | LOPEZ RUIZ, MARIO ANTONIO|[Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 1.0 |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.1 |
