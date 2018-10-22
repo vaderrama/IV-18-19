@@ -71,9 +71,9 @@ SKIP: {
   my $README =  read_text( "$repo_dir/README.md");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
 
-  my $with_pip = `git grep pip`;
+  my $with_pip = $student_repo->command("grep", "pip");
   if ($with_pip) {
-     is( grep( "requirements.txt", @repo_files), 0, "Fichero de requisitos de Python con nombre correcto" );
+     ok( grep( /"requirements.txt/, @repo_files), "Fichero de requisitos de Python con nombre correcto" );
   }
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
     doing("hito 2");
