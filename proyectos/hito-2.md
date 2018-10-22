@@ -40,7 +40,7 @@ Añade debajo enlaces a tu proyecto
 | ORDUÑA DIAZ, ADRIAN| [WorkWaitQueue](https://github.com/adriordi/proyectoIV) | 0.5 |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.2|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)|2.2|
-| PINEDA MOCHON, IGNACIO| [PeluqueríaIV](https://github.com/nachop97m/PeluqueriaIV)|2.0|
+| PINEDA MOCHON, IGNACIO| [PeluqueríaIV](https://github.com/nachop97m/PeluqueriaIV)|2.1|
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2.1 |
