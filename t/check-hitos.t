@@ -55,6 +55,7 @@ SKIP: {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
+
   if ( $this_hito > 0 ) { # Comprobar milestones y eso
     doing("hito 1");
     cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
@@ -69,7 +70,11 @@ SKIP: {
   }
   my $README =  read_text( "$repo_dir/README.md");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
-  
+
+  my $with_pip = `git grep pip`;
+  if ($with_pip) {
+     is( grep( "requirements.txt", @repo_files), 0, "Fichero de requisitos de Python con nombre correcto" );
+  }
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
     doing("hito 2");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
