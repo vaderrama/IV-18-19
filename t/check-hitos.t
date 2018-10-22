@@ -71,7 +71,10 @@ SKIP: {
   my $README =  read_text( "$repo_dir/README.md");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
 
-  my $with_pip = $student_repo->command("grep", "pip");
+  my $with_pip;
+  eval {
+    $with_pip = $student_repo->command("grep", "pip");
+  };
   if ($with_pip) {
      ok( grep( /"requirements.txt/, @repo_files), "Fichero de requisitos de Python con nombre correcto" );
   }
@@ -213,7 +216,7 @@ sub get_github {
 
 sub travis_domain {
   my ($README, $user, $name) = @_;
-  my ($domain) = ($README =~ /.Build Status..https:\/\/travis-ci.(\w+)\/$user\/$name/);
+  my ($domain) = ($README =~ /.Build Status..https:\/\/travis-ci.(\w+)\/$user\/$name$/);
   return $domain;
 }
 
