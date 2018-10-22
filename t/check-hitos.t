@@ -216,7 +216,7 @@ sub get_github {
 
 sub travis_domain {
   my ($README, $user, $name) = @_;
-  my ($domain) = ($README =~ /.Build Status..https:\/\/travis-ci.(\w+)\/$user\/$name$/);
+  my ($domain) = ($README =~ /.Build Status..https:\/\/travis-ci.(\w+)\/$user\/$name\.svg.+$name\)/);
   return $domain;
 }
 
