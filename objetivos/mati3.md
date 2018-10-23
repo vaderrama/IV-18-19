@@ -44,12 +44,34 @@
 
 [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
-[ ] Entender los errores en la entrega del primer hito del proyecto, poner el framework que voy a usar.
+[X] Entender los errores en la entrega del primer hito del proyecto, poner el framework que voy a usar.
 
-[ ] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
+[X] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
 
-[ ] Entender y entregar el segundo hito del proyecto
+[X] Entender y entregar el segundo hito del proyecto
 
 [X]  Comprender los mecanismos de despliegue automático usando git.
 
-[ ]  Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+[X]  Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+
+## Objetivos del hito 3 ##
+
+
+[X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+
+[X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+
+[X] Entender el concepto de PaaS, su aplicación y sus limitaciones.
+
+[X] Darse de alta y probar servicio PaaS para nuestro proyecto.
+
+[X] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+
+[X] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+
+[X] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+[X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+
+[X]  Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
