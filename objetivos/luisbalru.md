@@ -38,19 +38,39 @@
 
 ## Objetivos de la semana del 1/10
 
-- [ ] Comenzar con la configuración de los sistemas de integración continua. 
-- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de IV.  
-- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.  
-- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente. 
-	- [x] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
-- [ ] Entender el segundo hito del proyecto.  
-- [ ] Comprender los mecanismos de despliegue automático usando git.  
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes IVs.  
+- [x] Comenzar con la configuración de los sistemas de integración continua. 
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de IV.  
+- [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.  
+- [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.  
+	- [x] Comprender qué se debe hacer y qué no a la hora de hacer un PR.  
+
+- [x] Entender el segundo hito del proyecto.  
+- [x] Comprender los mecanismos de despliegue automático usando git.  
+	- [Senddo](http://senddo.es/deploy-with-git-desplegar-con-git/)
+- [x] Entender el formato YAML y su uso en la descripción de diferentes IVs.  
+	- Artículo de OpenStack: [Use YAML templates for creating new virtual devops environments](https://specs.openstack.org/openstack/fuel-specs/specs/8.0/template-based-virtual-devops-environments.html)
 
 
+## Objetivos de la semana del 8/10
 
+- [x] Terminar la configuración de los sistemas de integración continua.  
+- [ ] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.  
+- [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.  
+- [x] Comprender los mecanismos de despliegue automático a través de git.  
 
+## Objetivos de la semana del 15/10
 
+- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.  
+- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.  
+- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.  
+- [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.  
+- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.  
+- [ ] Resolver los problemas que surjan en los primeros despliegues.  
+- [ ] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.  
+- [ ] Darse de alta y probar diferentes servicios PaaS.  
+- [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.  
+- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.  
+- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...  
 
 
 

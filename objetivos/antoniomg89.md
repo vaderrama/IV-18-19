@@ -42,3 +42,9 @@ Objetivos de la semana, comienza el 1 de octubre
 
 - [x] Viendo las formas de realizar tests con **flask**.
 - [x] Probando tests con **unittest**.
+
+Objetivos de la semana, comienza el 8 de octubre
+============================
+
+- [x] Realizada prueba con heroku.
+- [x] Hechos los dos primeros [ejercicios de la semana](https://github.com/antoniomg89/EjerciciosIV/blob/master/ES4.md)
