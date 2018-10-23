@@ -76,7 +76,7 @@ SKIP: {
     $with_pip = $student_repo->command("grep", "pip");
   };
   if ($with_pip) {
-     ok( grep( /"requirements.txt/, @repo_files), "Fichero de requisitos de Python con nombre correcto" );
+     ok( grep( /requirements.txt/, @repo_files), "Fichero de requisitos de Python con nombre correcto" );
   }
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
     doing("hito 2");
