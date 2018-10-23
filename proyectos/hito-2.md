@@ -4,17 +4,10 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-<<<<<<< HEAD
-| ALARCON CUADROS, SAMUEL| | |
-| ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | *2.2* |
-| ARIZA GARCIA, CARLOS| | |
-| BALDERAS RUIZ, LUIS| | |
-=======
 | ALARCON CUADROS, SAMUEL| [Tienda online componentes](https://github.com/kaizensamuel/proyecto-IV-18-19)| 1.0 |
-| ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 2.1 |
+| ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | *2.2* |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.2.1 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 2.1 |
->>>>>>> upstream/master
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO|[Almacén de DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) | 2.1 |
