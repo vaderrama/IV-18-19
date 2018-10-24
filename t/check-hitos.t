@@ -71,10 +71,7 @@ SKIP: {
   my $README =  read_text( "$repo_dir/README.md");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
 
-  my $with_pip;
-  eval {
-    $with_pip = $student_repo->command("grep", "pip");
-  };
+  my $with_pip = grep(/req\w+\.txt/, @repo_files);
   if ($with_pip) {
      ok( grep( /requirements.txt/, @repo_files), "Fichero de requisitos de Python con nombre correcto" );
   }
@@ -83,7 +80,9 @@ SKIP: {
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
     my $travis_domain = travis_domain( $README, $user, $name );
     ok( $travis_domain =~ /(com|org)/ , "Está presente el badge de Travis con enlace al repo correcto");
-    is( travis_status($README), 'Passing', "Los tests deben pasar en Travis");
+    if ( $travis_domain =~ /(com|org)/ ) {
+      is( travis_status($README), 'Passing', "Los tests deben pasar en Travis");
+    }
   }
 
   if ( $this_hito > 2 ) { # Despliegue en algún lado
