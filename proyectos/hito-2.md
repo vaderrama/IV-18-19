@@ -1,6 +1,8 @@
 # Hito 2
 
-Añade debajo enlaces a tu proyecto
+Añade debajo enlaces a tu proyecto. Si es un
+reenvío,
+[lee estas instrucciones](http://jj.github.io/IV/documentos/proyecto/Reenvios)
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
