@@ -1,6 +1,8 @@
 # Hito 2
 
-Añade debajo enlaces a tu proyecto
+Añade debajo enlaces a tu proyecto. Si es un
+reenvío,
+[lee estas instrucciones](http://jj.github.io/IV/documentos/proyecto/Reenvios)
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
@@ -14,9 +16,9 @@ Añade debajo enlaces a tu proyecto
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 2.5 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
-| ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador_diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.2.1 |
+| ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador_diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | **1.2.2 reenvío** |
 | FLORES GARRIDO, FERNANDO| [Tienda-Videojuegos](https://github.com/FFGFER/Proyecto-IV) | 0.3 |
-| FUERTES MORENO, PEDRO LUIS| | |
+| FUERTES MORENO, PEDRO LUIS|[API REST en Java](https://github.com/pedroluisfuertes/iv-proyecto)|2.1|
 | GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 2.2 |
 | GARCIA MANCILLA, JAVIER|[Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.2 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.2 |
@@ -40,7 +42,7 @@ Añade debajo enlaces a tu proyecto
 | ORDUÑA DIAZ, ADRIAN| [WorkWaitQueue](https://github.com/adriordi/proyectoIV) | 0.5 |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.2|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)|2.1|
-| PINEDA MOCHON, IGNACIO| [PeluqueríaIV](https://github.com/nachop97m/PeluqueriaIV)|2.2|
+| PINEDA MOCHON, IGNACIO| [PeluqueríaIV](https://github.com/nachop97m/PeluqueriaIV)|*2.2.1*|
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2.1 |
@@ -52,7 +54,7 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ DE LECHINA TEJADA, JESUS| [Duckpiler](https://github.com/jojelupipa/Duckpiler) |0.3.0 **Reenvío** |
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.1|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 1.0 |
-| TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) | 0.3 |
+| TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) | **1.0 reenvío** |
 | TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.2 |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
