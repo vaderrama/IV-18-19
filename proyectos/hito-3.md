@@ -19,7 +19,7 @@ Añade debajo enlaces a tu proyecto
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| | |
 | GARCIA MANCILLA, JAVIER| | |
-| GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/ipcontainer) | 1.7 |
+| GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/ipcontainer) | 1.8 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE| | |
