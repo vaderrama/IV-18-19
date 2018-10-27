@@ -19,7 +19,7 @@ reenvío,
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador_diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | **1.2.2 reenvío** |
 | FLORES GARRIDO, FERNANDO| [Tienda-Videojuegos](https://github.com/FFGFER/Proyecto-IV) | 0.3 |
 | FUERTES MORENO, PEDRO LUIS|[API REST en Java](https://github.com/pedroluisfuertes/iv-proyecto)|2.1|
-| GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 2.2 |
+| GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 2.4 ***Reenvio*** |
 | GARCIA MANCILLA, JAVIER|[Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.2 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.2 |
 | GUERRERO PINTEÑO, ALVARO| | |
