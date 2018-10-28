@@ -52,7 +52,7 @@ reenvío,
 | SANCHEZ JIMENEZ, DAVID| [Weahter-App](https://github.com/Koltharius/Weather_App) | 0.4 |
 | SANCHEZ PALOMINO, ALVARO| [Proyecto](https://github.com/Alvarosanpal/Proyecto_IV) | 1.2 |
 | SANCHEZ DE LECHINA TEJADA, JESUS| [Duckpiler](https://github.com/jojelupipa/Duckpiler) |0.3.0 **Reenvío** |
-| SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.1|
+| SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.2 **Reenvío**|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 1.0 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) | **1.0 reenvío** |
 | TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.2 |
