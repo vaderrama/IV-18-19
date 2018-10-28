@@ -48,7 +48,7 @@ reenvío,
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2.1 |
 | REY PEDROSA, PABLO|[Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.1.0|
 | RODRIGUEZ MARIN, SERGIO|[gAcademy](https://github.com/pavocejudo/ProyectoIV) | 0.2 |
-| RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 0.2 |
+| RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | **1.0 Reenvío** |
 | SANCHEZ JIMENEZ, DAVID| [Weahter-App](https://github.com/Koltharius/Weather_App) | 0.4 |
 | SANCHEZ PALOMINO, ALVARO| [Proyecto](https://github.com/Alvarosanpal/Proyecto_IV) | 1.2 |
 | SANCHEZ DE LECHINA TEJADA, JESUS| [Duckpiler](https://github.com/jojelupipa/Duckpiler) |0.3.0 **Reenvío** |
