@@ -19,14 +19,14 @@ reenvío,
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador_diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | **1.2.2 reenvío** |
 | FLORES GARRIDO, FERNANDO| [Tienda-Videojuegos](https://github.com/FFGFER/Proyecto-IV) | 0.3 |
 | FUERTES MORENO, PEDRO LUIS|[API REST en Java](https://github.com/pedroluisfuertes/iv-proyecto)|2.1|
-| GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 2.2 |
+| GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 2.4 ***Reenvio*** |
 | GARCIA MANCILLA, JAVIER|[Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.2 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.2 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE| [BirthBot](https://github.com/Saytes/BirthBot) | **1.2** |
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
-| HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital) | 1.1 |
+| HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital) | **2.0 reenvío** |
 | JALDO RUIZ, JESUS MIGUEL| [OWStatistics](https://github.com/JmZero/Proyecto-IV) | 2.3 |
 | JIMENEZ ARGUELLO, ANTONIO JOSE|[ProyectoIV](https://github.com/antonioJ95/ProyectoIV)|1.0 |
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | 2.1 |
