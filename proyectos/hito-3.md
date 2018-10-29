@@ -53,7 +53,7 @@ Añade debajo enlaces a tu proyecto
 | SARRIONANDIA DE LEÓN, AITOR| | |
 | TALAVERA MENDOZA, FERNANDO RAFAEL| | |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
-| TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.4.1 |
+| TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
 | VIÑAS RODRIGUEZ, JOSE MARIA | | |
