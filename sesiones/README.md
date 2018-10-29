@@ -1,9 +1,10 @@
 # Sesiones de la asignatura Infraestructura Virtual.
 
-[Lee el fichero del repositorio completo](../README.md) por si
+[Lee el README principal del repositorio](../README.md) por si
 necesitas ayuda. En este directorio estarán los ficheros de clase
 ordenados cronológicamente de forma inversa.
 
+* [Séptima semana del curso](semana-07.md).
 * [Sexta semana del curso](semana-06.md).
 * [Quinta semana del curso](semana-05.md).
 * [Cuarta semana del curso](semana-04.md).
