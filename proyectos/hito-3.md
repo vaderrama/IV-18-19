@@ -6,7 +6,7 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALARCON CUADROS, SAMUEL| | |
 | ALVAREZ CARRASCO, JUAN| | |
-| ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.3 |
+| ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.3.1 |
 | BALDERAS RUIZ, LUIS| | |
 | CABRERA GONZALEZ, MARIA MATILDE| | |
 | CALVO VILLAZAN, RUBEN| | |
