@@ -100,9 +100,10 @@ SKIP: {
       if ( ! $status || $status =~ /html/ ) {
 	$status = $ua->get( "$deployment_url/status"); # Por si acaso han movido la ruta
       }
-      isnt( $status, undef, "Despliegue hecho en $deployment_url" );
-      my $status_ref = from_json( $status->res->body );
-      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+      ok( $status, "Despliegue hecho en $deployment_url" );
+      my $body = $status->res->body;
+      my $status_ref = from_json( $body );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $body de $deployment_url correcto");
     }
   }
 
