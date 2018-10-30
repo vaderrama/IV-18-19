@@ -1,7 +1,7 @@
 # Séptima semana, comienza el 29 de octubre
 
 Para terminar el hito 3 y emprender el camino al siguiente hito,
-usando PaaS 
+usando PaaS
 
 ## Objetivos de la semana
 
@@ -20,15 +20,15 @@ usando PaaS
 3. Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 4. Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 5. Descargarse y conocer el CLI de Travis para usarlo para
-   configurarlo y cosas por el estilo. 
+   configurarlo y cosas por el estilo.
 
 ## Material para la clase
 
 Continuamos con el tema dedicado al
 [uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS)
 y empezamos con el
-[tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS.md). La
-fecha de entrega es el **5 de noviembre** a las 11:30. 
+[tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS). La
+fecha de entrega es el **5 de noviembre** a las 11:30.
 
 ## Siguiente semana
 
