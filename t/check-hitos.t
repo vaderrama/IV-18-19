@@ -1,5 +1,7 @@
 # -*- cperl -*-
 
+use lib qw(/usr/lib /usr/local/lib /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl5/5.24/); # Necesarios para paquetes Debian
+
 use Test::More;
 use Git;
 use Mojo::UserAgent;
@@ -7,6 +9,9 @@ use File::Slurper qw(read_text);
 use JSON;
 use Net::Ping;
 use Term::ANSIColor qw(:constants);
+use Net::SSLeay;
+use IO::Socket::SSL;
+
 
 use v5.14; # For say
 
@@ -93,16 +98,19 @@ SKIP: {
     } else {
       diag "✗ Problemas extrayendo URL de despliegue";
     }
-    isnt( $deployment_url, "", "URL de despliegue hito 3");
+    ok( $deployment_url, "URL de despliegue hito 3");
   SKIP: {
       skip "Ya en el hito siguiente", 2 unless $this_hito == 3;
       my $status = $ua->get($deployment_url);
       if ( ! $status || $status =~ /html/ ) {
 	$status = $ua->get( "$deployment_url/status"); # Por si acaso han movido la ruta
       }
-      isnt( $status, undef, "Despliegue hecho en $deployment_url" );
-      my $status_ref = from_json( $status->res->body );
-      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+      ok( $status->res, "Despliegue hecho en $deployment_url" );
+      say "Respuesta ", $status->res;
+      my $body = $status->res->body;
+      say "Body → $body";
+      my $status_ref = from_json( $body );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $body de $deployment_url correcto");
     }
   }
 

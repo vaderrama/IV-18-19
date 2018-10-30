@@ -6,9 +6,9 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALARCON CUADROS, SAMUEL| | |
 | ALVAREZ CARRASCO, JUAN| | |
-| ARIZA GARCIA, CARLOS| | |
+| ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.3.5 |
 | BALDERAS RUIZ, LUIS| | |
-| CABRERA GONZALEZ, MARIA MATILDE|| |
+| CABRERA GONZALEZ, MARIA MATILDE| [Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV)|1.2 |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| | |
@@ -19,7 +19,7 @@ Añade debajo enlaces a tu proyecto
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| | |
 | GARCIA MANCILLA, JAVIER| | |
-| GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.9 |
+| GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.9.1 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE| | |
@@ -27,7 +27,7 @@ Añade debajo enlaces a tu proyecto
 | HERRERA VARGAS, ALBERTO| | |
 | JALDO RUIZ, JESUS MIGUEL| | |
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
-| JIMENEZ CAZORLA, MIGUEL| | |
+| JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | 2.3 |
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL| | |
 | LOPEZ RUIZ, MARIO ANTONIO| | |
@@ -51,9 +51,9 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS| | |
 | SARRIONANDIA DE LEÓN, AITOR| | |
-| TALAVERA MENDOZA, FERNANDO RAFAEL| | |
+| TALAVERA MENDOZA, FERNANDO RAFAEL|[Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 1.2 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
-| TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.4 |
+| TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
 | VIÑAS RODRIGUEZ, JOSE MARIA | | |
