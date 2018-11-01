@@ -54,14 +54,27 @@ Lista de objetivos de Alberto Herrera
 
 ## Sexta semana, comienza el 22 de octubre
 - [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
-- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
-- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
 - [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
-- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
-- [ ] Resolver los problemas que surjan en los primeros despliegues.
-- [ ] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
-- [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
-- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+- [x] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
 - [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+
+## Séptima semana, comienza el 29 de octubre
+- [ ] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [ ] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [ ] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
 
 
