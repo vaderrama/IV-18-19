@@ -39,3 +39,12 @@
  - [x] Estudiar el nivel de plataforma de la infraestructura virtual.
  - [ ] Empezar a configurar Azure Web.
  - [x] Comprender los mecanismos de despliegue automático a través de git.
+ 
+ **Objetivos de la sexta sesión**
+ 
+ - [x] Elegido el sistema para llevar a cabo los ejercicios y el proyecto de la asignatura.
+ - [ ] Comprender las diferencias y parecidos entre sistemas PaaS comerciales , exclusivos o de parte de un proveedor.
+ - [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificacón son esenciales para el mismo.
+ - [ ] Resolver los problemas que surjan en los primeros despliegues
+ - [x] Darse se alta en en Azure Web services. 
+ 
