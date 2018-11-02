@@ -56,3 +56,18 @@
 ### Otros objetivos
 - [x] Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 - [x] Comprender los mecanismos de despliegue automático a través de git
+
+## Objetivos de la Semana 6
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+
+### Otros objetivos
+- [] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
+- [] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
