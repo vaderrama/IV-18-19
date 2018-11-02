@@ -40,7 +40,7 @@
  - [ ] Empezar a configurar Azure Web.
  - [x] Comprender los mecanismos de despliegue automático a través de git.
  
- **Objeticos de la sexta sesión**
+ **Objetivos de la sexta sesión**
  
  - [x] Elegido el sistema para llevar a cabo los ejercicios y el proyecto de la asignatura.
  - [ ] Comprender las diferencias y parecidos entre sistemas PaaS comerciales , exclusivos o de parte de un proveedor.
