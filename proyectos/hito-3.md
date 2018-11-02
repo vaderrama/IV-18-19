@@ -18,7 +18,7 @@ Añade debajo enlaces a tu proyecto
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| | |
-| GARCIA MANCILLA, JAVIER| | |
+| GARCIA MANCILLA, JAVIER| [MarcadorDeportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.3.0 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.9.1 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
