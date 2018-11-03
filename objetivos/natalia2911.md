@@ -37,3 +37,19 @@
 - [x] Añadir funcionalidad al proyecto
 - [x] Seguir bien los pasos para hacer un PR (No cometer los fallos indicados)
 - [x] Seguir los pasos de los hitos anteriores
+
+## Hito 3:
+
+ - [x] Corregir los errores de la integración continua
+ - [x] Comprender las diferencias entre los diferentes PaaS
+ - [x] Elegir un determinado PaaS
+ - [x] Entender lo que es el despliege y como se realiza
+ - [x] Entender los diferentes lenguajes de programación  y herramientas de desarrollo para el propio despliege
+ - [x] Resolver los problemas de los primeros desplieges
+ - [x] Darse de alta en el servicio de PaaS en este caso en Heroku
+ - [x] Desplegar el proyecto
+ - [x] Probar diferentes PaaS 
+ - [x] Probar diferentes formas de hacer el despliege: En linea de comandos, y Por la Web
+ - [x] Interiorizar el concepto de PaaS, su aplicación y sus limitaciones
+ - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo
+
