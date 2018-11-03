@@ -48,7 +48,7 @@
 
 ## Objetivos de la Sexta Semana(22 de Octubre)
 - [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
-- [X]Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyeto de la asignatura. 
+- [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyeto de la asignatura. 
 - [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
 - [] Entender el concepto de despliegue y como la infraestructura virtual y su especificación son esenciales para el mismo.
 - [X] Comprender que herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
