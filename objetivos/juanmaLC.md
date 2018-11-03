@@ -48,3 +48,13 @@
  - [ ] Resolver los problemas que surjan en los primeros despliegues
  - [x] Darse se alta en en Azure Web services. 
  
+ 
+ **Objetivos de la séptima semana**
+ 
+ - [x] Probar diferentes PaaS. 
+ - [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+ - [ ] Darse de alta en  Openshift online.
+ - [ ] Hacer pruebas de rendimiento de los servicios web.
+ - [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+ - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+ - [x] Empezado el tercer hito del proyecto.
