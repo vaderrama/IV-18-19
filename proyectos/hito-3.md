@@ -32,7 +32,7 @@ Añade debajo enlaces a tu proyecto
 | LOPEZ CASTRO, JUAN MANUEL| | |
 | LOPEZ RUIZ, MARIO ANTONIO| | |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.2 |
-| MARTIR MORENO, NATALIA MARIA| | |
+| MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|1.0|
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | | |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
