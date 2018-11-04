@@ -43,7 +43,7 @@ reenvío,
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.2|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)|**4.1 reenvío**|
 | PINEDA MOCHON, IGNACIO| [PeluqueríaIV](https://github.com/nachop97m/PeluqueriaIV)|*2.2.1*|
-| PRALEA , MARICICA| | |
+| PRALEA , MARICICA|[Proyecto_IV](https://github.com/maricicaP/Proyecto_IV) | **1.2 Reenvío** |
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2.1 |
 | REY PEDROSA, PABLO|[Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.1.0|
