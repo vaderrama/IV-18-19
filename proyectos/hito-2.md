@@ -7,7 +7,7 @@ reenvío,
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALARCON CUADROS, SAMUEL| [Tienda online componentes](https://github.com/kaizensamuel/proyecto-IV-18-19)| 1.0 |
-| ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | *2.2* |
+| ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | **2.3 reenvío** |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.2.1 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 2.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) |1.0 |
@@ -37,11 +37,11 @@ reenvío,
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT) |**3.0 reenvío** |
 | MARTOS RODRIGUEZ, ANTONIO|[Proyecto-IV](https://github.com/toniMR/Proyecto-IV) |1.0 |
 | MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.2.0 |
-| MORENO LOPEZ, JUAN ESTEBAN| [Proyecto](https://github.com/juaneml/IV_1819_Proyecto) |2.0 |
+| MORENO LOPEZ, JUAN ESTEBAN| [Proyecto](https://github.com/juaneml/IV_1819_Proyecto) |**3.0 reenvío** |
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |0.8 |
 | ORDUÑA DIAZ, ADRIAN| [WorkWaitQueue](https://github.com/adriordi/proyectoIV) | 0.5 |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|1.2|
-| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)|**3.2 reenvío**|
+| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)|**4.1 reenvío**|
 | PINEDA MOCHON, IGNACIO| [PeluqueríaIV](https://github.com/nachop97m/PeluqueriaIV)|*2.2.1*|
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |

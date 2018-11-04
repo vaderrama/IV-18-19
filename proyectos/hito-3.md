@@ -5,7 +5,7 @@ Añade debajo enlaces a tu proyecto
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALARCON CUADROS, SAMUEL| | |
-| ALVAREZ CARRASCO, JUAN| | |
+| ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 2.4 |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.3.5 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 3.1 |
 | CABRERA GONZALEZ, MARIA MATILDE| [Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV)|1.2 |
@@ -14,11 +14,11 @@ Añade debajo enlaces a tu proyecto
 | DEL RIO AGUILAR, ALBERTO| | |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
-| ENRIQUEZ FERNANDEZ, JOSE MANUEL| | |
+| ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.3 |
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
-| GALERA GARRIDO, JUSTO JAVIER| | |
-| GARCIA MANCILLA, JAVIER| | |
+| GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 1.0 |
+| GARCIA MANCILLA, JAVIER| [MarcadorDeportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.3.0 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.9.1 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
@@ -32,7 +32,7 @@ Añade debajo enlaces a tu proyecto
 | LOPEZ CASTRO, JUAN MANUEL| | |
 | LOPEZ RUIZ, MARIO ANTONIO| | |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.2 |
-| MARTIR MORENO, NATALIA MARIA| | |
+| MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|1.0|
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | | |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
@@ -56,4 +56,4 @@ Añade debajo enlaces a tu proyecto
 | TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
-| VIÑAS RODRIGUEZ, JOSE MARIA | | |
+| VIÑAS RODRIGUEZ, JOSE MARIA | [proyecto](https://github.com/joseviro/ProyectoTPV) | 1.1 |

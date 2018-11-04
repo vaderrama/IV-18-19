@@ -48,3 +48,24 @@
 ✓ Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
 
+# Objetivos quinta semana
+
+✓ Terminar la configuración de los sistemas de integración continua
+
+✓ Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+
+
+# Objetivos sexta semana
+
+✓ Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
+
+✓ Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+
+✓ Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+
+✓ Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+
+✓ Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+
+✓ Resolver los problemas que surjan en los primeros despliegues.
+

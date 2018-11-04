@@ -39,3 +39,22 @@
  - [x] Estudiar el nivel de plataforma de la infraestructura virtual.
  - [ ] Empezar a configurar Azure Web.
  - [x] Comprender los mecanismos de despliegue automático a través de git.
+ 
+ **Objetivos de la sexta sesión**
+ 
+ - [x] Elegido el sistema para llevar a cabo los ejercicios y el proyecto de la asignatura.
+ - [ ] Comprender las diferencias y parecidos entre sistemas PaaS comerciales , exclusivos o de parte de un proveedor.
+ - [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificacón son esenciales para el mismo.
+ - [ ] Resolver los problemas que surjan en los primeros despliegues
+ - [x] Darse se alta en en Azure Web services. 
+ 
+ 
+ **Objetivos de la séptima semana**
+ 
+ - [x] Probar diferentes PaaS. 
+ - [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+ - [ ] Darse de alta en  Openshift online.
+ - [ ] Hacer pruebas de rendimiento de los servicios web.
+ - [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+ - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+ - [x] Empezado el tercer hito del proyecto.

@@ -1,5 +1,35 @@
 # Objetivos IV Juan Alvarez
 
+## Séptima Semana
+
+- [X] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [X] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [X] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- []  Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- []  Trabajar con los toolbelts de los diferentes PaaS.
+- [] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Sexta Semana
+
+- [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure
+- [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura
+- [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones
+- [X]  Entender el concepto de despliegue y cómo la infraestructura virtual y sus especificación son esenciales para el mismo.
+- [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [X] Resolver los problemas que surjan en los primeros despliegues
+- [X] Darse de alta y probar diferentes servicios PaaS como Heroku, OpenShift y Azure Web services
+- [X] Aprender buenas prácticas en entornos con integración y despliegue continuo
+
+## Quinta Semana
+
+- [X] Terminar la configuración de los sistemas de integración continua.
+- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [X] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [X] Comprender los mecanismos de despliegue automático a través de git
+
 ## Cuarta Semana
 
 - [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
