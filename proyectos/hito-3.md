@@ -45,7 +45,7 @@ Añade debajo enlaces a tu proyecto
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| | |
 | REY PEDROSA, PABLO| | |
-| RODRIGUEZ MARIN, SERGIO| | |
+| RODRIGUEZ MARIN, SERGIO|[gAcademy](https://github.com/pavocejudo/ProyectoIV)|0.3 |
 | RUIZ LOPEZ, MANUEL | | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
