@@ -54,12 +54,12 @@
 - [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
 - [X] Resolver los problemas que surjan en los primeros despliegues.
 - [X] Darse de alta y probar Heroku y Azure Web services.
-- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases
+- [X] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases
 
 ## Semana 7
-- [X] Probar algún PaaS con su sistema de despliegue correspondiente. En mi caso lo he realizado con Azure Web Service.
+- [X] Probar algún PaaS con su sistema de despliegue correspondiente. En mi caso lo he realizado con Heroku.
 - [X] Darse de alta el Openshift Online.
-- [ ] Trabajar con los toolbers de los diferentes PaaS.
+- [X] Trabajar con los toolbers de los diferentes PaaS.
 - [ ] Pruebas de rendimiento de los servicios web.
 - [ ] Despliegue simultáneo a varios PaaS desde GitHub.
 - [X] Descargar y conocer el CLI de Travis para usarlo para configurarlo y cosas así
