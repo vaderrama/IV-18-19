@@ -7,7 +7,7 @@ Añade debajo enlaces a tu proyecto
 | ALARCON CUADROS, SAMUEL| | |
 | ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 2.4 |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.3.5 |
-| BALDERAS RUIZ, LUIS| | |
+| BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 3.3 |
 | CABRERA GONZALEZ, MARIA MATILDE| [Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV)|1.2 |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
@@ -24,7 +24,7 @@ Añade debajo enlaces a tu proyecto
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE| | |
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
-| HERRERA VARGAS, ALBERTO| | |
+| HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital) | 1.0 |
 | JALDO RUIZ, JESUS MIGUEL| | |
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | 2.3 |
@@ -38,7 +38,7 @@ Añade debajo enlaces a tu proyecto
 | MORENO LOPEZ, JUAN ESTEBAN| | |
 | NAVARRETE CAMPOS, GINES| | |
 | ORDUÑA DIAZ, ADRIAN| | |
-| OSORIO GIRALDEZ, OSCAR| | |
+| OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|2.1|
 | PEREZ RUBIALES, DAVID JESUS| | |
 | PINEDA MOCHON, IGNACIO| | |
 | PRALEA , MARICICA| | |
