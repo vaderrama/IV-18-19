@@ -52,7 +52,7 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ DE LECHINA TEJADA, JESUS| | |
 | SARRIONANDIA DE LEÓN, AITOR| | |
 | TALAVERA MENDOZA, FERNANDO RAFAEL|[Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 1.2 |
-| TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
+| TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) | 1.1 |
 | TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
