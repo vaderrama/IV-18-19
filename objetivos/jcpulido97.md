@@ -62,3 +62,39 @@
 - [x] Entender el segundo hito del proyecto.
 - [x] Comprender los mecanismos de despliegue automático usando git.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+
+
+
+# Objetivos Semana 5 (8 oct)
+
+- [x] Terminar la configuración de los sistemas de integración continua.
+- [x] Estudiar el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] Comenzar a configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
+
+
+
+# Objetivos Semana 6 (22 oct)
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas  PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+- [x] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
+- [x] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push` configurando los repositorios para ello.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
+
+# Objetivos Semana 7 (29 oct)
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [x] Probar [`zeit.co`](https://zeit.co), aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- [x] Trabajar con los *toolbelts* de los diferentes PaaS.
+- [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [x] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
