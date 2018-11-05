@@ -97,3 +97,14 @@
 * [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 * [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 * [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+### Semana 8
+
+* [ ] Comprender la importancia de los contenedores en el el desarrollo informático actual
+* [ ] Entender la base del aislamiento de recursos en el sistema operativo.
+* [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+* [ ] Entender las arquitecturas software basadas en contenedores
+* [ ] Haber entregado el [tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS).
+* [ ] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+* [ ] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+* [ ] Usar imágenes de docker publicadas.
