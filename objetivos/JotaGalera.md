@@ -47,10 +47,10 @@ Lista de objetivos Semana 6:
 -[x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
 -[x] Internalizar el concepto de despliegue y cómo la infraestructura virtual son esenciales para el mismo.
 -[x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
--[] Resolver las dudas que surjan en los primeros despliegues.
+-[x] Resolver las dudas que surjan en los primeros despliegues.
 -[x] Darse de alta en diferentes servicios PaaS.
 
 Lista de objetivos Semana 7:
 
--[] Probar diferentes PaaS con sus sitemas de despliegue correspondientes.
--[] Probar diferentes formas de desplegar aplicaciones desde línea de ordenes y repositorios.
+-[x] Probar diferentes PaaS con sus sitemas de despliegue correspondientes.
+-[x] Probar diferentes formas de desplegar aplicaciones desde línea de ordenes y repositorios.

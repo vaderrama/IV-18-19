@@ -69,3 +69,10 @@
 
 ✓ Resolver los problemas que surjan en los primeros despliegues.
 
+
+# Objetivos séptima semana
+
+✓ Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+
+✓ Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+

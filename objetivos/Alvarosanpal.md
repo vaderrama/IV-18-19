@@ -50,14 +50,28 @@
 - [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
 - [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyeto de la asignatura. 
 - [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
-- [] Entender el concepto de despliegue y como la infraestructura virtual y su especificación son esenciales para el mismo.
+- [X] Entender el concepto de despliegue y como la infraestructura virtual y su especificación son esenciales para el mismo.
 - [X] Comprender que herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
-- [] Resolver los problemas que surjan en los primeros despliegues.
+- [X] Resolver los problemas que surjan en los primeros despliegues.
 ### Otros objetivos
-- [] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web Services.
-- [] Instalar los toolbelt de los diferentes servicios parapoder manejarloscon facilidad o clientes de proveedores de cloud.
-- [] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
-- [] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [X] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web Services.
+- [X] Instalar los toolbelt de los diferentes servicios parapoder manejarlos con facilidad o clientes de proveedores de cloud.
+- [X] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
+- [X] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+## Objetivos de la Séptima Semana(29 de Octubre)
+- [X] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+### Otros Objetivos
+- [X] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- [X] Trabajar con los toolbelts de los diferentes PaaS.
+- [] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+
 
 ## Enlace Repositorio de ejercicios
  Repositorio de  [Ejercicios-IV](https://github.com/Alvarosanpal/Ejercicios-IV)

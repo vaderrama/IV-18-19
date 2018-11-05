@@ -60,19 +60,53 @@
 
 ## Objetivos de la semana del 15/10
 
-- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.  
-- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.  
-- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.  
-- [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.  
-- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.  
-- [ ] Resolver los problemas que surjan en los primeros despliegues.  
-- [ ] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.  
-- [ ] Darse de alta y probar diferentes servicios PaaS.  
-- [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.  
-- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.  
-- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...  
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.  
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.  
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.  
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.  
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.  
+- [x] Resolver los problemas que surjan en los primeros despliegues.  
+- [x] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.  
+- [x] Darse de alta y probar diferentes servicios PaaS.  
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.  
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.  
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...  
 
+## Objetivos de la semana del 22/10
 
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.  
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.  
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.  
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.  
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.  
+- [x] Resolver los problemas que surjan en los primeros despliegues.  
+- [x] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.  
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.  
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.  
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...  
+
+## Objetivos de la semana del 29/10
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.  
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.  
+- [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.  
+- [x] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores (not yet). Más adelante se verá su utilidad. Darse de alta en Openshift online (done).  
+- [x] Trabajar con los toolbelts de los diferentes PaaS.  
+- [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.  
+- [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.  
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.  
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.  
+
+## Objetivos de la semana del 5/11
+
+- [ ] Comprender la importancia de los contenedores en el el desarrollo informático actual  
+- [ ] Entender la base del aislamiento de recursos en el sistema operativo.  
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.  
+- [ ] Entender las arquitecturas software basadas en contenedores  
+- [x] Haber entregado el tercer hito del proyecto.  
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.  
+- [x] Mirar ejercicio para crédito adicional.  
+- [ ] Usar imágenes de docker publicadas.  
 
 
 
