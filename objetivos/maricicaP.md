@@ -34,8 +34,28 @@
 - [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [X] Comprender el papel de las build tools o herramientas de automatización.
 
+# Corresponde al hito 2 
+
+## Semana 4
 
 
+* [X] Comenzar con la configuración de los sistemas de integración continua
+* [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+* [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción
+* [X]Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+* [X] Comprender qué se debe hacer y qué no a la hora de hacer un PR.
+* [X] Entender el segundo hito del proyecto
+* [X] Comprender los mecanismos de despliegue automático usando git.
+* [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales
+
+## Semana 5 
+
+* [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno. 
+* [X]Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+* [X] Comprender los mecanismos de despliegue automático a través de git
+
+
+* [X]
 ## Enlace Repositorio de ejercicios
  Repositorio [Ejercicios_IV](https://github.com/maricicaP/Ejercicios_IV.git)
  

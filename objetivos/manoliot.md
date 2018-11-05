@@ -29,7 +29,7 @@
 # Objetivos del Tema 2:
 
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
-- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación.u
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación.
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
 - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [x] Comprender el papel de las build tools o herramientas de automatización.
@@ -48,7 +48,29 @@
 	- [x] Configuración de construcción y ejecucion de pruebas con `Makefile`.
 	- [x] Configuración de Travis-CI mediante el fichero `.travis.yml`.
 	- [x] Configuración de `codecov`.
-- [x] Creación de tests para el modulo `aemet/utils.py`.
+- [x] Creación de tests para el modulo `aemet/input.py`.
 - [x] Integración continua funcionando con Travis-CI.
 - [x] Descripción de tests e integración continua en `README.md`.
 - [x] Badges de Travis-CI y codecov.
+
+# Objetivos del Tema 3:
+
+
+- [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS.
+- [x] Comprender los mecanismos de despliegue automático a través de git.
+- [x] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+# Objetivos del Hito 2:
+
+- [x] Creación de la ruta "/" con Flask para comprabar el despliegue.
+- [x] Alta en Heroku y creación de la aplicación.
+- [x] Instalación del CLI de Heroku.
+- [x] Configuración del repositorio para el despliegue mediante el fichero Procfile.
+- [x] Despliegue de la aplicación mediante el CLI de Heroku.
+- [x] Configuración para despliegue automático mediante Travis-CI.
+- [x] Documentación de los pasos realizados para el despliegue.

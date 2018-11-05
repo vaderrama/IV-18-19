@@ -20,7 +20,7 @@
 - [X] Instalación de Linux realizada
 - [X] Manejo e instalación de programas de software libre desde la terminal
 - [X] Concepto de Sistema de Ficheros virtual en Linux
-- [ ] Revisar ejercicios de compañeros
+- [X] Revisar ejercicios de compañeros
 - [X] Leer apuntes de teoría
 
 ## Semana 3
@@ -41,3 +41,25 @@
 - [X] Conocer y saber utilizar formato JSON.
 - [X] Conocer los mecanismos de despliegue automático con git.
 
+## Semana 5
+- [X] Terminar Configuración de los sistemas de integración contínua.
+- [X] Configurar un sistemas PaaS: Azure Webs Apps
+- [X] Despliegue automático a través de git.
+
+## Semana 6
+- [X] Diferencias y parecidos entre varios PaaS comerciales.
+- [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [X] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [X] Resolver los problemas que surjan en los primeros despliegues.
+- [X] Darse de alta y probar Heroku y Azure Web services.
+- [X] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases
+
+## Semana 7
+- [X] Probar algún PaaS con su sistema de despliegue correspondiente. En mi caso lo he realizado con Heroku.
+- [X] Darse de alta el Openshift Online.
+- [X] Trabajar con los toolbers de los diferentes PaaS.
+- [ ] Pruebas de rendimiento de los servicios web.
+- [ ] Despliegue simultáneo a varios PaaS desde GitHub.
+- [X] Descargar y conocer el CLI de Travis para usarlo para configurarlo y cosas así
