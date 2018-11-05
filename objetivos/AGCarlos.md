@@ -5,8 +5,7 @@
 -   [x] Crear repositorios para la asignatura:
 -   [Repositorio de ejercicios](https://github.com/AGCarlos/IV_1819_Ejercicios)  
 -   [Repositorio del proyecto](https://github.com/AGCarlos/IV_1819_Proyecto)
--   [Fork del repositorio de JJ](https://github.com/AGCarlos/IV-18-19)  
-
+-   [Fork del repositorio de JJ](https://github.com/AGCarlos/IV-18-19)
 -   [x] Configurar git  
 -   [x] Poner a punto las herramientas  
 -   [x] Enviar fichero de objetivos al repositorio del JJ
@@ -47,3 +46,18 @@
 -   [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
 -   [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
 -   [x] Resolver los problemas que surjan en los primeros despliegues.
+
+#### Semana 7
+
+-   [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+-   [x] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+-   [x] Trabajar con los toolbelts de los diferentes PaaS.
+-   [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+-   [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+#### Semana 8
+
+- [ ] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] Entender las arquitecturas software basadas en contenedores
