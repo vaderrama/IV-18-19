@@ -79,9 +79,9 @@
 
 ### Otros objetivos
 - [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
-- [] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
-- [] Trabajar con los toolbelts de los diferentes PaaS.
-- [] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
-- [] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
-- [] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-- [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+- [ ] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- [ ] Trabajar con los toolbelts de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
