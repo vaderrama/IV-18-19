@@ -67,7 +67,21 @@
 - [x] Resolver los problemas que surjan en los primeros despliegues.
 
 ### Otros objetivos
-- [] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
-- [] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
+- [x] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+## Objetivos de la Semana 7
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+### Otros objetivos
+- [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- [] Trabajar con los toolbelts de los diferentes PaaS.
+- [] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
