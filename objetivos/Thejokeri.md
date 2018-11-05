@@ -19,7 +19,7 @@
 * [x] Poner a punto las herramientas.
 * [x] Creación del fichero .gitignore en el proyecto.
 * [x] Tabla de proyecto rellena.
-* [ ] [Ejercicio del tema 1](https://github.com/Thejokeri/IV-18-19-Ejercicios/blob/master/Ejercicio1.md).
+* [x] [Ejercicio del tema 1](https://github.com/Thejokeri/IV-18-19-Ejercicios/blob/master/Ejercicio1.md).
 
 ## Hito 1
   
@@ -84,3 +84,16 @@
 * [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
 * [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
 * [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+### Semana 7
+
+* [ ] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+* [ ] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+* [ ] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+* [ ] Probar [`zeit.co`](https://zeit.co), aunque funcione sólo con
+   JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+* [ ] Trabajar con los *toolbelts* de los diferentes PaaS.
+* [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+* [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+* [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+* [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
