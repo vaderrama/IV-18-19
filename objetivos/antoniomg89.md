@@ -48,3 +48,8 @@ Objetivos de la semana, comienza el 8 de octubre
 
 - [x] Realizada prueba con heroku.
 - [x] Hechos los dos primeros [ejercicios de la semana](https://github.com/antoniomg89/EjerciciosIV/blob/master/ES4.md)
+
+Objetivos de las semanas (8 de octubre a 2 de Noviembre)
+============================
+
+  -[x] Probado Azure y realizado despliegue.
