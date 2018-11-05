@@ -46,7 +46,7 @@ Añade debajo enlaces a tu proyecto
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2.2 |
 | REY PEDROSA, PABLO| | |
 | RODRIGUEZ MARIN, SERGIO|[gAcademy](https://github.com/pavocejudo/ProyectoIV)|0.3 |
-| RUIZ LOPEZ, MANUEL | | |
+| RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 1.1 |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS|[Duckpiler](https://github.com/jojelupipa/Duckpiler)|0.9|
