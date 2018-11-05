@@ -10,7 +10,7 @@ Añade debajo enlaces a tu proyecto
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 3.3 |
 | CABRERA GONZALEZ, MARIA MATILDE| [Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV)|1.2 |
 | CALVO VILLAZAN, RUBEN| | |
-| CRUZ PEREZ, SERGIO|[Almacén DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) | 3.1|
+| CRUZ PEREZ, SERGIO| [Almacén-DJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual)|3.1 |
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 3.3 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
@@ -29,7 +29,7 @@ Añade debajo enlaces a tu proyecto
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | 2.3 |
 | KEMP MUÑOZ, MARCEL| | |
-| LOPEZ CASTRO, JUAN MANUEL| | |
+| LOPEZ CASTRO, JUAN MANUEL|[ProyectoIV](https://github.com/juanmaLC/ProyectoIV)  | 3.1|
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 1.3 |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.2 |
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|1.0|
