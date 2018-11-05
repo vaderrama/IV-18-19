@@ -54,3 +54,11 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Resolver los problemas que surjan en los primeros despliegues.
 - [X] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
 - [X] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+
+### Semana 7
+- [X] Probar diferentes PaaS con sus sistemas de despliegue correspondientes
+- [X] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [X] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [X] Trabajar con los toolbelts de los diferentes PaaS.
+- [X] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [X] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
