@@ -48,7 +48,7 @@ Añade debajo enlaces a tu proyecto
 | RODRIGUEZ MARIN, SERGIO|[gAcademy](https://github.com/pavocejudo/ProyectoIV)|0.3 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 1.1 |
 | SANCHEZ JIMENEZ, DAVID| | |
-| SANCHEZ PALOMINO, ALVARO| | |
+| SANCHEZ PALOMINO, ALVARO|[Proyecto](https://github.com/Alvarosanpal/Proyecto_IV)|1.0|
 | SANCHEZ DE LECHINA TEJADA, JESUS|[Duckpiler](https://github.com/jojelupipa/Duckpiler)|0.9|
 | SARRIONANDIA DE LEÓN, AITOR| | |
 | TALAVERA MENDOZA, FERNANDO RAFAEL|[Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 1.2 |
