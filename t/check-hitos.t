@@ -68,7 +68,7 @@ SKIP: {
     my @closed_issues =  closed_issues($user, $name);
     cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). " issues cerrado(s)");
     for my $i (@closed_issues) {
-      my ($issue_id) = ($i =~ /issue_(\d+)/);
+      my ($issue_id) = ($i =~ /issue-id-(\d+)/);
       
       is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
     }
@@ -184,7 +184,7 @@ sub how_many_milestones {
 sub closed_issues {
   my ($user,$repo) = @_;
   my $page = get_github( "https://github.com/$user/$repo".'/issues?q=is%3Aissue+is%3Aclosed' );
-  my (@closed_issues ) = ( $page =~ m{<li\s+(id=.+?</li>)}gs );
+  my (@closed_issues ) = ( $page =~ m{<a\s+(id=\".+?\")}gs );
   return @closed_issues;
 
 }
@@ -193,7 +193,6 @@ sub closes_from_commit {
   my ($user,$repo,$issue) = @_;
   my $page = get_github( "https://github.com/$user/$repo/issues/$issue" );
   return $page =~ /closed\s+this\s+in/gs ;
-  
 }
 
 sub check_ip {
