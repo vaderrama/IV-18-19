@@ -106,6 +106,7 @@ SKIP: {
 	$status = $ua->get( "$deployment_url/status"); # Por si acaso han movido la ruta
       }
       ok( $status->res, "Despliegue hecho en $deployment_url" );
+      is( $status->res->headers->content_type, "application/json", "Status devuelve application/json")
       say "Respuesta ", $status->res;
       my $body = $status->res->body;
       say "Body → $body";
