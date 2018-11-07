@@ -32,13 +32,13 @@
 
 - [x] -Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 
-## Semana 1 de Octubre
+## Semana 1 de octubre
 - [x] -Comenzar con la configuración de los sistemas de integración continua.
 - [x] -Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] -Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 - [x] -Comprender los mecanismos de despliegue automático usando git.
 
-## Semana 8 de Octubre
+## Semana 8 de octubre
 - [x] -Terminar la configuración de los sistemas de integración continua.
 - [x] -Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 - [x] -Entender el segundo hito del proyecto.
@@ -49,7 +49,7 @@
 - [x] -Comenzar a configurar los toolbet de diferentes sistemas PaaS tales como BlueMix, Heroku u Openshift o Azure Web Apps.
 - [x] -Comprender los mecanismos de despliegue automático a través de git.
 
-## Semana 22 de Octubre
+## Semana 22 de octubre
 - [x] -Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales o parte de un proveedor cloud como Azure.
 - [x] -Elegir uno o varias sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
 - [x] -Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
@@ -57,3 +57,13 @@
 - [x] -Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
 - [x] -Resolver los problemas que surjan en los primeros despliegues.
 - [x] -Darse de alta y probar diferentes servicios como PaaS como Heroku, Zeit.co y Azure Web services.
+
+## Semana 29 de octubre
+- [x] -Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] -Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios
+- [x] -Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [ ] -Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- [ ] -Trabajar con los toolbelts de los diferentes PaaS.
+- [ ] -Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] -Experimentar con el despliegue simultáneo a varios PaaS desde Github.
+- [ ] -Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
