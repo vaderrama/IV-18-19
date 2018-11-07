@@ -33,11 +33,27 @@
 - [x] -Entender lo que se pide en el primer hito del proyecto al final de la semana y entregarlo al principio de la semana siguiente.
 
 ## Semana 1 de Octubre
--[x] -Comenzar con la configuración de los sistemas de integración continua.
--[x] -Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
--[x] -Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
--[x] -Comprender los mecanismos de despliegue automático usando git.
+- [x] -Comenzar con la configuración de los sistemas de integración continua.
+- [x] -Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] -Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [x] -Comprender los mecanismos de despliegue automático usando git.
 
 ## Semana 8 de Octubre
--[x] -Terminar la configuración de los sistemas de integración continua.
--[x]Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] -Terminar la configuración de los sistemas de integración continua.
+- [x] -Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] -Entender el segundo hito del proyecto.
+- [x] -Comprender los mecanismos de despliegue automático usando git.
+- [x] -Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] -Terminar la configuración de los sistemas de integración continua.
+- [x] -Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [x] -Comenzar a configurar los toolbet de diferentes sistemas PaaS tales como BlueMix, Heroku u Openshift o Azure Web Apps.
+- [x] -Comprender los mecanismos de despliegue automático a través de git.
+
+## Semana 22 de Octubre
+- [x] -Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales o parte de un proveedor cloud como Azure.
+- [x] -Elegir uno o varias sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] -Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] -Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] -Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] -Resolver los problemas que surjan en los primeros despliegues.
+- [x] -Darse de alta y probar diferentes servicios como PaaS como Heroku, Zeit.co y Azure Web services.
