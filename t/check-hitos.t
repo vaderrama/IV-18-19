@@ -9,8 +9,8 @@ use File::Slurper qw(read_text);
 use JSON;
 use Net::Ping;
 use Term::ANSIColor qw(:constants);
-use Net::SSLeay;
-use IO::Socket::SSL;
+# use Net::SSLeay;
+# use IO::Socket::SSL;
 
 
 use v5.14; # For say
@@ -18,7 +18,7 @@ use v5.14; # For say
 my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD^1','HEAD');
 my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
-my $ua =  Mojo::UserAgent->new;
+my $ua =  Mojo::UserAgent->new(connect_timeout => 10);
 my $github;
 
 SKIP: {
@@ -106,8 +106,9 @@ SKIP: {
 	$status = $ua->get( "$deployment_url/status"); # Por si acaso han movido la ruta
       }
       ok( $status->res, "Despliegue hecho en $deployment_url" );
-      is( $status->res->headers->content_type, "application/json", "Status devuelve application/json")
       say "Respuesta ", $status->res;
+      is( $status->res->headers->content_type, "application/json", "Status devuelve application/json");
+      say "Content Type ", $status->res->headers->content_type;
       my $body = $status->res->body;
       say "Body → $body";
       my $status_ref = from_json( $body );
