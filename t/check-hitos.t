@@ -9,8 +9,8 @@ use File::Slurper qw(read_text);
 use JSON;
 use Net::Ping;
 use Term::ANSIColor qw(:constants);
-use Net::SSLeay;
-use IO::Socket::SSL;
+# use Net::SSLeay;
+# use IO::Socket::SSL;
 
 
 use v5.14; # For say
@@ -18,7 +18,7 @@ use v5.14; # For say
 my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD^1','HEAD');
 my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
-my $ua =  Mojo::UserAgent->new;
+my $ua =  Mojo::UserAgent->new(connect_timeout => 10);
 my $github;
 
 SKIP: {
@@ -68,7 +68,7 @@ SKIP: {
     my @closed_issues =  closed_issues($user, $name);
     cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). " issues cerrado(s)");
     for my $i (@closed_issues) {
-      my ($issue_id) = ($i =~ /issue_(\d+)/);
+      my ($issue_id) = ($i =~ /issue-id-(\d+)/);
       
       is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
     }
@@ -107,6 +107,8 @@ SKIP: {
       }
       ok( $status->res, "Despliegue hecho en $deployment_url" );
       say "Respuesta ", $status->res;
+      is( $status->res->headers->content_type, "application/json", "Status devuelve application/json");
+      say "Content Type ", $status->res->headers->content_type;
       my $body = $status->res->body;
       say "Body → $body";
       my $status_ref = from_json( $body );
@@ -182,7 +184,7 @@ sub how_many_milestones {
 sub closed_issues {
   my ($user,$repo) = @_;
   my $page = get_github( "https://github.com/$user/$repo".'/issues?q=is%3Aissue+is%3Aclosed' );
-  my (@closed_issues ) = ( $page =~ m{<li\s+(id=.+?</li>)}gs );
+  my (@closed_issues ) = ( $page =~ m{<a\s+(id=\".+?\")}gs );
   return @closed_issues;
 
 }
@@ -191,7 +193,6 @@ sub closes_from_commit {
   my ($user,$repo,$issue) = @_;
   my $page = get_github( "https://github.com/$user/$repo/issues/$issue" );
   return $page =~ /closed\s+this\s+in/gs ;
-  
 }
 
 sub check_ip {
