@@ -62,3 +62,12 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Trabajar con los toolbelts de los diferentes PaaS.
 - [X] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [X] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+
+## Hito 4
+### Semana 8
+- [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender las arquitecturas software basadas en contenedores
+- [X] Haber entregado el tercer hito del proyecto.
