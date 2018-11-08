@@ -12,3 +12,9 @@
 - [x] Elegir una licencia adecuada
 - [x] Entender el concepto de desarrollo con test
 - [x] Ampliar la descripción de mi proyecto y trabajar con milestones
+
+## Semana 03
+- [x] Refresco rápido de JSON. Ya lo había utilizado antes.
+- [x] Entender y usar los test en el repositorio.
+- [x] Crear un nuevo proyecto. El anterior era demasiado complejo para la asignatura.
+- [x] Trabajar con Travis-CI, entender qué hace y cómo funciona.
