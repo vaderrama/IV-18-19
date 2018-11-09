@@ -70,3 +70,33 @@
 2. [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 
 
+# Semana del 22 de octubre
+# Objetivos
+
+1. [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
+2. [x]  Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+3. [x]  Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+3. [x]  Entender el concepto de despliegue y cómo la infraestructura
+   virtual y su especificación son esenciales para el mismo.
+4. [x]  Comprender qué herramientas de desarrollo y lenguajes de programación 
+  se pueden usar en diferentes PaaS con facilidad.
+3. [x]  Resolver los problemas que surjan en los primeros despliegues.
+
+
+## Otros objetivos
+
+1. [x] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
+
+# Semana del 29 de octubre
+
+Para terminar el hito 3 y emprender el camino al siguiente hito,
+usando PaaS
+
+## Objetivos 
+
+1. [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+2. [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+
+
+
