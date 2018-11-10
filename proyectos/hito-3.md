@@ -48,9 +48,9 @@ Añade debajo enlaces a tu proyecto
 | RODRIGUEZ MARIN, SERGIO|[gAcademy](https://github.com/pavocejudo/ProyectoIV)|0.3 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 1.1 |
 | SANCHEZ JIMENEZ, DAVID| | |
-| SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.3.4|
 | SANCHEZ PALOMINO, ALVARO|[Proyecto](https://github.com/Alvarosanpal/Proyecto_IV)|1.0|
 | SANCHEZ DE LECHINA TEJADA, JESUS|[Duckpiler](https://github.com/jojelupipa/Duckpiler)|0.9|
+| SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.3.4|
 | TALAVERA MENDOZA, FERNANDO RAFAEL|[Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 1.2 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) | 1.4 |
 | TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.4 |
