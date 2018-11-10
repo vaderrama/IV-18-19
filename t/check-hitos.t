@@ -107,7 +107,7 @@ SKIP: {
       }
       ok( $status->res, "Despliegue hecho en $deployment_url" );
       say "Respuesta ", $status->res;
-      is( $status->res->headers->content_type, "application/json", "Status devuelve application/json");
+      like( $status->res->headers->content_type, qr{application/json}, "Status devuelve application/json");
       say "Content Type ", $status->res->headers->content_type;
       my $body = $status->res->body;
       say "Body → $body";
