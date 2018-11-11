@@ -71,10 +71,19 @@ Lista de objetivos de Alberto Herrera
 - [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
 - [x] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
 - [x] Trabajar con los toolbelts de los diferentes PaaS.
-- [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
-- [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [x] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 
+## Octava semana, comienza el 5 de noviembre
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+- [x] Haber entregado el tercer hito del proyecto.
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [ ] Mirar ejercicio para crédito adicional
+- [x] Usar imágenes de docker publicadas.
 
