@@ -63,7 +63,7 @@ Objetivos - Ángel Gómez
 
 
 
-## Semana 6 y 7 (15 oct - 22 oct)
+## Semana 6 (22 oct)
 
 - [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
 - [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
@@ -75,3 +75,44 @@ Objetivos - Ángel Gómez
 - [x] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
+
+
+
+## Semana 7 (29 oct)
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [ ] Probar [`zeit.co`](https://zeit.co/), aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- [x] Trabajar con los *toolbelts* de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+
+
+## Semana 8 (5 nov)
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] Entender las arquitecturas software basadas en contenedores.
+- [x] Haber entregado el [tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS).
+- [x] Instalar Docker y empezar a trabajar con él.
+- [ ] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests).
+- [x] Usar imágenes de docker publicadas.
+
+
+
+## Semana 9 (12 nov)
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+- [x] Entender los errores comunes del hito anterior (PaaS):
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [ ] Si no se ha hecho, alta en [Zeit](https://zeit.co/) e instalación del cliente.
+- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.

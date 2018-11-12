@@ -17,19 +17,19 @@ Añade debajo enlaces a tu proyecto
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.3 |
 | FLORES GARRIDO, FERNANDO| [Tienda-Videojuegos-IV](https://github.com/FFGFER/Proyecto-IV) | 0.4 |
 | FUERTES MORENO, PEDRO LUIS| | |
-| GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 1.0 |
+| GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 1.3 ***REENVIO*** |
 | GARCIA MANCILLA, JAVIER| [MarcadorDeportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.3.0 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.9.1 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
-| GUTIERREZ SEGOVIA, JORGE| | |
+| GUTIERREZ SEGOVIA, JORGE| [BirthBot](https://github.com/Saytes/BirthBot) | 1.1 |
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital) | **2.0 Reenvío** |
 | JALDO RUIZ, JESUS MIGUEL| [OWStatistics](https://github.com/JmZero/Proyecto-IV) | 3.0 |
 | JIMENEZ ARGUELLO, ANTONIO JOSE| [Proyecto IV](https://github.com/antonioJ95/ProyectoIV) |3.5|
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | **2.3.2 (r)** |
 | KEMP MUÑOZ, MARCEL| | |
-| LOPEZ CASTRO, JUAN MANUEL|[ProyectoIV](https://github.com/juanmaLC/ProyectoIV)  | 3.1|
+| LOPEZ CASTRO, JUAN MANUEL|[ProyectoIV](https://github.com/juanmaLC/ProyectoIV)  | **3.5 Reenvío**|
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 1.3 |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.2 |
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|**2.0 reenvio**|
