@@ -19,15 +19,15 @@
    4. Si no enlazas o no documentas, no se puede corregir.
    5. No he visto ni un despliegue en Azure.
 1. Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
-1. Instalar docker y trabajar con él.
+1. Familiarizarse con Docker.
 3. Si no se ha hecho, alta en [Zeit](https://zeit.co) e instalación
-   del cliente.
+   del cliente. Si se puede usar la versión *legacy*, mejor.
 4. Comprobar los servicios de publicación de contenedores de los
-   diferentes sistemas en la nube.
+   diferentes sistemas en la nube, tales como Azure.
 
 ## Material para la clase
 
-Continuamos  con el tema dedicado a los
+Continuamos con el tema dedicado a los
 [contenedores](http://jj.github.io/IV/documentos/temas/Contenedores),
 que tiene material nuevo y
 el
