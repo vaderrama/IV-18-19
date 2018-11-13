@@ -75,3 +75,21 @@
 [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 
 [X]  Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+
+## Objetivos del hito 4 ##
+
+
+[X] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+
+[X] Crear infraestructuras virtuales completas.
+
+[X] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+[X] Darse de alta en DockerHub.
+
+[X] Incluir en mi proyecto una nueva clase que englobe varios medicamentos
+
+[X] Preparar test para la clase del punto anterior.
+
+[X] Hacer los ejercicios del tema 4.
