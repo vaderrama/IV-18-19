@@ -52,4 +52,10 @@ Objetivos de la semana, comienza el 8 de octubre
 Objetivos de las semanas (8 de octubre a 2 de Noviembre)
 ============================
 
-  -[x] Probado Azure y realizado despliegue.
+- [x] Probado Azure y realizado despliegue.
+
+Objetivos de la semana del 12 de Noviembre
+============================
+
+- [x] Instalado Docker y creados contenedores de prueba mediante dockerfiles. Subir estos contenedores a Docker Hub.
+- [x] Realizando pruebas para automatizar el despliegue en Heroku desde Docker Hub al pasar los tests de Travis.
