@@ -243,7 +243,8 @@ sub travis_status {
 sub objetivos_actualizados {
   my $repo = shift;
   my $objective_file = shift;
-  my $date = $repo->command('log', '-1', '--date=relative', '--', "../$objective_file");
+  my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
+  my $date = $repo->command('log', '-1', '--date=relative', '--', "$prefix/$objective_file");
   my ($hace,$unidad)= $date =~ /Date:.+?(\d+)\s+(\w+)/;
   if ($unidad =~ /(semana|week)/ or $hace > 7 ) {
     return 0;
