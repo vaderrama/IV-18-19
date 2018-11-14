@@ -1,5 +1,27 @@
 # Objetivos IV Juan Alvarez
 
+
+## Novena Semana 
+
+- [] Entender la base del aislamiento de recursos en el sistema operativo
+- [X] Entender y corregir posibles errores del hito 3
+- [] Entender las diferentes formas de aislar recursos en Linux
+- [X] Familiarizarse con Docker
+- [] Darse de alta en Zeit e instalación del cliente
+- [] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure
+- [] Entregar el hito 4
+
+
+## Octava Semana
+
+- [X] Comprender la importancia de los contenedores en el desarrollo informático actual
+- [X] Entender la base del aislamiento de recursos en el sistema operativo
+- [X] Entender las diferentes formas de aislar recursos en Linux
+- [X] Entender las arquitecturas software basadas en contenedores
+- [] Instalar Docker y realizar pruebas
+- [] Hacer pruebas con imágenes de docker publicadas
+
+
 ## Séptima Semana
 
 - [X] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
