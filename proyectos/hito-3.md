@@ -4,7 +4,7 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| ALARCON CUADROS, SAMUEL| | |
+| ALARCON CUADROS, SAMUEL| [Tienda online componentes](https://github.com/kaizensamuel/proyecto-IV-18-19) | 2.1|
 | ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 2.4 |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.3.6 **Reenvío** |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 3.4.1 |
@@ -15,7 +15,7 @@ Añade debajo enlaces a tu proyecto
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.3 |
-| FLORES GARRIDO, FERNANDO| [Tienda-Videojuegos-IV](https://github.com/FFGFER/Proyecto-IV) | 0.4 |
+| FLORES GARRIDO, FERNANDO| [Tienda-Videojuegos-IV](https://github.com/FFGFER/Proyecto-IV) | **0.5 Reenvío** |
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER|[FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 1.3 ***REENVIO*** |
 | GARCIA MANCILLA, JAVIER| [MarcadorDeportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.3.0 |
@@ -49,7 +49,7 @@ Añade debajo enlaces a tu proyecto
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 1.1 |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO|[Proyecto](https://github.com/Alvarosanpal/Proyecto_IV)|1.0|
-| SANCHEZ DE LECHINA TEJADA, JESUS|[Duckpiler](https://github.com/jojelupipa/Duckpiler)|0.9|
+| SANCHEZ DE LECHINA TEJADA, JESUS|[Duckpiler](https://github.com/jojelupipa/Duckpiler)|**0.9.5 reevío**|
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|**1.3.4**|
 | TALAVERA MENDOZA, FERNANDO RAFAEL|[Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | **1.7 REENVIO** |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) | 1.4 |
