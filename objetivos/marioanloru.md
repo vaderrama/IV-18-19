@@ -62,12 +62,34 @@ Objetivos Infraestructura Virtual
 
 #### Semana 7
 
-- [ ] Probar diferentes PaaS con sus sitemas de despligue correspondientes
-- [ ] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios
-- [ ] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [x] Probar diferentes PaaS con sus sitemas de despligue correspondientes
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios
+- [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
 - [ ] Probar `zeitco`
-- [ ] Trabajar con los `toolbelts`de los diferentes PaaS
-- [ ] Hacer pruebas de rendimiento de los servicios web
-- [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS
-- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub
-- [ ] Descargarse y conocer el CLI de Travis para usarlo
+- [x] Trabajar con los `toolbelts`de los diferentes PaaS
+- [x] Hacer pruebas de rendimiento de los servicios web
+- [x] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub
+- [x] Descargarse y conocer el CLI de Travis para usarlo
+
+### Hito 4
+
+#### Semana 8
+
+- [x] Comprender la importancia de los contenedores en el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo
+- [x] Entender las diferentes formas de aislar recursos en Linux
+- [x] Entender las arquitecturas software basadas en contenedores
+- [x] Instalar Docker y realizar pruebas
+- [x] Hacer pruebas con imágenes de docker publicadas
+
+#### Semana 9
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo
+- [ ] Entender y corregir posibles errores del hito 3
+- [x] Entender las diferentes formas de aislar recursos en Linux
+- [x] Familiarizarse con Docker
+- [ ] Darse de alta en Zeit e instalación del cliente
+- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure
+- [ ] Entregar el hito 4
+
