@@ -23,8 +23,9 @@ my $github;
 
 SKIP: {
   my ($this_hito) = ($diff =~ $diff_regex);
-  skip "No hay envío de proyecto", 7 unless defined $this_hito;
+  skip "No hay envío de proyecto" unless defined $this_hito;
   my @files = split(/diff --git/,$diff);
+        
   my ($diff_hito) = grep( /$diff_regex/, @files);
   say "Tratando diff\n\t$diff_hito";
   my @lines = split("\n",$diff_hito);
@@ -41,12 +42,16 @@ SKIP: {
   like($url_repo,qr/github.com/,"El URL es de GitHub"); # Test 3
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/([^\.]+)/);
 
-  # Comprobación de envío de objetivos
+  # Comprobación de envío de objetivos cuando hay nombre de usuario
   my @ficheros_objetivos = glob "objetivos/*.md";
   my @enviados = map { lc } @ficheros_objetivos;
   my $lc_user = lc $user;
   isnt( grep( /$lc_user/, @enviados), 0, "$user ha enviado objetivos" ); # Test 4
 
+  # Comprobar que los ha actualizado
+  ok( objetivos_actualizados( "objetivos/$lc_user.md" ), "Los objetivos de $lc_user están actualizados") or skip "Los objetivos no están actualizados";
+
+  # Se crea el repo y se hacen cosas.
   my $repo_dir = "/tmp/$user-$name";
   if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
     mkdir($repo_dir);
@@ -233,4 +238,18 @@ sub travis_status {
   my ($build_status) = ($README =~ /tatus..([^\)]+)\)/);
   my $status_svg = `curl -L -s $build_status`;
   return $status_svg =~ /passing/?"Passing":"Fail";
+}
+
+sub objetivos_actualizados {
+  my $repo = shift;
+  my $objective_file = shift;
+  my $date = $repo->command('log', '-1', '--date=relative', '--', $objective_file);
+  my ($hace)= $date =~ /(\d+\s+\w+)/;
+  if ($hace =~ /(semana|week)/ or $hace > 7 ) {
+    return 0;
+  } else {
+    return 1;
+  }
+  
+  
 }
