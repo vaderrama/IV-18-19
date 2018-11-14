@@ -58,3 +58,16 @@
  - [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
  - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
  - [x] Empezado el tercer hito del proyecto.
+ 
+ 
+ 
+ 
+ **Objetivos de la octava semana**
+ 
+ - [x] Comprender la importancia de los contenedores en el desarrollo informático actual.
+ - [x] Entender la base del aislamiento de recursos en el sistema operativo.
+ - [x] Entender las diferentes formas de aislar recursos en Linux.
+ - [ ] Entender las arquitecturas software basadas en contenedores.
+ - [x] Entregado el tercer hito del proyecto.
+ - [ ] Instalar Docker y empezar a trabajar con él.
+ - [ ] Usar imagenes de docker publicadas. 
