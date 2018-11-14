@@ -250,6 +250,5 @@ sub objetivos_actualizados {
   } else {
     return 1;
   }
-  
-  
+
 }
