@@ -89,5 +89,5 @@
 * [ ] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
 * [ ] Familiarizarse con Docker.
 * [ ] Si no se ha hecho, alta en [Zeit](https://zeit.co) e instalación del cliente. Si se puede usar la versión *legacy*, mejor.
-* [ ]Comprobar los servicios de publicación de contenedores de los
+* [ ] Comprobar los servicios de publicación de contenedores de los
    diferentes sistemas en la nube, tales como Azure.
