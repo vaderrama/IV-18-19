@@ -49,7 +49,7 @@ SKIP: {
   isnt( grep( /$lc_user/, @enviados), 0, "$user ha enviado objetivos" ); # Test 4
 
   # Comprobar que los ha actualizado
-  ok( objetivos_actualizados( "objetivos/$lc_user.md" ), "Los objetivos de $lc_user están actualizados") or skip "Los objetivos no están actualizados";
+  ok( objetivos_actualizados( $repo, "objetivos/$lc_user.md" ), "Los objetivos de $lc_user están actualizados") or skip "Los objetivos no están actualizados";
 
   # Se crea el repo y se hacen cosas.
   my $repo_dir = "/tmp/$user-$name";
@@ -243,9 +243,9 @@ sub travis_status {
 sub objetivos_actualizados {
   my $repo = shift;
   my $objective_file = shift;
-  my $date = $repo->command('log', '-1', '--date=relative', '--', $objective_file);
-  my ($hace)= $date =~ /(\d+\s+\w+)/;
-  if ($hace =~ /(semana|week)/ or $hace > 7 ) {
+  my $date = $repo->command('log', '-1', '--date=relative', '--', "../$objective_file");
+  my ($hace,$unidad)= $date =~ /Date:.+?(\d+)\s+(\w+)/;
+  if ($unidad =~ /(semana|week)/ or $hace > 7 ) {
     return 0;
   } else {
     return 1;
