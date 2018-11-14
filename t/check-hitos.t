@@ -125,9 +125,9 @@ SKIP: {
     doing("hito 4");
     my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https:..\S+)\b/);
     if ( $deployment_url ) {
-      diag "☑ Detectado URL de despliegue $deployment_url";
+      diag "☑ Detectado URL de despliegue Docker $deployment_url";
     } else {
-      diag "✗ Problemas detectando URL de despliegue";
+      diag "✗ Problemas detectando URL de despliegue de Docker";
     }
     isnt( $deployment_url, "", "URL de despliegue hito 4");
   SKIP: {
