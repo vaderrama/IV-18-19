@@ -246,10 +246,12 @@ sub objetivos_actualizados {
   my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
   my $date = $repo->command('log', '-1', '--date=relative', '--', "$prefix/$objective_file");
   my ($hace,$unidad)= $date =~ /Date:.+?(\d+)\s+(\w+)/;
-  if ($unidad =~ /(semana|week)/ or $hace > 7 ) {
+  if ( $unidad =~ /(semana|week|minut)/ ) {
     return 0;
-  } else {
-    return 1;
+  } elsif ( $unidad =~ /ho/ ) {
+    return ($hace > 1 )?1:0;
+  } elsif ( $unidad =~ /(day|d.a)/ ){
+    return ($hace < 7)?1:0;
   }
 
 }
