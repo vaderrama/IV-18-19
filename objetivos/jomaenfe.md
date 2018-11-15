@@ -83,7 +83,7 @@
 - [ ] Entender la base del aislamiento de recursos en el sistema operativo.
 - [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [X] Entender los errores comunes del hito anterior (PaaS).
-- [] Lo que tiene que devolver status hay que sustituirlo por las rutas que haya definidas y qué devuelven.
+- [ ] Lo que tiene que devolver status hay que sustituirlo por las rutas que haya definidas y qué devuelven.
 - [X] Familiarizarse con Docker. 
 - [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor
 - [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
