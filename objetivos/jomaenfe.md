@@ -74,18 +74,18 @@
 
 - [X] Comprender la importancia de los contenedores en el el desarrollo informático actual.
 - [X] Comprender la importancia de los contenedores en el el desarrollo informático actual.
-- [] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [X] Entender las arquitecturas software basadas en contenedores.
 - [X] Haber entregado el tercer hito del proyecto.
 - [X] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 
 ### Sesión 9:
-- [] Entender la base del aislamiento de recursos en el sistema operativo.
-- [] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [X] Entender los errores comunes del hito anterior (PaaS).
 - [] Lo que tiene que devolver status hay que sustituirlo por las rutas que haya definidas y qué devuelven.
 - [X] Familiarizarse con Docker. 
-- [] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor
-- [] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
+- [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor
+- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
 
 
