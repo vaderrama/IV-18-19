@@ -51,3 +51,20 @@ Lista de objetivos
   - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
   - [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
   - [x] Resolver los problemas que surjan en los primeros despliegues.
+
+## Semana 7
+  - [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+  - [x] Trabajar con los toolbelts de los diferentes PaaS.
+  - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+  - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+## Semana 8
+  - [x] Tener el tercer hito del proyecto entregado.
+  - [x] Instalar Docker y empezar a trabajar con él.
+  - [x] Usar imágenes de Docker publicadas.
+
+## Semana 9
+  - [] Entender la base del aislamiento de recursos en el sistema operativo.
+  - [] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+  - [] Entender los errores comunes del hito anterior (PaaS).
+  - [] Familiarizarse con Docker.
+
