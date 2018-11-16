@@ -129,11 +129,12 @@ SKIP: {
     } else {
       diag "✗ Problemas detectando URL de despliegue de Docker";
     }
-    isnt( $deployment_url, "", "URL de despliegue hito 4");
+    ok( $deployment_url,  "URL de despliegue hito 4");
   SKIP: {
       skip "Ya en el hito siguiente", 2 unless $this_hito == 4;
-      my $status = $ua->get( "$deployment_url/status" );
-      isnt( $status, undef, "Despliegue hecho en $deployment_url" );
+      $deployment_url = ($deployment_url =~ /status/)?$deployment_url:"$deployment_url/status";
+      my $status = $ua->get( "$deployment_url" );
+      ok( $status->res, "Despliegue hecho en $deployment_url" );
       my $status_ref = from_json( $status->res->body );
       like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
     }
@@ -250,7 +251,7 @@ sub objetivos_actualizados {
     return 0;
   } elsif ( $unidad =~ /ho/ ) {
     return ($hace > 1 )?1:0;
-  } elsif ( $unidad =~ /(day|d.a)/ ){
+  } elsif ( $unidad =~ /d\w+/ ){
     return ($hace < 7)?1:0;
   }
 
