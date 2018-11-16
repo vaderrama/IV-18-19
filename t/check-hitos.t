@@ -134,7 +134,7 @@ SKIP: {
       skip "Ya en el hito siguiente", 2 unless $this_hito == 4;
       my $status = $ua->get( "$deployment_url/status" );
       isnt( $status, undef, "Despliegue hecho en $deployment_url" );
-      my $status_ref = from_json( $status );
+      my $status_ref = from_json( $status->res->body );
       like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
     }
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
