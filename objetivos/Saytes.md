@@ -31,3 +31,32 @@ de los sistemas opertavos. Saber si el ordenador habitual lo usa.
 - [x] Comprender los mecanismos de despliegue automático usando git.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
+## Hito 3
+
+[X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+
+[X] Usar Heroku para llevar a cabo los ejercicios y proyecto de la asignatura.
+
+[X] Entender el concepto de PaaS, su aplicación y sus limitaciones.
+
+[X] Darse de alta y probar servicio PaaS para nuestro proyecto.
+
+[X] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+
+[X] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+
+[X] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+[X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+
+[X]  Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+## Hito 4
+
+[X] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+
+[X] Crear infraestructuras virtuales completas.
+
+[X] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+[X] Darse de alta en DockerHub.
