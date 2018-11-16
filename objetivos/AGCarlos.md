@@ -57,7 +57,6 @@
 
 #### Semana 8
 
-- [ ] Comprender la importancia de los contenedores en el el desarrollo informático actual
-- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
-- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [ ] Entender las arquitecturas software basadas en contenedores
+-   [x] Haber entregado el tercer hito del proyecto.
+-   [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+-   [x] Mirar ejercicio para crédito adicional
