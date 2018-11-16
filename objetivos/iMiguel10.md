@@ -59,10 +59,10 @@ Repositorio de ejercicios: [Ejercicios IV](https://github.com/iMiguel10/Ejercici
 - [x] Haber entregado el tercer hito del proyecto.
 - [x] Haber superado el hito anterior.
 - [x] Haber alcanzado el 70% de los objetivos de las sesiones hasta este hito.
-- [ ] Comprender la importancia de los contenedores en el desarrollo informático actual.
-- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
-- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [ ] Entender las arquitecturas software basadas en contenedores.
-- [ ] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] Comprender la importancia de los contenedores en el desarrollo informático actual.
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 - [ ] Mirar ejercicio para crédito adicional
-- [ ] Usar imágenes de docker publicadas.
+- [x] Usar imágenes de docker publicadas.
