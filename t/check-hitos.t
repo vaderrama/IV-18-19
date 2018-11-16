@@ -43,13 +43,14 @@ SKIP: {
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/([^\.]+)/);
 
   # Comprobación de envío de objetivos cuando hay nombre de usuario
-  my @ficheros_objetivos = glob "objetivos/*.md";
-  my @enviados = map { lc } @ficheros_objetivos;
-  my $lc_user = lc $user;
-  isnt( grep( /$lc_user/, @enviados), 0, "$user ha enviado objetivos" ); # Test 4
+  my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
+  my @ficheros_objetivos = glob "$prefix/objetivos/*.md";
+  my ($este_fichero) =  grep( /$user/i, @ficheros_objetivos);
+  isnt( $este_fichero, "$user ha enviado objetivos" ); # Test 4
 
   # Comprobar que los ha actualizado
-  ok( objetivos_actualizados( $repo, "objetivos/$lc_user.md" ), "Los objetivos de $lc_user están actualizados") or skip "Los objetivos no están actualizados";
+  ok( objetivos_actualizados( $repo, $este_fichero ),
+      "Fichero de objetivos $este_fichero está actualizado") or skip "Los objetivos no están actualizados";
 
   # Se crea el repo y se hacen cosas.
   my $repo_dir = "/tmp/$user-$name";
@@ -244,8 +245,7 @@ sub travis_status {
 sub objetivos_actualizados {
   my $repo = shift;
   my $objective_file = shift;
-  my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
-  my $date = $repo->command('log', '-1', '--date=relative', '--', "$prefix/$objective_file");
+  my $date = $repo->command('log', '-1', '--date=relative', '--', "$objective_file");
   my ($hace,$unidad)= $date =~ /Date:.+?(\d+)\s+(\w+)/;
   if ( $unidad =~ /(semana|week|minut)/ ) {
     return 0;
