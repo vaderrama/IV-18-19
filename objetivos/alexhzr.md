@@ -28,4 +28,12 @@
 ## Semana 05
 - [x] Estudiar el término PaaS
 - [x] Empezar a configurar Heroku
-- [x] Planificar cómo orientar mi aplicación a ser un microservicio  
+- [x] Planificar cómo orientar mi aplicación a ser un microservicio
+
+## Semana 06
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+- [ ] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
+- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
