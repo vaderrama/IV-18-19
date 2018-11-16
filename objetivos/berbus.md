@@ -71,3 +71,11 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [X] Entender las arquitecturas software basadas en contenedores
 - [X] Haber entregado el tercer hito del proyecto.
+
+### Semana 9
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender los errores comunes del hito anterior.
+- [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [X] Familiarizarse con Docker.
+- [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
