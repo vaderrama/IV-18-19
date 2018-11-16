@@ -82,3 +82,25 @@ Objetivos sexta sesión
 - [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
 
 - [x] Resolver los problemas que surjan en los primeros despliegues.
+
+Objetivos séptima sesión
+============================
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+Objetivos octava sesión
+============================
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+- [x] Haber entregado el tercer hito del proyecto.
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] Mirar ejercicio para crédito adicional
+- [x] Usar imágenes de docker publicadas.
+
+Objetivos novena sesión
+============================
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
