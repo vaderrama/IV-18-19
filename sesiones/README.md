@@ -4,6 +4,7 @@
 necesitas ayuda. En este directorio estarán los ficheros de clase
 ordenados cronológicamente de forma inversa.
 
+* [Novena semana del curso](semana-09.md)
 * [Octava semana del curso](semana-08.md).
 * [Séptima semana del curso](semana-07.md).
 * [Sexta semana del curso](semana-06.md).
