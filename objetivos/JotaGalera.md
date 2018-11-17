@@ -54,3 +54,15 @@ Lista de objetivos Semana 7:
 
 -[x] Probar diferentes PaaS con sus sitemas de despliegue correspondientes.
 -[x] Probar diferentes formas de desplegar aplicaciones desde línea de ordenes y repositorios.
+
+Lista de objetivos Semana 8:
+
+- [x] Comprender la importancia de los contenedores en el desarrollo de hoy dia.
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros S.O.
+- [x] Entender las arquitecturas software basadas en contenedores.
+
+Lista de objetivos Semana 9:
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros S.O.
