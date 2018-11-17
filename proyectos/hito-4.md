@@ -39,7 +39,7 @@ Añade debajo enlaces a tu proyecto
 | NAVARRETE CAMPOS, GINES| | |
 | ORDUÑA DIAZ, ADRIAN| | |
 | OSORIO GIRALDEZ, OSCAR| | |
-| PEREZ RUBIALES, DAVID JESUS| | |
+| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 4.3|
 | PINEDA MOCHON, IGNACIO| | |
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
