@@ -53,3 +53,24 @@
  - [x] Interiorizar el concepto de PaaS, su aplicación y sus limitaciones
  - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo
 
+
+## Hito 4:
+
+ - [x] Corregir los errores del despliege de PaaS
+ - [x] Tener entregados los hitos anteriores
+ - [x] Haber superado el hito anterior
+ - [x] Haber alcanzado el 70% de los objetivos de las sesiones hasta este hito
+ - [x] Familiarizarse con Docker
+ - [x] Darse de alta en DockerHub
+ - [x] Crear infraestructuras virtuales completas
+ - [x] Comprender la importancia de los contenedores
+ - [x] Entender la base del aislamiento de recursos, y las diferentes formas de aislar dichos recursos
+ - [x] Instalar Docker
+ - [x] Comprender las arquitecturas basadas en contenedores
+ - [x] Hacer pruebas con las imagenes de docker publicadas
+ - [x] Crear infraestructuras virtuales completas
+ - [x] Darse de alta en Zeit e instalación del cliente
+ - [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure
+
+
+
