@@ -111,7 +111,7 @@
 - [x] Usar imágenes de docker publicadas.  
 
 
-#Objetivos de la semana del 12/11
+## Objetivos de la semana del 12/11
 
 - [x] Entender la base del aislamiento de recusos en el SO.  
 - [x] Entender las diferentes formas de aislar recursos en Linux.  
