@@ -1,6 +1,10 @@
 # -*- cperl -*-
 
-use lib qw(/usr/lib /usr/local/lib /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl5/5.24/); # Necesarios para paquetes Debian
+BEGIN { # Hay que poner estos módulos _al final_ para que no fastidien si no están en debian
+  for my $path (qw(/usr/lib /usr/local/lib /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl5/5.24/) ){ # Necesarios para paquetes Debian
+    push( @INC, $path)
+  }
+}
 
 use Test::More;
 use Git;
@@ -43,13 +47,14 @@ SKIP: {
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/([^\.]+)/);
 
   # Comprobación de envío de objetivos cuando hay nombre de usuario
-  my @ficheros_objetivos = glob "objetivos/*.md";
-  my @enviados = map { lc } @ficheros_objetivos;
-  my $lc_user = lc $user;
-  isnt( grep( /$lc_user/, @enviados), 0, "$user ha enviado objetivos" ); # Test 4
+  my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
+  my @ficheros_objetivos = glob "$prefix/objetivos/*.md";
+  my ($este_fichero) =  grep( /$user/i, @ficheros_objetivos);
+  isnt( $este_fichero, "$user ha enviado objetivos" ); # Test 4
 
   # Comprobar que los ha actualizado
-  ok( objetivos_actualizados( $repo, "objetivos/$lc_user.md" ), "Los objetivos de $lc_user están actualizados") or skip "Los objetivos no están actualizados";
+  ok( objetivos_actualizados( $repo, $este_fichero ),
+      "Fichero de objetivos $este_fichero está actualizado") or skip "Los objetivos no están actualizados";
 
   # Se crea el repo y se hacen cosas.
   my $repo_dir = "/tmp/$user-$name";
@@ -114,10 +119,8 @@ SKIP: {
       say "Respuesta ", $status->res;
       like( $status->res->headers->content_type, qr{application/json}, "Status devuelve application/json");
       say "Content Type ", $status->res->headers->content_type;
-      my $body = $status->res->body;
-      say "Body → $body";
-      my $status_ref = from_json( $body );
-      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $body de $deployment_url correcto");
+      my $status_ref = json_from_status( $status );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status_ref de $deployment_url correcto");
     }
   }
 
@@ -135,15 +138,16 @@ SKIP: {
       $deployment_url = ($deployment_url =~ /status/)?$deployment_url:"$deployment_url/status";
       my $status = $ua->get( "$deployment_url" );
       ok( $status->res, "Despliegue hecho en $deployment_url" );
-      my $status_ref = from_json( $status->res->body );
+      my $status_ref = json_from_status( $status );
       like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
     }
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
 
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
+    $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
     my $dockerhub = $ua->get($dockerhub_url);
-    like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
+    like( $dockerhub->res->body, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
   }
 
    if ( $this_hito > 4 ) { # Despliegue en algún lado
@@ -236,7 +240,7 @@ sub travis_domain {
 
 sub travis_status {
   my $README = shift;
-  my ($build_status) = ($README =~ /tatus..([^\)]+)\)/);
+  my ($build_status) = ($README =~ /Build Status..([^\)]+)\)/);
   my $status_svg = `curl -L -s $build_status`;
   return $status_svg =~ /passing/?"Passing":"Fail";
 }
@@ -244,8 +248,7 @@ sub travis_status {
 sub objetivos_actualizados {
   my $repo = shift;
   my $objective_file = shift;
-  my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
-  my $date = $repo->command('log', '-1', '--date=relative', '--', "$prefix/$objective_file");
+  my $date = $repo->command('log', '-1', '--date=relative', '--', "$objective_file");
   my ($hace,$unidad)= $date =~ /Date:.+?(\d+)\s+(\w+)/;
   if ( $unidad =~ /(semana|week|minut)/ ) {
     return 0;
@@ -255,4 +258,12 @@ sub objetivos_actualizados {
     return ($hace < 7)?1:0;
   }
 
+}
+
+# Devuelve el JSON del status
+sub json_from_status {
+  my $status = shift;
+  my $body = $status->res->body;
+  say "Body → $body";
+  return from_json( $body );
 }

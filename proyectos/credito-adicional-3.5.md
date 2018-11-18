@@ -7,7 +7,7 @@ Añade debajo enlaces a tu proyecto
 | ALARCON CUADROS, SAMUEL| | |
 | ALVAREZ CARRASCO, JUAN| | |
 | ARIZA GARCIA, CARLOS| | |
-| BALDERAS RUIZ, LUIS| https://github.com/FFGFER/Proyecto-IV/pull/15 | 1.1 |
+| BALDERAS RUIZ, LUIS| https://github.com/FFGFER/Proyecto-IV/pull/15 / https://github.com/joseviro/ProyectoTPV/pull/21 | 1.1 / 1.1 |
 | CABRERA GONZALEZ, MARIA MATILDE| | |
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
@@ -56,4 +56,4 @@ Añade debajo enlaces a tu proyecto
 | TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
-| VIÑAS RODRIGUEZ, JOSE MARIA | | |
+| VIÑAS RODRIGUEZ, JOSE MARIA | https://github.com/widowert/ProyectoIV/pull/19 | 1.1 |

@@ -71,3 +71,15 @@
  - [x] Entregado el tercer hito del proyecto.
  - [ ] Instalar Docker y empezar a trabajar con él.
  - [ ] Usar imagenes de docker publicadas. 
+ 
+ 
+ 
+ **Objetivos de la novena semana**
+ 
+ - [x] Entender la base del aislamiento de recursos en el sistema operativo.
+ - [x] Entender las diferentes formas de aislar recursos en Linux.
+ - [x] Entender los errores comunes del hito anterior.
+ - [x] Poner a punto la instalación de Linux.
+ - [x] Familiarizarse con Docker.
+ - [ ] Alta en Zeit
+ - [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
