@@ -115,10 +115,8 @@ SKIP: {
       say "Respuesta ", $status->res;
       like( $status->res->headers->content_type, qr{application/json}, "Status devuelve application/json");
       say "Content Type ", $status->res->headers->content_type;
-      my $body = $status->res->body;
-      say "Body → $body";
-      my $status_ref = from_json( $body );
-      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $body de $deployment_url correcto");
+      my $status_ref = json_from_status( $status );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status_ref de $deployment_url correcto");
     }
   }
 
@@ -136,7 +134,7 @@ SKIP: {
       $deployment_url = ($deployment_url =~ /status/)?$deployment_url:"$deployment_url/status";
       my $status = $ua->get( "$deployment_url" );
       ok( $status->res, "Despliegue hecho en $deployment_url" );
-      my $status_ref = from_json( $status->res->body );
+      my $status_ref = json_from_status( $status );
       like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
     }
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
@@ -255,4 +253,12 @@ sub objetivos_actualizados {
     return ($hace < 7)?1:0;
   }
 
+}
+
+# Devuelve el JSON del status
+sub json_from_status {
+  my $status = shift;
+  my $body = $status->res->body;
+  say "Body → $body";
+  return from_json( $body );
 }
