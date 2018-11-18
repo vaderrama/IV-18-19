@@ -57,37 +57,37 @@
 
 #### 7º Semana
 
-* [ ] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
-* [ ] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
-* [ ] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
-* [ ] Probar [`zeit.co`](https://zeit.co), aunque funcione sólo con
+* [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+* [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+* [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+* [x] Probar [`zeit.co`](https://zeit.co), aunque funcione sólo con
    JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
-* [ ] Trabajar con los *toolbelts* de los diferentes PaaS.
-* [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
-* [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
-* [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-* [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+* [x] Trabajar con los *toolbelts* de los diferentes PaaS.
+* [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+* [x] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+* [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+* [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 #### 8º Semana
 
-* [ ] Comprender la importancia de los contenedores en el el desarrollo informático actual
-* [ ] Entender la base del aislamiento de recursos en el sistema operativo.
-* [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-* [ ] Entender las arquitecturas software basadas en contenedores
-* [ ] Haber entregado el [tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS).
-* [ ] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
-* [ ] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
-* [ ] Usar imágenes de docker publicadas.
+* [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+* [x] Entender la base del aislamiento de recursos en el sistema operativo.
+* [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+* [x] Entender las arquitecturas software basadas en contenedores
+* [x] Haber entregado el [tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS).
+* [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+* [x] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+* [x] Usar imágenes de docker publicadas.
 
 #### 9º Semana
 
-* [ ] Entender los errores comunes del hito anterior (PaaS):
-* [ ] Lo que tiene que devolver `status` hay que sustituirlo por las rutas que haya definidas y qué devuelven.
-* [ ] Es un hito adicional de una aplicación. Si has testeado una clase en el hito 2, tienes que usarla en el hito 3.
-* [ ] Si no enlazas o no documentas, no se puede corregir.
-* [ ] No he visto ni un despliegue en Azure.
-* [ ] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
-* [ ] Familiarizarse con Docker.
-* [ ] Si no se ha hecho, alta en [Zeit](https://zeit.co) e instalación del cliente. Si se puede usar la versión *legacy*, mejor.
-* [ ] Comprobar los servicios de publicación de contenedores de los
+* [x] Entender los errores comunes del hito anterior (PaaS):
+* [x] Lo que tiene que devolver `status` hay que sustituirlo por las rutas que haya definidas y qué devuelven.
+* [x] Es un hito adicional de una aplicación. Si has testeado una clase en el hito 2, tienes que usarla en el hito 3.
+* [x] Si no enlazas o no documentas, no se puede corregir.
+* [x] No he visto ni un despliegue en Azure.
+* [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+* [x] Familiarizarse con Docker.
+* [x] Si no se ha hecho, alta en [Zeit](https://zeit.co) e instalación del cliente. Si se puede usar la versión *legacy*, mejor.
+* [x] Comprobar los servicios de publicación de contenedores de los
    diferentes sistemas en la nube, tales como Azure.
