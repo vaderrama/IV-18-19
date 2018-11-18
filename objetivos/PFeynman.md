@@ -85,3 +85,35 @@
 - [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Objetivos de la Semana 8
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] Entender las arquitecturas software basadas en contenedores.
+
+### Otros objetivos
+- [x] Haber entregado el tercer hito del proyecto.
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [ ] Mirar ejercicio para crédito adicional
+- [ ] Usar imágenes de docker publicadas.
+
+## Objetivos de la Semana 9
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+### Otros objetivos
+- [x] Entender los errores comunes del hito anterior (PaaS):
+	- [x] Hay que leer el guión y seguirlo:
+		- [x] Documentar despliegue directamente desde GitHub
+		- [ ] Explicar el Procfile (o fichero que se use), las partes que tiene y qué hace cada una y por qué.
+	- [ ] Lo que tiene que devolver status hay que sustituirlo por las rutas que haya definidas y qué devuelven.
+	- [x] Es un hito adicional de una aplicación. Si has testeado una clase en el hito 2, tienes que usarla en el hito 3.
+	- [x] Si no enlazas o no documentas, no se puede corregir.
+	- [x] No he visto ni un despliegue en Azure.
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Familiarizarse con Docker.
+- [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
