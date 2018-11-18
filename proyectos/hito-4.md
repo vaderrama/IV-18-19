@@ -6,9 +6,9 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALARCON CUADROS, SAMUEL| | |
 | ALVAREZ CARRASCO, JUAN| | |
-| ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.4.5 |
+| ARIZA GARCIA, CARLOS| | |
 | BALDERAS RUIZ, LUIS| | |
-| CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV)|1.0.1|
+| CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV)|1.0.3|
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| | |
@@ -19,20 +19,20 @@ Añade debajo enlaces a tu proyecto
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| | |
 | GARCIA MANCILLA, JAVIER| | |
-| GOMEZ MARTIN, ANGEL| | |
+| GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.0.2 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
-| GUTIERREZ SEGOVIA, JORGE| | |
+| GUTIERREZ SEGOVIA, JORGE| [Birthbot](https://github.com/Saytes/Birthbot) | 2.1 |
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
-| HERRERA VARGAS, ALBERTO| | |
+| HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital) | 1.1 |
 | JALDO RUIZ, JESUS MIGUEL| | |
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
 | JIMENEZ CAZORLA, MIGUEL| | |
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL| | |
 | LOPEZ RUIZ, MARIO ANTONIO| | |
-| MARTINEZ GARCIA, ANTONIO| | |
-| MARTIR MORENO, NATALIA MARIA| | |
+| MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.6 |
+| MARTIR MORENO, NATALIA MARIA|[Proyecto IV Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|1.0|
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | | |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
@@ -56,4 +56,4 @@ Añade debajo enlaces a tu proyecto
 | TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
-| VIÑAS RODRIGUEZ, JOSE MARIA | | |
+| VIÑAS RODRIGUEZ, JOSE MARIA | [proyecto](https://github.com/joseviro/ProyectoTPV) | 1.1 |

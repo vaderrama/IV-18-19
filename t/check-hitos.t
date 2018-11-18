@@ -1,6 +1,10 @@
 # -*- cperl -*-
 
-use lib qw(/usr/lib /usr/local/lib /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl5/5.24/); # Necesarios para paquetes Debian
+BEGIN { # Hay que poner estos módulos _al final_ para que no fastidien si no están en debian
+  for my $path (qw(/usr/lib /usr/local/lib /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl5/5.24/) ){ # Necesarios para paquetes Debian
+    push( @INC, $path)
+  }
+}
 
 use Test::More;
 use Git;
@@ -115,10 +119,8 @@ SKIP: {
       say "Respuesta ", $status->res;
       like( $status->res->headers->content_type, qr{application/json}, "Status devuelve application/json");
       say "Content Type ", $status->res->headers->content_type;
-      my $body = $status->res->body;
-      say "Body → $body";
-      my $status_ref = from_json( $body );
-      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $body de $deployment_url correcto");
+      my $status_ref = json_from_status( $status );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status_ref de $deployment_url correcto");
     }
   }
 
@@ -136,15 +138,16 @@ SKIP: {
       $deployment_url = ($deployment_url =~ /status/)?$deployment_url:"$deployment_url/status";
       my $status = $ua->get( "$deployment_url" );
       ok( $status->res, "Despliegue hecho en $deployment_url" );
-      my $status_ref = from_json( $status->res->body );
+      my $status_ref = json_from_status( $status );
       like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
     }
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
 
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
+    $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
     my $dockerhub = $ua->get($dockerhub_url);
-    like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
+    like( $dockerhub->res->body, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
   }
 
    if ( $this_hito > 4 ) { # Despliegue en algún lado
@@ -255,4 +258,12 @@ sub objetivos_actualizados {
     return ($hace < 7)?1:0;
   }
 
+}
+
+# Devuelve el JSON del status
+sub json_from_status {
+  my $status = shift;
+  my $body = $status->res->body;
+  say "Body → $body";
+  return from_json( $body );
 }
