@@ -50,14 +50,14 @@ Objetivos Infraestructura Virtual
 #### Semana 6
 
 - [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure
-- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura
-- [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones
-- [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y sus especificación son esenciales para el mismo.
-- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
-- [ ] Resolver los problemas que surjan en los primeros despliegues
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y sus especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues
 - [x] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services
-- [ ] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
-- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push` configurando los repositorios para ello
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push` configurando los repositorios para ello
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de `tags` para releases...
 
 #### Semana 7
@@ -86,10 +86,10 @@ Objetivos Infraestructura Virtual
 #### Semana 9
 
 - [x] Entender la base del aislamiento de recursos en el sistema operativo
-- [ ] Entender y corregir posibles errores del hito 3
+- [x] Entender y corregir posibles errores del hito 3
 - [x] Entender las diferentes formas de aislar recursos en Linux
 - [x] Familiarizarse con Docker
-- [ ] Darse de alta en Zeit e instalación del cliente
-- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure
+- [x] Darse de alta en Zeit e instalación del cliente
+- [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure
 - [ ] Entregar el hito 4
 
