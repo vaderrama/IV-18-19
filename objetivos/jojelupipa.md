@@ -43,8 +43,7 @@ en esta asignatura.
   que)*
   [aquí](https://github.com/JJ/IV-18-19/blob/master/objetivos/jojelupipa.md). 
   
-- [x]
-  Crear [web del proyecto](https://jojelupipa.github.io/Proyecto_IV/) 
+- [x] Crear [web del proyecto](https://jojelupipa.github.io/Proyecto_IV/) 
   
 
 
@@ -58,7 +57,7 @@ en esta asignatura.
 - [x] Usar los entornos virtuales de desarrollo en diferentes
   lenguajes de programación y entender su utilidad.
   
-- [ ] Entender los ficheros de requisitos y su utilidad en las
+- [x] Entender los ficheros de requisitos y su utilidad en las
   infraestructuras virtuales. 
 
 ### Otros objetivos de la semana
@@ -80,7 +79,7 @@ el cinturón de herramientas (toolbelt) de  lenguaje que se use
 habitualmente de otra forma. node.js se usa extensivamente en los
 ejemplos de la asignatura. 
 
-- [ ] Comprender la utilidad de la virtualización y definición en un
+- [x] Comprender la utilidad de la virtualización y definición en un
   fichero de herramientas de desarrollo.
   
 - [x] Instalar las herramientas necesarias para crear y aplicar tests
@@ -110,7 +109,7 @@ ejemplos de la asignatura.
 - [x] Comprender cómo las pruebas de software encajan dentro del
   concepto de infraestructura virtual. 
 
-- [ ] Comprender el nivel plataforma de la infraestructura virtual y
+- [x] Comprender el nivel plataforma de la infraestructura virtual y
   su uso en prueba y producción. 
 
 ### Otros objetivos
@@ -122,9 +121,9 @@ ejemplos de la asignatura.
 
 - [x] Entender el segundo hito del proyecto
 
-- [ ] Comprender los mecanismos de despliegue automático usando git. 
+- [x] Comprender los mecanismos de despliegue automático usando git. 
 
-- [ ] Entender el formato YAML y su uso en la descripción de
+- [x] Entender el formato YAML y su uso en la descripción de
   diferentes infraestructuras virtuales. 
 
 
@@ -156,7 +155,7 @@ ejemplos de la asignatura.
 - [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS
   tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
   
-- [ ] Comprender los mecanismos de despliegue automático a través de git
+- [x] Comprender los mecanismos de despliegue automático a través de git
 
 ## Semana del 22 de octubre
 
@@ -250,4 +249,71 @@ ejemplos de la asignatura.
 - [x] Aplicar el sistema de control de fuentes git para despliegue de
   aplicaciones en la nube. 
 
+
+## Semana del 5 de noviembre
+
+### Objetivos de la semana
+
+
+- [x] Comprender la importancia de los contenedores en el el
+  desarrollo informático actual 
+  
+- [x] Entender la base del aislamiento de recursos en el sistema
+  operativo. 
+  
+- [x] Entender las diferentes formas de aislar recursos en Linux u
+  otros sistemas operativos. 
+  
+- [ ] Entender las arquitecturas software basadas en contenedores.
+
+### Otros objetivos
+
+
+- [x] Haber entregado el tercer hito del proyecto. 
+
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en
+    Windows, conviene instalar Linux si no se ha hecho hasta ahora
+    porque la mayoría de los contenedores son para Linux. 
+    
+- [x] Mirar ejercicio para crédito adicional 
+
+- [x] Usar imágenes de docker publicadas.
+
+
+## Semana del 12 de noviembre
+
+### Objetivos de la semana
+
+- [x] Entender la base del aislamiento de recursos en el sistema
+  operativo. 
+  
+- [x] Entender las diferentes formas de aislar recursos en Linux u
+  otros sistemas operativos. 
+  
+### Otros objetivos
+
+- [x] Entender los errores comunes del hito anterior (PaaS)
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta
+ahora. 
+
+- [x] Familiarizarse con Docker.
+
+- [x] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se
+puede usar la versión legacy, mejor. 
+
+- [ ] Comprobar los servicios de publicación de contenedores de los
+  diferentes sistemas en la nube, tales como Azure. 
+  
+
+## Objetivos tema Contenedores
+
+- [x] Entender cómo las diferentes tecnologías de virtualización se
+  integran en la creación de contenedores. 
+
+- [x] Crear infraestructuras virtuales completas.
+
+- [ ] Comprender los pasos necesarios para la configuración automática
+  de las mismas.
+    
 
