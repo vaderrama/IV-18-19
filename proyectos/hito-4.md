@@ -53,7 +53,7 @@ Añade debajo enlaces a tu proyecto
 | SARRIONANDIA DE LEÓN, AITOR| | |
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 2.4 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
-| TORRES ROSEL, PABLO| | |
+| TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.6 |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
 | VIÑAS RODRIGUEZ, JOSE MARIA | [proyecto](https://github.com/joseviro/ProyectoTPV) | 1.1 |
