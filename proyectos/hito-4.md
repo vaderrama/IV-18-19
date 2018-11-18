@@ -7,7 +7,7 @@ Añade debajo enlaces a tu proyecto
 | ALARCON CUADROS, SAMUEL| | |
 | ALVAREZ CARRASCO, JUAN| | |
 | ARIZA GARCIA, CARLOS| | |
-| BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 4.1 |
+| BALDERAS RUIZ, LUIS|[TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) |4.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV)|1.0.3|
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO| | |
