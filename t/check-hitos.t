@@ -1,6 +1,10 @@
 # -*- cperl -*-
 
-use lib qw(/usr/lib /usr/local/lib /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl5/5.24/); # Necesarios para paquetes Debian
+BEGIN { # Hay que poner estos módulos _al final_ para que no fastidien si no están en debian
+  for my $path (qw(/usr/lib /usr/local/lib /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl5/5.24/) ){ # Necesarios para paquetes Debian
+    push( @INC, $path)
+  }
+}
 
 use Test::More;
 use Git;
