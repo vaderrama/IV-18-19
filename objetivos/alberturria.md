@@ -48,7 +48,7 @@ Lista de objetivos de Alberto Herrera
 
 - [x] Terminar la configuración de los sistemas de integración continua
 - [x] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
-- [ ] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
+- [x] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps.
 - [x] Comprender los mecanismos de despliegue automático a través de git
 
 
@@ -62,7 +62,7 @@ Lista de objetivos de Alberto Herrera
 - [x] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
 - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad o clientes de proveedores de cloud.
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
-- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
 
 
 ## Séptima semana, comienza el 29 de octubre
@@ -80,10 +80,19 @@ Lista de objetivos de Alberto Herrera
 ## Octava semana, comienza el 5 de noviembre
 - [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
-- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] Entender las arquitecturas software basadas en contenedores
 - [x] Haber entregado el tercer hito del proyecto.
 - [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 - [ ] Mirar ejercicio para crédito adicional
 - [x] Usar imágenes de docker publicadas.
+
+## Novena semana, comienza el 12 de noviembre
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender los errores comunes del hito anterior
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Familiarizarse con Docker. 
+- [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
 

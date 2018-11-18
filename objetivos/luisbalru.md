@@ -111,9 +111,17 @@
 - [x] Usar imágenes de docker publicadas.  
 
 
+## Objetivos de la semana del 12/11
 
-
-
+- [x] Entender la base del aislamiento de recusos en el SO.  
+- [x] Entender las diferentes formas de aislar recursos en Linux.  
+- [x] Entender los errores comunes del hito anterior.  
+	- [x] Explicado el Procfile(missing)
+	
+- [x] Familiarizarse con Docker.  
+- [x] Alta, instalción y despliegue en Zeit.  
+	
+- [x] Nuevo intento en Azure (mi cuenta no existe y no puedo arreglarlo).  
 
 
 

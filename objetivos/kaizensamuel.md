@@ -98,5 +98,19 @@ usando PaaS
 2. [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 
 
+# Semana del 5 de Noviembre
+
+1. [x] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+2. [x] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [x] Entender las arquitecturas software basadas en contenedores
+
+
+# Semana 12 de Noviembre
+
+1. [x] Entender la base del aislamiento de recursos en el sistema operativo.
+2. [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
 
 

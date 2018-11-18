@@ -76,3 +76,20 @@
 
 ✓ Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 
+
+# Objetivos octava semana
+
+✓ Comprender la importancia de los contenedores en el el desarrollo informático actual
+
+✓ Entender la base del aislamiento de recursos en el sistema operativo.
+
+✓ Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+✓ Entender las arquitecturas software basadas en contenedores
+
+
+# Objetivos novena semana
+
+✓ Entender la base del aislamiento de recursos en el sistema operativo.
+
+✓ Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.

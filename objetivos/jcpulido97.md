@@ -98,3 +98,26 @@
 - [x] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+# Objetivos Semana 8 (5 Nov.)
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+- [x] Haber entregado el [tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS).
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+- [x] Usar imágenes de docker publicadas.
+
+# Objetivos Semana 9 (12 Nov.)
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender los errores comunes del hito anterior (PaaS)
+- [x] Documentar despliegue *directamente desde GitHub*
+- [x] Explicar el Procfile (o fichero que se use), las partes que tiene y qué hace cada una y por qué.
+- [x] Lo que tiene que devolver `status` hay que sustituirlo por las rutas que haya definidas y qué devuelven.
+- [x] Es un hito adicional de una aplicación. Si has testeado una clase en el hito 2, tienes que usarla en el hito 3.
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Familiarizarse con Docker.
