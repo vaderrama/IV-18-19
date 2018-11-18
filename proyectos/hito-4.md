@@ -50,7 +50,7 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS| | |
-| SARRIONANDIA DE LEÓN, AITOR| | |
+| SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.0|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 2.4 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
 | TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.6 |
