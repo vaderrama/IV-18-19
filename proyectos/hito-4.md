@@ -22,7 +22,7 @@ Añade debajo enlaces a tu proyecto
 | GOMEZ MARTIN, ANGEL| | |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
-| GUTIERREZ SEGOVIA, JORGE| [Birthbot](https://github.com/Saytes/Birthbot) | 1.0 |
+| GUTIERREZ SEGOVIA, JORGE| [Birthbot](https://github.com/Saytes/Birthbot) | 1.1 |
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO| | |
 | JALDO RUIZ, JESUS MIGUEL| | |
