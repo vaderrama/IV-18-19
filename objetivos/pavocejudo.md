@@ -61,5 +61,13 @@
 - [X] Darse de alta el Openshift Online.
 - [X] Trabajar con los toolbers de los diferentes PaaS.
 - [ ] Pruebas de rendimiento de los servicios web.
-- [ ] Despliegue simultáneo a varios PaaS desde GitHub.
+- [X] Despliegue simultáneo a varios PaaS desde GitHub.
 - [X] Descargar y conocer el CLI de Travis para usarlo para configurarlo y cosas así
+
+## Semana 8
+- [X] Comprender la importancia de los contenedores en el desarrollo informático actual.
+- [X] Entender la base de aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otro sistemas operativos.
+- [X] Entender arquitecturas software basadas en contenedores.
+- [X] Instalación de Docker y hacer pruebas con él.
+- [X] Utilizar imágenes de docker publicadas.
