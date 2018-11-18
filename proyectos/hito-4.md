@@ -26,7 +26,7 @@ Añade debajo enlaces a tu proyecto
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital) | 1.1 |
 | JALDO RUIZ, JESUS MIGUEL| | |
-| JIMENEZ ARGUELLO, ANTONIO JOSE| [Proyecto IV](https://github.com/antonioJ95/ProyectoIV) |4.0|
+| JIMENEZ ARGUELLO, ANTONIO JOSE| [Proyecto IV](https://github.com/antonioJ95/ProyectoIV) |4.1|
 | JIMENEZ CAZORLA, MIGUEL| | |
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL| | |
