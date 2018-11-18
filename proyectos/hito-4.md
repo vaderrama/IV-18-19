@@ -51,7 +51,7 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ PALOMINO, ALVARO| | |
 | SANCHEZ DE LECHINA TEJADA, JESUS| | |
 | SARRIONANDIA DE LEÓN, AITOR| | |
-| TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 2.3 |
+| TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 2.4 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
 | TORRES ROSEL, PABLO| | |
 | UCEDA MORENO, ALEJANDRO| | |
