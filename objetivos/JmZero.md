@@ -83,16 +83,44 @@
 ## Semana 7
 ### Objetivos Principales:
 
-- [ ] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
 - [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
-
 
 ### Otros Objetivos
 
 - [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
 - [ ] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
-- [ ] Trabajar con los toolbelts de los diferentes PaaS.
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
 - [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
 - [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
-- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Semana 8
+### Objetivos Principales:
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+
+### Otros Objetivos
+
+- [x] Haber entregado el tercer hito del proyecto.
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [x] Mirar ejercicio para crédito adicional
+- [x] Usar imágenes de docker publicadas.
+
+## Semana 9
+### Objetivos Principales:
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+### Otros Objetivos
+
+- [x] Entender los errores comunes del hito anterior (PaaS)
+- [ ] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Familiarizarse con Docker.
+- [x] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
