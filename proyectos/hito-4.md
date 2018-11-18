@@ -30,7 +30,7 @@ Añade debajo enlaces a tu proyecto
 | JIMENEZ CAZORLA, MIGUEL| | |
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL| | |
-| LOPEZ RUIZ, MARIO ANTONIO| | |
+| LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 2.0 |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.6 |
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|1.0|
 | MARTOS RODRIGUEZ, ANTONIO| | |
