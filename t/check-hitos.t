@@ -145,8 +145,9 @@ SKIP: {
 
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
+    $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
     my $dockerhub = $ua->get($dockerhub_url);
-    like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
+    like( $dockerhub->res->body, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
   }
 
    if ( $this_hito > 4 ) { # Despliegue en algún lado
