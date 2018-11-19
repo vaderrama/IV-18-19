@@ -17,7 +17,7 @@ Añade debajo enlaces a tu proyecto
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| | |
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
-| GALERA GARRIDO, JUSTO JAVIER| | |
+| GALERA GARRIDO, JUSTO JAVIER| [FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 1.2 |
 | GARCIA MANCILLA, JAVIER| | |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.0.2 |
 | GUERRERO PINTEÑO, ALVARO| | |
