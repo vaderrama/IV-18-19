@@ -36,7 +36,7 @@ Añade debajo enlaces a tu proyecto
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | | |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
-| NAVARRETE CAMPOS, GINES| | |
+| NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |1.7|
 | ORDUÑA DIAZ, ADRIAN| | |
 | OSORIO GIRALDEZ, OSCAR| | |
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 4.6|
