@@ -52,3 +52,20 @@ Lista de objetivos de Ingacio Pineda Mochon
 - [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
 - [x] Trabajar con los toolbelts de los diferentes PaaS.
 - [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+
+## Objetivos 4
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [x] Entender la base del aislamiento de recursos en el sistema.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores.
+- [x] Haber entregado el tercer hito del proyecto.
+- [x] Instalar Docker y empezar a trabajar con él.
+- [ ] Usar imágenes de docker publicadas.
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender los errores comunes del hito anterior (PaaS).
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [ ] Familiarizarse con Docker.
+- [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
