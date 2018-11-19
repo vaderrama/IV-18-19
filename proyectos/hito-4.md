@@ -49,7 +49,7 @@ Añade debajo enlaces a tu proyecto
 | RUIZ LOPEZ, MANUEL | | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
-| SANCHEZ DE LECHINA TEJADA, JESUS| | |
+| SANCHEZ DE LECHINA TEJADA, JESUS| [Duckpiler](https://github.com/jojelupipa/Duckpiler) | 0.9.6.0|
 | SARRIONANDIA DE LEÓN, AITOR|[Proyecto](https://github.com/aitorSDL/proyecto-iv-1819)|1.0|
 | TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 2.4 |
 | TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
