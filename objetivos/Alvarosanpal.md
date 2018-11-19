@@ -41,9 +41,9 @@
 
 ## Objetivos de la Quinta Semana(8 de Octubre)
 - [X] Terminar la configuración de los sistemas de integración continua.
-- [] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
 ### Otros objetivos.
-- [] Comenzar a configurar los toolbet de diferentes sistemas PaaS tales como BlueMix, Heroku u Openshift o Azure Web.
+- [X] Comenzar a configurar los toolbet de diferentes sistemas PaaS tales como BlueMix, Heroku u Openshift o Azure Web.
 - [X] Comprender los mecanismos de despliegue automático a través de git.
 
 ## Objetivos de la Sexta Semana(22 de Octubre)
@@ -61,15 +61,36 @@
 
 ## Objetivos de la Séptima Semana(29 de Octubre)
 - [X] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
-- [] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [X] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 ### Otros Objetivos
 - [X] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
-- [] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- [X] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
 - [X] Trabajar con los toolbelts de los diferentes PaaS.
-- [] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
-- [] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
-- [] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-- [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+- [X] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [X] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Objetivos de la Octaba Semana(5 de Noviembre)
+- [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender las arquitecturas software basadas en contenedores
+### Otros objetivos
+- [X] Haber entregado el tercer hito del proyecto.
+- [ ] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [X] Mirar ejercicio para crédito adicional
+- [ ] Usar imágenes de docker publicadas.
+
+## Objetivos de la Novena Semana()
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+### Otros Objetivos
+- [X] Entender los errores comunes del hito anterior (PaaS)
+- [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [ ] Familiarizarse con Docker.
+- [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
 
 
 
