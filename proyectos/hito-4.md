@@ -34,7 +34,7 @@ Añade debajo enlaces a tu proyecto
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.6 |
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|1.0|
 | MARTOS RODRIGUEZ, ANTONIO| | |
-| MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.4.0 | -- dummy
+| MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.4.0 |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |1.7|
 | ORDUÑA DIAZ, ADRIAN| | |
