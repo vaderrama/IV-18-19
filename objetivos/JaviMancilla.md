@@ -33,3 +33,33 @@ de los sistemas opertavos. Saber si el ordenador habitual lo usa.
 
 
 
+## Hito 2 (Semana 4 y 5)
+
+- [X] Entender el segundo hito del proyecto
+- [x] Configuracion de los sistemas de integración continua.
+- [x] Terminar la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+- [X] Estudiar el nivel plataforma de la infraestructura virtual y su uso en prueba y producción y darse de alta en alguno.
+- [X] Comenzar a configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift o Azure Web Apps
+
+
+## Hito 3 (Semana 6 y 7)
+
+- [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
+- [X] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [X] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [X] Resolver los problemas que surjan en los primeros despliegues.
+- [X] Prepararse para la gestión de diferentes puntos de despliegue remoto con push configurando los repositorios para ello.
+- [X] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [X] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Hito 4 (Semana 8 y 9)
+
+- [X] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [X] Entender las arquitecturas software basadas en contenedores.
+- [X] Entregar el tercer hito del proyecto.
+- [X] Instalar Docker y empezar a trabajar con él.
+- [X] Familiarizarse con Docker. 
+- [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
