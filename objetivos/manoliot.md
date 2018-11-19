@@ -65,7 +65,7 @@
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
-# Objetivos del Hito 2:
+# Objetivos del Hito 3:
 
 - [x] Creación de la ruta "/" con Flask para comprabar el despliegue.
 - [x] Alta en Heroku y creación de la aplicación.
@@ -74,3 +74,27 @@
 - [x] Despliegue de la aplicación mediante el CLI de Heroku.
 - [x] Configuración para despliegue automático mediante Travis-CI.
 - [x] Documentación de los pasos realizados para el despliegue.
+
+# Objetivos del Tema 4
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+- [x] Instalar Docker y empezar a trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+- [x] Familiarizarse con Docker.
+- [x] Alta en Zeit e instalación del cliente.
+- [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
+- [x] Instalación de lxc y lxd.
+- [x] Prueba de despliegue de aplicaciones con juju sobre lxd.
+
+# Objetivos del Hito 4
+
+- [x] Creación de la ruta "/" con Flask para comprabar el despliegue.
+- [x] Instalación de Docker.
+- [x] Creación del fichero Dockerfile de la aplicación.
+- [x] Creación de imagen Docker y prueba local del contenedor.
+- [x] Configuración de Docker Hub para publicación automática cuando se realiza push en el repositorio de Github.
+- [x] Despliegue del contenedor en Heroku.
+- [x] Documentación de la dockerización de la aplicación, configuración de docker hub, y despliegue en heroku.
