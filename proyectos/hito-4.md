@@ -45,7 +45,7 @@ Añade debajo enlaces a tu proyecto
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2.6 |
 | REY PEDROSA, PABLO| | |
-| RODRIGUEZ MARIN, SERGIO|(gAcademy)[https://github.com/pavocejudo/ProyectoIV]| 0.5 |
+| RODRIGUEZ MARIN, SERGIO|[gAcademy](https://github.com/pavocejudo/ProyectoIV)| 0.5 |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 1.4 |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
