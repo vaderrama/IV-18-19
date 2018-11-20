@@ -10,7 +10,7 @@ Añade debajo enlaces a tu proyecto
 | BALDERAS RUIZ, LUIS|[TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) |4.1 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV)|1.0.3|
 | CALVO VILLAZAN, RUBEN| | |
-| CRUZ PEREZ, SERGIO|[AlmacéndeDJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) |4.1 |
+| CRUZ PEREZ, SERGIO|[AlmacéndDJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) |4.1 |
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 4.6 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
