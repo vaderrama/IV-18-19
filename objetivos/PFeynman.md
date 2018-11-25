@@ -117,3 +117,12 @@
 - [x] Familiarizarse con Docker.
 - [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
 - [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
+
+## Objetivos de la Semana 10
+
+- [ ] Entender los conceptos fundamentales de virtualización.
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
