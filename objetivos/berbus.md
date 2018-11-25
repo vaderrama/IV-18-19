@@ -79,3 +79,10 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
 - [X] Familiarizarse con Docker.
 - [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
+
+## Hito 5
+### Semana 10
+- [X] Entender los conceptos fundamentales de virtualización.
+- [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [X] Instalar hipervisores libres y trabajar con ellos.
+- [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
