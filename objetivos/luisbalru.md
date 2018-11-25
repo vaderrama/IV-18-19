@@ -102,7 +102,7 @@
 - [x] Comprender la importancia de los contenedores en el el desarrollo informático actual  
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.  
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.  
-- [ ] Entender las arquitecturas software basadas en contenedores  
+- [x] Entender las arquitecturas software basadas en contenedores  
 - [x] Haber entregado el tercer hito del proyecto.  
 - [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.  
 	- [Ejercicio 4](https://gist.github.com/luisbalru/1246afd9ee0f3878b22c7a22e24d7afd)  
@@ -124,7 +124,12 @@
 - [x] Nuevo intento en Azure (mi cuenta no existe y no puedo arreglarlo).  
 
 
+## Objetivos de la semana del 19/11
 
+- [ ] Entender los conceptos fundamentales de virtualización.  
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.  
+- [ ] Instalar hipervisores libres y trabajar con ellos.  
+- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.  
 
 
 
