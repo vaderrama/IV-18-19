@@ -93,6 +93,13 @@ Lista de objetivos de Alberto Herrera
 - [x] Entender los errores comunes del hito anterior
 - [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
 - [x] Familiarizarse con Docker. 
-- [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [x] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
 - [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
+
+## Décima semana, comienza el 19 de noviembre
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
 
