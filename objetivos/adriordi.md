@@ -29,8 +29,8 @@ Lista de objetivos
   - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
   - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
   - [x] Comprender el papel de las build tools o herramientas de automatización.
+  
 ## Semana 4 y semana 5:
-
 - [x] Entender segundo hito.
 - [x] Comprender los mecanismos de despliegue automático usando git.
 - [x] Entender el formato YAML y su uso.
@@ -39,6 +39,22 @@ Lista de objetivos
 - [x] Comprender el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción.
 - [x] Terminar la configuración de los sistemas de integración continua.
 - [x] Estudiar el nivel "plataforma de la infraestructura virtual" y su uso en prueba y producción y darse de alta en alguno.
-- [] Comenzar a configurar los toolbet de diferentes sistemas Paas, no sé todavía si usaré Azure o Heroku.
+- [x] Comenzar a configurar los toolbet de diferentes sistemas Paas, al final me he decantado por Heroku.
 - [x] Comprender los mecanismos de despliegue automático a través de git.
 - [x] Clase y Test listos para el hito 2.
+
+## Semana 6:
+- [x] Comprender direfencias y parecidos entre distintos sistemas PaaS comerciales.
+- [x] Internalizar el concepto de despliegue y cómo la infraestructura virtual son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Darse de alta en diferentes servicios PaaS.
+
+## Semana 7:
+- [x] Elección de un PaaS para el despliege, en mi caso Heroku.
+- [x] Descargarse y configurar el CLI de Heroku para su uso.
+- [x] Probar diferentes formas de desplegar aplicaciones.
+
+## Semana 8:
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las arquitecturas software basadas en contenedores.
+- [x] Leer documentación sobre Docker y DockerHub.

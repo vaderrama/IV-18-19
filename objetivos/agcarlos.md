@@ -60,3 +60,10 @@
 -   [x] Haber entregado el tercer hito del proyecto.
 -   [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 -   [x] Mirar ejercicio para crédito adicional
+
+#### Semana 10
+
+-   [x] Entender los conceptos fundamentales de virtualización
+-   [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+-   [ ] Despliegue en Azure
+-   [ ] Archivos de configuración funcionando

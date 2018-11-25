@@ -37,11 +37,11 @@ Añade debajo enlaces a tu proyecto
 | MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.3.0 |
 | MORENO LOPEZ, JUAN ESTEBAN|[proyectoIV](https://github.com/juaneml/IV_1819_Proyecto) |**3.2.7 REENVIO**|
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |1.4|
-| ORDUÑA DIAZ, ADRIAN| | |
+| ORDUÑA DIAZ, ADRIAN| [WorkWaitQueue](https://github.com/adriordi/proyectoIV) |0.7.3|
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)|2.1|
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)|4.2|
 | PINEDA MOCHON, IGNACIO| [PeluqueriaIV](https://github.com/nachop97m/PeluqueriaIV) | 3.0 |
-| PRALEA , MARICICA| | |
+| PRALEA , MARICICA|[Ptoyecto_IV](https://github.com/maricicaP/Proyecto_IV) | 1.3|
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 2.2 |
 | REY PEDROSA, PABLO| [Proyecto](https://github.com/PFeynman/proyecto-iv) | 0.2.0 |
