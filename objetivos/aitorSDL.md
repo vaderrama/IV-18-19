@@ -93,3 +93,10 @@
 ✓ Entender la base del aislamiento de recursos en el sistema operativo.
 
 ✓ Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+
+# Objetivos décima semana
+
+✓ Entender los conceptos fundamentales de virtualización.
+
+✓ Comprender el concepto de hipervisor y los diferentes tipos que hay.
