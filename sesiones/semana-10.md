@@ -20,4 +20,4 @@ La entrega de la práctica será el *21 de diciembre* (final del periodo lectivo
 
 ## Siguiente semana
 
-[Undécima semana](11-semana.md). 
+[Undécima semana](semana-11.md). 
