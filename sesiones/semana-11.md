@@ -9,6 +9,10 @@ complejo.
 1. Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
 
 ## Otros objetivos
+1. Algunos consejos para el último hito
+   1. Hay que testear todo, inclusive las rutas.
+   2. Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
+   3. Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
 1. Terminar las entregas del 4º hito, los que no lo hayan hecho.
 1. Ya deberíais haber instalado algún hipervisor libre.
 2. Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
