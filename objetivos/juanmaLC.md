@@ -83,3 +83,10 @@
  - [x] Familiarizarse con Docker.
  - [ ] Alta en Zeit
  - [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+ 
+ **Objetivos de la décima semana**
+
+- [ ] Entender los conceptos fundamentales de virtualización.
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos.
+- [ ] Empezar el último hito del proyecto
+ 
