@@ -49,13 +49,18 @@ Objetivos de la semana, comienza el 8 de octubre
 - [x] Realizada prueba con heroku.
 - [x] Hechos los dos primeros [ejercicios de la semana](https://github.com/antoniomg89/EjerciciosIV/blob/master/ES4.md)
 
-Objetivos de las semanas (8 de octubre a 2 de Noviembre)
+Objetivos de las semanas (8 de octubre a 2 de noviembre)
 ============================
 
 - [x] Probado Azure y realizado despliegue.
 
-Objetivos de la semana del 12 de Noviembre
+Objetivos de las semanas (12 a 23 de noviembre)
 ============================
 
 - [x] Instalado Docker y creados contenedores de prueba mediante dockerfiles. Subir estos contenedores a Docker Hub.
 - [x] Realizando pruebas para automatizar el despliegue en Heroku desde Docker Hub al pasar los tests de Travis.
+
+Objetivos de la semana, comienza el 26 de noviembre
+============================
+
+- [x] Hipervisor (virtualvox) instalado y realizando pruebas con máquinas virtuales.
