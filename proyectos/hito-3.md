@@ -33,7 +33,7 @@ Añade debajo enlaces a tu proyecto
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 1.3 |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.2 |
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV-Bot Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|**2.0 reenvio**|
-| MARTOS RODRIGUEZ, ANTONIO|[Proyecto-IV](https://github.com/toniMR/Proyecto-IV) |**2.0** |
+| MARTOS RODRIGUEZ, ANTONIO|[Proyecto-IV](https://github.com/toniMR/Proyecto-IV) |**3.2 Reenvío** |
 | MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.3.0 |
 | MORENO LOPEZ, JUAN ESTEBAN|[proyectoIV](https://github.com/juaneml/IV_1819_Proyecto) |**3.2.7 REENVIO**|
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |1.4|
