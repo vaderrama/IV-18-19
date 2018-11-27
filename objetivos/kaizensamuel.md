@@ -112,5 +112,8 @@ usando PaaS
 1. [x] Entender la base del aislamiento de recursos en el sistema operativo.
 2. [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 
+# Semana 19 de Noviembre
 
+1. [x] Entender los conceptos fundamentales de virtualización
+2. [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
