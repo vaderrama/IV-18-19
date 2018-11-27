@@ -4,7 +4,7 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| ALARCON CUADROS, SAMUEL| [Tienda online componentes](https://github.com/kaizensamuel/proyecto-IV-18-19) | 2.1|
+| ALARCON CUADROS, SAMUEL| [Tienda online componentes](https://github.com/kaizensamuel/proyecto-IV-18-19) | 2.4 **Reenvío** |
 | ALVAREZ CARRASCO, JUAN|[SnowMet](https://github.com/vaderrama/Proyecto-IV) | 2.6 **Reenvío** |
 | ARIZA GARCIA, CARLOS|[Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) |1.3.6 **Reenvío** |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 3.4.1 |
