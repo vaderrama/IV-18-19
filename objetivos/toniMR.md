@@ -60,7 +60,12 @@
 - [X] Entender las arquitecturas software basadas en contenedores
 
 ## Objetivos de la Novena Semana
-- [ ] Entender la base del aislamiento de recursos en el sistema operativo.
-- [ ] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 
+## Objetivos de la Décima Semana
+- [X] Entender los conceptos fundamentales de virtualización
+- [X] Comprender el concepto de hipervisor y los diferentes tipos que hay
 
+## Objetivos de la Undécima Semana
+- [X] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
