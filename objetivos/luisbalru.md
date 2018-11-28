@@ -128,13 +128,15 @@
 
 - [x] Entender los conceptos fundamentales de virtualización.  
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.  
-- [ ] Instalar hipervisores libres y trabajar con ellos.  
+- [x] Instalar hipervisores libres y trabajar con ellos.  
 - [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.  
 
 
 ## Objetivos de la semana del 26/11
 
 - [ ] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.  
+	- [Vagrant in 5 minutes](https://opensource.com/business/16/1/lightning-talk-quick-introduction-vagrant)
+	- [Vagrant doc](https://www.vagrantup.com/docs/)
 - Para el último hito:  
 	- [ ] Testear todo.  
 	- [ ] Seguir la descripción y consejos de corrección.  
@@ -142,7 +144,7 @@
 	- [ ] Configuración distribuída.  
 	- [ ] Logs.  
 - [x] Entregar hito 4.  
-- [ ] Instalar algún hipervisor libre.  
+- [x] Instalar algún hipervisor libre.  
 - [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.  
 - [ ] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
 
