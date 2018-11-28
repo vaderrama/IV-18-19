@@ -19,7 +19,12 @@ Conviene ir cubriendo los objetivos de la semana, para que la entrega de la prá
    2. La aplicación debe seguirse completando, no sólo la
       infraestructura. Esto incluye tests y la aplicación en si. En
       particular, debe crearse un ciclo CRUD completo donde tenga
-      sentido. 
+      sentido.
+   3. Errores en la creación del Dockerfile. 
+      1. Justificar la imagen base que se usa.
+      2. Tener claro qué ficheros son necesarios para el despliegue, y
+         copiar sólo esos. Usar .dockerignore o simplemente copiar
+         sólo lo que haga falta.
 
 1. Instalar clientes de servicios en la nube.
 
