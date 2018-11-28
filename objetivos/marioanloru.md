@@ -91,5 +91,18 @@ Objetivos Infraestructura Virtual
 - [x] Familiarizarse con Docker
 - [x] Darse de alta en Zeit e instalación del cliente
 - [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure
-- [ ] Entregar el hito 4
+- [x] Entregar el hito 4
 
+### Hito 5. Último hito
+
+#### Semana 10
+
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay
+- [ ] Instalar hipervisores libres y trabajar con ellos
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres
+
+#### Semana 11
+
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales
+- [ ] Corregir posibles errores y puntos a mejorar del hito 4
