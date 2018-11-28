@@ -17,14 +17,20 @@ Conviene ir cubriendo los objetivos de la semana, para que la entrega de la prá
    1. La aplicación debe ejecutarse siempre de la misma forma: en
       heroku.yml, en el CMD del Dockerfile, en el Procfile.
    2. La aplicación debe seguirse completando, no sólo la
-      infraestructura. Esto incluye tests y la aplicación en si. En
-      particular, debe crearse un ciclo CRUD completo donde tenga
-      sentido.
+   infraestructura.
+	   1. Las rutas se deben testear también.
+	   2. Los objetos de una clase no pueden inicializarse todos desde una constante o un fichero, deben usar su constructor para ello.
    3. Errores en la creación del Dockerfile. 
       1. Justificar la imagen base que se usa.
       2. Tener claro qué ficheros son necesarios para el despliegue, y
          copiar sólo esos. Usar .dockerignore o simplemente copiar
          sólo lo que haga falta.
+    4. Errores en el diseño de la aplicación REST
+	  1. Poner métodos GET y PUT sin tratarlos de forma diferente.
+	  2. No poner más que métodos GET. Para añadir información, se debe usar PUT
+      3. Usar métodos GET para cambiar el estado del servidor. Para ello se deben usar todos menos este.
+	  4. Diseño de rutas arbitrario y como nombre de funciones. Se deben diseñar alrededor del nombre del recurso al que se accede, que puede ser el mismo nombre de la clase.
+	  
 
 1. Instalar clientes de servicios en la nube.
 
