@@ -14,16 +14,32 @@ Conviene ir cubriendo los objetivos de la semana, para que la entrega de la prá
 ## Otros objetivos
 
 1. Revisar errores comunes en el hito 4.
+   1. Comprender qué es exactamente la documentación y para qué
+      sirve. 
+      1. No es para:
+         1. Que calquéis lo que hay en otro sitio.
+         2. Que pongáis como os habéis registrado en algo.
+         3. Que pongáis tal cual lo que hay en un fichero sin
+            explicarlo.
+      2. *Sí* es para:
+          1. Justificar lo que no se ve a simple vista
+             (configuraciones que se han tenido que hacer en la web,
+             por ejemplo).
+          2. Justificar por qué habéis elegido algo (Por qué habéis
+         escogido como imagen base `python:3` en este hito, por
+         ejemplo).
    1. La aplicación debe ejecutarse siempre de la misma forma: en
       heroku.yml, en el CMD del Dockerfile, en el Procfile.
    2. La aplicación debe seguirse completando, no sólo la
    infraestructura.
-	   1. Las rutas se deben testear también.
+	   1. Las rutas se deben testear también. Y se deben testear no
+          usando requests (o similar), sino llamando a las funciones
+          internamente. 
 	   2. Los objetos de una clase no pueden inicializarse todos desde una constante o un fichero, deben usar su constructor para ello.
    3. Errores en la creación del Dockerfile. 
       1. Justificar la imagen base que se usa.
       2. Tener claro qué ficheros son necesarios para el despliegue, y
-         copiar sólo esos. Usar .dockerignore o simplemente copiar
+         copiar sólo esos. Usar `.dockerignore` o simplemente copiar
          sólo lo que haga falta.
     4. Errores en el diseño de la aplicación REST
 	  1. Poner métodos GET y PUT sin tratarlos de forma diferente.
