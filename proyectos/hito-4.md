@@ -14,7 +14,7 @@ Añade debajo enlaces a tu proyecto
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 4.6 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
-| ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.4.3 *REENVIO* |
+| ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.4.2 *REENVIO* |
 | FLORES GARRIDO, FERNANDO| [Tienda-Videojuegos](https://github.com/FFGFER/Proyecto-IV) | 0.7  |
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| [FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 1.2 |
