@@ -62,4 +62,4 @@ de los sistemas opertavos. Saber si el ordenador habitual lo usa.
 - [X] Entregar el tercer hito del proyecto.
 - [X] Instalar Docker y empezar a trabajar con él.
 - [X] Familiarizarse con Docker. 
-- [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [X] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
