@@ -6,8 +6,6 @@
 - [x] Creación del repositorio de [ejercicios](https://github.com/jcpulido97/EjerciciosIV).
 - [x] Configuración de [GitHub](https://github.com/jcpulido97) y git.
 
-
-
 # Objetivos Semana 2
 
 - [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
