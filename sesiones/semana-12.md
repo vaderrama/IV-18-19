@@ -43,7 +43,7 @@ Conviene ir cubriendo los objetivos de la semana, para que la entrega de la prá
          sólo lo que haga falta.
     4. Errores en el diseño de la aplicación REST
 	  1. Poner métodos GET y PUT sin tratarlos de forma diferente.
-	  2. No poner más que métodos GET. Para añadir información, se debe usar [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT) o [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
+	  2. No poner más que métodos GET. Para añadir información, se debe usar un método _no seguro_ como, por ejemplo, [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT).
       3. Usar métodos GET para cambiar el estado del servidor. Para ello se deben usar los llamados métodos [_no seguros_](https://developer.mozilla.org/en-US/docs/Glossary/safe), viz.: DELETE, PATCH, POST y PUT.
 	  4. Diseño de rutas arbitrario y como nombre de funciones. Se deben diseñar alrededor del nombre del recurso al que se accede, que puede ser el mismo nombre de la clase.
 	  
