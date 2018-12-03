@@ -66,3 +66,22 @@ Repositorio de ejercicios: [Ejercicios IV](https://github.com/iMiguel10/Ejercici
 - [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
 - [ ] Mirar ejercicio para crédito adicional
 - [x] Usar imágenes de docker publicadas.
+
+---
+
+# Objetivos hito 5
+- [x] Corregir hito 4
+- [ ] Haber superado el hito anterior.
+- [ ] Entender los conceptos fundamentales de virtualización
+- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [ ] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [ ] Entender los conceptos de los servicios en la nube.
+- [ ] Entender el concepto de provisionamiento.
+- [x] Revisar errores comunes en el hito 4.
+- [ ] Instalar clientes de servicios en la nube.
+- [ ] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [ ] Hacer pruebas de provisionamiento de servicios en la nube.
+
