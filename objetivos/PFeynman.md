@@ -120,9 +120,9 @@
 
 ## Objetivos de la Semana 10
 
-- [ ] Entender los conceptos fundamentales de virtualización.
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Entender los conceptos fundamentales de virtualización.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
 ### Otros objetivos
-- [ ] Instalar hipervisores libres y trabajar con ellos.
+- [x] Instalar hipervisores libres y trabajar con ellos.
 - [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
