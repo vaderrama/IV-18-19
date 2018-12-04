@@ -65,5 +65,9 @@
 
 -   [x] Entender los conceptos fundamentales de virtualización
 -   [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
--   [ ] Despliegue en Azure
--   [ ] Archivos de configuración funcionando
+-   [x] Archivos de configuración funcionando
+
+#### Semana 12
+
+-   [x] Revisar errores comunes en el hito 4
+-   [x] Reenvío hito 4
