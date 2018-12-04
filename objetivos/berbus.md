@@ -86,3 +86,12 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 - [X] Instalar hipervisores libres y trabajar con ellos.
 - [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+### Semana 11
+- [X] Instalar un hipervisor libre.
+- [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [X] Seleccionados sistema operativo e imágenes adecuadas.
+
+Ya deberíais haber instalado algún hipervisor libre.
+    Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
+    Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
