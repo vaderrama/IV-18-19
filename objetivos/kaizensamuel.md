@@ -117,3 +117,5 @@ usando PaaS
 1. [x] Entender los conceptos fundamentales de virtualización
 2. [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
+# Semana 26 de Noviembre
+1. [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
