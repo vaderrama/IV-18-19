@@ -100,3 +100,8 @@
 ✓ Entender los conceptos fundamentales de virtualización.
 
 ✓ Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+
+# Objetivos undécima semana
+
+✓ Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
