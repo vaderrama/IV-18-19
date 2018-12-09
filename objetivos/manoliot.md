@@ -91,10 +91,16 @@
 
 # Objetivos del Hito 4
 
-- [x] Creación de la ruta "/" con Flask para comprabar el despliegue.
+- [x] Creación de la ruta "/" con Flask para comprobar el despliegue.
 - [x] Instalación de Docker.
 - [x] Creación del fichero Dockerfile de la aplicación.
 - [x] Creación de imagen Docker y prueba local del contenedor.
 - [x] Configuración de Docker Hub para publicación automática cuando se realiza push en el repositorio de Github.
 - [x] Despliegue del contenedor en Heroku.
 - [x] Documentación de la dockerización de la aplicación, configuración de docker hub, y despliegue en heroku.
+- [x] Mejora de la funcionalidad de la aplicación
+
+# Objetivos del Tema 5
+
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
