@@ -19,7 +19,7 @@
 - [x] Entiendo el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Comprobado que mi ordenador habitual lo usa:
 	- [Ejercicio 3](https://gist.github.com/luisbalru/d68b1aae91cbf3bfb4e0b30c246851c2)
 	- [Ejercicio 4](https://gist.github.com/luisbalru/d8a288a20d60418089113ac7db84f0a0)
-	
+
 ## Objetivos de la semana del 24/9
 
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de IV.
@@ -38,7 +38,7 @@
 
 ## Objetivos de la semana del 1/10
 
-- [x] Comenzar con la configuración de los sistemas de integración continua. 
+- [x] Comenzar con la configuración de los sistemas de integración continua.
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de IV.  
 - [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.  
 - [x] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.  
@@ -117,10 +117,10 @@
 - [x] Entender las diferentes formas de aislar recursos en Linux.  
 - [x] Entender los errores comunes del hito anterior.  
 	- [x] Explicado el Procfile(missing)
-	
+
 - [x] Familiarizarse con Docker.  
 - [x] Alta, instalción y despliegue en Zeit.  
-	
+
 - [x] Nuevo intento en Azure (mi cuenta no existe y no puedo arreglarlo).  
 
 
@@ -150,7 +150,11 @@
 
 ## Objetivos de la semana del 3/12
 
-- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y
-   diferencias con los locales.   
-- [ ] Entender los conceptos de los servicios en la nube.  
+- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y   diferencias con los locales.   
+- [x] Entender los conceptos de los servicios en la nube.  
 - [x] Entender el concepto de provisionamiento.  
+
+## Objetivos de la semana del 10/12
+
+- [ ] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.  
+- [ ] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.  
