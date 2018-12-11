@@ -75,24 +75,24 @@
 - [] -Entender las arquitecturas software basadas en contenedores
 
 ## Semana 12 de Noviembre
-- [] -Entender la base del aislamiento de recursos en el sistema operativo.
-- [] -Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [] -Entender los errores comunes del hito anterior (PaaS):
-- [] -Leer el guión y seguirlo:
-- [] -Documentar despliegue directamente desde GitHub
-- [] -Explicar el Procfile (o fichero que se use), las partes que tiene y qué hace cada una y por qué.
-- [] -Lo que tiene que devolver status hay que sustituirlo por las rutas que haya definidas y qué devuelven.
-- [] -Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
-- [] -Familiarizarse con Docker.
-- []Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [ ] -Entender la base del aislamiento de recursos en el sistema operativo.
+- [ ] -Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [ ] -Entender los errores comunes del hito anterior (PaaS):
+- [ ] -Leer el guión y seguirlo:
+- [ ] -Documentar despliegue directamente desde GitHub
+- [ ] -Explicar el Procfile (o fichero que se use), las partes que tiene y qué hace cada una y por qué.
+- [ ] -Lo que tiene que devolver status hay que sustituirlo por las rutas que haya definidas y qué devuelven.
+- [ ] -Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [ ] -Familiarizarse con Docker.
+- [ ] -Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
 Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
 
 
 ## Semana 19 de Noviembre
-- [] -Entender los conceptos fundamentales de virtualización.
-- [] -Comprender el concepto de hipervisor y los diferentes tipos que hay.
-- [] -Instalar hipervisores libres y trabajar con ellos.
-- [] -Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [ ] -Entender los conceptos fundamentales de virtualización.
+- [ ] -Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [ ] -Instalar hipervisores libres y trabajar con ellos.
+- [ ] -Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 ## Semana 26 de noviembre
-- [] -Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+- [ ] -Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
