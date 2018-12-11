@@ -62,8 +62,37 @@
 - [x] -Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
 - [x] -Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios
 - [x] -Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
-- [ ] -Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
-- [ ] -Trabajar con los toolbelts de los diferentes PaaS.
-- [ ] -Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
-- [ ] -Experimentar con el despliegue simultáneo a varios PaaS desde Github.
-- [ ] -Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+- [x] -Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
+- [x] -Trabajar con los toolbelts de los diferentes PaaS.
+- [x] -Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] -Experimentar con el despliegue simultáneo a varios PaaS desde Github.
+- [x] -Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Semana 5 de Noviembre
+- [x] -Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] -Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] -Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [] -Entender las arquitecturas software basadas en contenedores
+
+## Semana 12 de Noviembre
+- [] -Entender la base del aislamiento de recursos en el sistema operativo.
+- [] -Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [] -Entender los errores comunes del hito anterior (PaaS):
+- [] -Leer el guión y seguirlo:
+- [] -Documentar despliegue directamente desde GitHub
+- [] -Explicar el Procfile (o fichero que se use), las partes que tiene y qué hace cada una y por qué.
+- [] -Lo que tiene que devolver status hay que sustituirlo por las rutas que haya definidas y qué devuelven.
+- [] -Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [] -Familiarizarse con Docker.
+- []Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
+
+
+## Semana 19 de Noviembre
+- [] -Entender los conceptos fundamentales de virtualización.
+- [] -Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [] -Instalar hipervisores libres y trabajar con ellos.
+- [] -Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+## Semana 26 de noviembre
+- [] -Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
