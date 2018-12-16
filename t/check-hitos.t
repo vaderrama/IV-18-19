@@ -152,7 +152,7 @@ SKIP: {
 
    if ( $this_hito > 4 ) { # Despliegue en algún lado
     doing("hito 5");
-    my ($deployment_url) = ($README =~ /(?:Despliegue final|Final deploy):\s+(\S+)\b/);
+    my ($deployment_url) = ($README =~ /(?:Despliegue final|Final deployment):\s+(\S+)\b/);
     if ( $deployment_url ) {
       diag "☑ Detectada IP de despliegue $deployment_url";
     } else {
@@ -169,8 +169,8 @@ SKIP: {
     isnt( grep( /Vagrantfile/, @repo_files), 0, "Dockerfile presente" );
     isnt( grep( /provision/, @repo_files), 0, "Hay un directorio 'provision'" );
     isnt( grep( m{provision/\w+}, @repo_files), 0, "El directorio 'provision' no está vacío" );
-    isnt( grep( /despliegue|deploy/, @repo_files), 0, "Hay un directorio 'despliegue'" );
-    isnt( grep( m{(despliegue|deploy)/\w+}, @repo_files), 0, "El directorio 'despliegue' no está vacío" );
+    isnt( grep( /despliegue|deployment/, @repo_files), 0, "Hay un directorio 'despliegue'" );
+    isnt( grep( m{(despliegue|deployment)/\w+}, @repo_files), 0, "El directorio 'despliegue' no está vacío" );
   }
 };
 
