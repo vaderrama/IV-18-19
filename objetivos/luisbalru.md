@@ -92,10 +92,10 @@
 - [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.  
 - [x] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores (not yet). Más adelante se verá su utilidad. Darse de alta en Openshift online (done).  
 - [x] Trabajar con los toolbelts de los diferentes PaaS.  
-- [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.  
-- [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.  
-- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.  
-- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.  
+- [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.  
+- [x] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.  
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.  
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.  
 
 ## Objetivos de la semana del 5/11
 
@@ -138,9 +138,9 @@
 	- [Vagrant in 5 minutes](https://opensource.com/business/16/1/lightning-talk-quick-introduction-vagrant)
 	- [Vagrant doc](https://www.vagrantup.com/docs/)
 - Para el último hito:  
-	- [ ] Testear todo.  
-	- [ ] Seguir la descripción y consejos de corrección.  
-	- [ ] Uso de base de datos.  
+	- [x] Testear todo.  
+	- [x] Seguir la descripción y consejos de corrección.  
+	- [x] Uso de base de datos.  
 	- [ ] Configuración distribuída.  
 	- [ ] Logs.  
 - [x] Entregar hito 4.  
@@ -150,11 +150,13 @@
 
 ## Objetivos de la semana del 3/12
 
-- [ ] Trabajar con proveedores en la nube y apreciar los parecidos y   diferencias con los locales.   
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y   diferencias con los locales.   
 - [x] Entender los conceptos de los servicios en la nube.  
 - [x] Entender el concepto de provisionamiento.  
 
 ## Objetivos de la semana del 10/12
 
-- [ ] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.  
-- [ ] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.  
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.  
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [ ] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.  
+- [ ] Resolver dudas relativas a la entrega del hito final de la asignatura.
