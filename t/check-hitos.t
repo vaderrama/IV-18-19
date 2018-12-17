@@ -167,11 +167,11 @@ SKIP: {
     if ( ok( $deployment_url, "URL de despliegue hito 5") ) {
       check_ip($deployment_url);
       my $status = $ua->get("http://$deployment_url/status");
-      isnt( $status, undef, "Despliegue correcto en $deployment_url/status" );
-      my $status_ref = from_json( $status );
+      ok( $status->res, "Despliegue correcto en $deployment_url/status" );
+      my $status_ref = json_from_status( $status );
       like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
     }
-    isnt( grep( /Vagrantfile/, @repo_files), 0, "Dockerfile presente" );
+    isnt( grep( /Vagrantfile/, @repo_files), 0, "Vagrantfile presente" );
     isnt( grep( /provision/, @repo_files), 0, "Hay un directorio 'provision'" );
     isnt( grep( m{provision/\w+}, @repo_files), 0, "El directorio 'provision' no está vacío" );
     isnt( grep( /despliegue|deployment/, @repo_files), 0, "Hay un directorio 'despliegue'" );
