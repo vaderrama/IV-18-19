@@ -1,15 +1,43 @@
 # Objetivos IV Juan Alvarez
 
+## Duodécima Semana
+
+- [] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [X] Entender los conceptos de los servicios en la nube.
+- [X] Entender el concepto de provisionamiento.
+- [X] Revisar errores comunes en el hito 4.
+- []Instalar clientes de servicios en la nube.
+- [] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Undécima Semana
+
+- [] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.  
+
+- Para el último hito:  
+    - [ ] Testear todo.  
+    - [ ] Seguir la descripción y consejos de corrección.  
+    - [ ] Uso de base de datos.  
+    - [ ] Configuración distribuída.  
+    - [ ] Logs.  
+- [X] Entregar hito 4.  
+- [X] Instalar algún hipervisor libre.  
+- [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.  
+
+## Décima Semana
+- [X] Entender los conceptos fundamentales de virtualización
+- [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 ## Novena Semana 
 
-- [] Entender la base del aislamiento de recursos en el sistema operativo
+- [X] Entender la base del aislamiento de recursos en el sistema operativo
 - [X] Entender y corregir posibles errores del hito 3
-- [] Entender las diferentes formas de aislar recursos en Linux
+- [X] Entender las diferentes formas de aislar recursos en Linux
 - [X] Familiarizarse con Docker
 - [] Darse de alta en Zeit e instalación del cliente
-- [] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure
-- [] Entregar el hito 4
+- [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure
+- [X] Entregar el hito 4
 
 
 ## Octava Semana
@@ -18,8 +46,8 @@
 - [X] Entender la base del aislamiento de recursos en el sistema operativo
 - [X] Entender las diferentes formas de aislar recursos en Linux
 - [X] Entender las arquitecturas software basadas en contenedores
-- [] Instalar Docker y realizar pruebas
-- [] Hacer pruebas con imágenes de docker publicadas
+- [X] Instalar Docker y realizar pruebas
+- [X] Hacer pruebas con imágenes de docker publicadas
 
 
 ## Séptima Semana
@@ -28,10 +56,10 @@
 - [X] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 - [X] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
 - []  Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad. Darse de alta en Openshift online.
-- []  Trabajar con los toolbelts de los diferentes PaaS.
+- [X]  Trabajar con los toolbelts de los diferentes PaaS.
 - [] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
 - [] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
-- [] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [X] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 ## Sexta Semana

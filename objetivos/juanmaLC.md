@@ -87,8 +87,8 @@
  **Objetivos de la décima semana**
 
 
-- [ ] Entender los conceptos fundamentales de virtualización.
-- [ ] Comprender el concepto de hipervisor y los diferentes tipos.
+- [x] Entender los conceptos fundamentales de virtualización.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos.
 - [ ] Empezar el último hito del proyecto
-
+- [x] Arreglar errores del hito 4
  

@@ -61,3 +61,4 @@
 - [x] Usar imágenes de docker publicadas.
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Mejorado el envio inicial del hito corrigiendo todos los puntos sancionados.

@@ -66,3 +66,11 @@ Lista de objetivos Semana 9:
 
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros S.O.
+
+Lista de objetivos Semana 10:
+
+- [x] Entender conceptos sobre fundamentos de virtualización.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos.
+Lista de objetivos Semana 11:
+
+- [] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
