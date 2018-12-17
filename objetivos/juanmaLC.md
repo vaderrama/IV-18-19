@@ -92,3 +92,10 @@
 - [ ] Empezar el último hito del proyecto
 - [x] Arreglar errores del hito 4
  
+ **Objetivos de la undécima semana**
+ 
+ - [x] Usar el API de hipervisores locales y remotos desde Vagrant.
+ - [x] Leidos los consejos para el último hito.
+ - [x] Terminar la entrega del hito 4.
+ - [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo.
+ 
