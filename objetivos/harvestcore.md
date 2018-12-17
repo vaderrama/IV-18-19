@@ -115,3 +115,44 @@
 - [x] Instalar docker y trabajar con él.
 - [x] Si no se ha hecho, alta en [Zeit](https://zeit.co/) e instalación del cliente.
 - [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+
+
+
+## Semana 10 (19 nov)
+
+- [x] Entender los conceptos fundamentales de virtualización.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+
+
+## Semana 11 (26 nov)
+
+- [ ] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
+- [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+
+
+## Semana 12 (3 dic)
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+- [x] Instalar clientes de servicios en la nube.
+- [ ] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+
+
+## Semana 13 (10 dic)
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+
+
+## Semana 14 (17 dic)
+
+- [ ] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
