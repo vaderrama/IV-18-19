@@ -132,25 +132,26 @@ SKIP: {
     } else {
       diag "✗ Problemas detectando URL de despliegue de Docker";
     }
-    ok( $deployment_url,  "URL de despliegue hito 4");
-  SKIP: {
-      skip "Ya en el hito siguiente", 2 unless $this_hito == 4;
-      $deployment_url = ($deployment_url =~ /status/)?$deployment_url:"$deployment_url/status";
-      my $status = $ua->get( "$deployment_url" );
-      ok( $status->res, "Despliegue hecho en $deployment_url" );
-      my $status_ref = json_from_status( $status );
-      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
-    }
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
-
+      
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
+    $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
-  SKIP: {
-      skip "Ya en el hito siguiente", 1 unless $this_hito == 4;
- 
-      $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
-      my $dockerhub = $ua->get($dockerhub_url);
-      like( $dockerhub->res->body, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
+    ok($dockerhub_url, "Detectado URL de DockerHub");
+    
+    if ( ok( $deployment_url,  "URL de despliegue hito 4") ) {
+    SKIP: {
+	skip "Ya en el hito siguiente", 4 unless $this_hito == 4;
+	$deployment_url = ($deployment_url =~ /status/)?$deployment_url:"$deployment_url/status";
+	my $status = $ua->get( "$deployment_url" );
+	ok( $status->res, "Despliegue hecho en $deployment_url" );
+	my $status_ref = json_from_status( $status );
+	like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+	if ( $dockerhub_url ) {
+	  my $dockerhub = $ua->get($dockerhub_url);
+	  like( $dockerhub->res->body, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
+	}
+      }
     }
   }
 
