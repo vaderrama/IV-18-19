@@ -100,11 +100,9 @@
  - [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo.
 
 
-  **Objetivos de la undécima semana**
- 
- - [x] Usar el API de hipervisores locales y remotos desde Vagrant.
- - [x] Leidos los consejos para el último hito.
- - [x] Terminar la entrega del hito 4.
- - [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo.
-
- 
+  **Objetivos de la duodécima semana**
+  
+ - [x] Revisados y comprendidos los errores comunes del hito 4.
+ - [ ] Trabajar con proveedores en la nube.
+ - [x] Entender los conceptos de los servicios en la nube.
+ - [x] Entender el concepto de provisionamiento.
