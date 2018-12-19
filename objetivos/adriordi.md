@@ -58,3 +58,10 @@ Lista de objetivos
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las arquitecturas software basadas en contenedores.
 - [x] Leer documentación sobre Docker y DockerHub.
+
+
+## Semana 9:
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros S.O.
+- [x] Familiarizarse con Docker.
