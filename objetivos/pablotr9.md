@@ -37,3 +37,13 @@
  - [x] Hacer pruebas con las imagenes de docker publicadas
  - [x] Darse de alta en Zeit e instalación del cliente
 
+
+## Hito 5:
+
+- [x] Entender los conceptos fundamentales de virtualización.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [X] Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs
+- [x] Corregir errores del hito 4.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+
+
