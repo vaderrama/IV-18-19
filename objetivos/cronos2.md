@@ -91,3 +91,9 @@
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay
 - [x] Instalar hipervisores libres y trabajar con ellos
 - [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres
+
+## Semana 11
+
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
+- [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo.
