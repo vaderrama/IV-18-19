@@ -63,3 +63,13 @@ de los sistemas opertavos. Saber si el ordenador habitual lo usa.
 - [X] Instalar Docker y empezar a trabajar con él.
 - [X] Familiarizarse con Docker. 
 - [X] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+
+## Hito 5 (Semanas 10, 11, 12, 13 y 14 )
+
+- [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [X] Documentar y mantener una plataforma virtual.
+- [ ] Realizar tareas de administración de infraestructuras virtuales.
+- [X] Aprender lenguajes de configuracíon usados en infraestructuras virtuales.
+- [X] Saber cómo aplicarlos en un caso determinado.
+- [ ] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización mas usados hoy en día. 
