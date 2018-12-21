@@ -104,14 +104,30 @@ Lista de objetivos de Alberto Herrera
 
 ## Undécima semana, comienza el 19 de noviembre
 - [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
-- [ ] Hay que testear todo, inclusive las rutas.
+- [x] Hay que testear todo, inclusive las rutas.
 - [x] Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
 - [x] Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
 - [x] Organizarse las tareas por semanas o días, con "sprints" que terminen el trabajo.
 - [x] Terminar las entregas del 4º hito, los que no lo hayan hecho.
 - [x] Ya deberíais haber instalado algún hipervisor libre.
-- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.  
-- [ ] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.  
+- [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+## Duodécima semana, comienza el 19 de noviembre
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+- [x] Revisar errores comunes en el hito 4.
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Decimotercera semana, comienza el 19 de noviembre
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.
+- [x] Volver a entregar el hito anterior para aprobar y/o subir nota.
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura.
 
 
 
