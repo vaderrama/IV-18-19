@@ -37,7 +37,7 @@ Añade debajo enlaces a tu proyecto
 | MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.4.0 |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |**2.0 Reenvío**|
-| ORDUÑA DIAZ, ADRIAN| | |
+| ORDUÑA DIAZ, ADRIAN| [WorkWaitQueue](https://github.com/adriordi/proyectoIV) | 0.8.3 |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)| 2.3 |
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 4.6|
 | PINEDA MOCHON, IGNACIO| | |
