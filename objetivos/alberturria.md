@@ -102,7 +102,7 @@ Lista de objetivos de Alberto Herrera
 - [x] Instalar hipervisores libres y trabajar con ellos.
 - [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
-## Undécima semana, comienza el 19 de noviembre
+## Undécima semana, comienza el 26 de noviembre
 - [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
 - [x] Hay que testear todo, inclusive las rutas.
 - [x] Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
@@ -113,7 +113,7 @@ Lista de objetivos de Alberto Herrera
 - [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.  
 - [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
 
-## Duodécima semana, comienza el 19 de noviembre
+## Duodécima semana, comienza el 3 de diciembre
 - [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
 - [x] Entender los conceptos de los servicios en la nube.
 - [x] Entender el concepto de provisionamiento.
@@ -122,7 +122,7 @@ Lista de objetivos de Alberto Herrera
 - [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
 - [x] Hacer pruebas de provisionamiento de servicios en la nube.
 
-## Decimotercera semana, comienza el 19 de noviembre
+## Decimotercera semana, comienza el 17 de diciembre
 - [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
 - [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
 - [x] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.
