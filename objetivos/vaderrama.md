@@ -1,25 +1,37 @@
 # Objetivos IV Juan Alvarez
 
+## Décimo cuarta Semana
+
+- [X] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+## Décimo tercera Semana
+
+- [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [X] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.
+- [X] Volver a entregar el hito anterior para aprobar y/o subir nota.
+- [X] Resolver dudas relativas a la entrega del hito final de la asignatura.
+
 ## Duodécima Semana
 
-- [] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
 - [X] Entender los conceptos de los servicios en la nube.
 - [X] Entender el concepto de provisionamiento.
 - [X] Revisar errores comunes en el hito 4.
-- []Instalar clientes de servicios en la nube.
-- [] Entender temas de seguridad de la información relacionados con los servicios en la nube.
-- [] Hacer pruebas de provisionamiento de servicios en la nube.
+- [X]Instalar clientes de servicios en la nube.
+- [X] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [X] Hacer pruebas de provisionamiento de servicios en la nube.
 
 ## Undécima Semana
 
-- [] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.  
+- [X] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.  
 
 - Para el último hito:  
-    - [ ] Testear todo.  
-    - [ ] Seguir la descripción y consejos de corrección.  
-    - [ ] Uso de base de datos.  
-    - [ ] Configuración distribuída.  
-    - [ ] Logs.  
+    - [] Testear todo.  
+    - [X] Seguir la descripción y consejos de corrección.  
+    - [] Uso de base de datos.  
+    - [X] Configuración distribuída.  
+    - [] Logs.  
 - [X] Entregar hito 4.  
 - [X] Instalar algún hipervisor libre.  
 - [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.  

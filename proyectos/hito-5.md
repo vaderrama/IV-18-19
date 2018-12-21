@@ -34,7 +34,7 @@ Añade debajo enlaces a tu proyecto
 | MARTINEZ GARCIA, ANTONIO| | |
 | MARTIR MORENO, NATALIA MARIA| | |
 | MARTOS RODRIGUEZ, ANTONIO| | |
-| MAS MESA, IGNACIO | | |
+| MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.5.0 |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
 | NAVARRETE CAMPOS, GINES| | |
 | ORDUÑA DIAZ, ADRIAN| | |
@@ -56,4 +56,4 @@ Añade debajo enlaces a tu proyecto
 | TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.7 |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
-| VIÑAS RODRIGUEZ, JOSE MARIA | | |
+| VIÑAS RODRIGUEZ, JOSE MARIA | [Repo](https://github.com/joseviro/ProyectoTPV)| 1.1 |
