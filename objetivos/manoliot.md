@@ -104,3 +104,28 @@
 
 - [x] Instalar hipervisores libres y trabajar con ellos.
 - [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+# Objetivos del Tema 6
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+# Objetivos del Hito 5
+- [x] Instalación de herramientas a usar en la practica: vagrant, azure-cli, ansible, fabric.
+- [x] Creación de cuenta y de resource group en Azure.
+- [x] Creación del fichero Vagrantfile para despligue de la máquina de Azure.
+- [x] Configuración de Ansible para configuración de la máquina e inclusión en Vagrantfile.
+- [x] Creación de fabfile para despliegue y actualización de la aplicación.
+- [x] Despligue de la aplicación en Azure haciendo uso de las herramientas anteriormente configuradas.
+- [x] Documentación del proceso seguido para el despliegue en Azure.
