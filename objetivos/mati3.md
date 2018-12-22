@@ -93,3 +93,29 @@
 [X] Preparar test para la clase del punto anterior.
 
 [X] Hacer los ejercicios del tema 4.
+
+## Objetivos del hito 5 ##
+
+
+
+[X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+[X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+
+[X] Documentar y mantener una plataforma virtual.
+
+[X] Realizar tareas de administración de infraestructuras virtuales.
+
+[X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+
+[X] Documentar y mantener una plataforma virtual.
+
+[X] Realizar tareas de administración en infraestructura virtual.
+
+[X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+
+[X] Saber cómo aplicarlos en un caso determinado.
+
+[X] Conocer los sistemas de gestión de la configuración, aprovisionamiento y monitorización más usados hoy en día.
+
+[X] Hacer los ejercicios del tema 5 y 6.

@@ -14,17 +14,17 @@ Añade debajo enlaces a tu proyecto
 | DEL RIO AGUILAR, ALBERTO| | |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
-| ENRIQUEZ FERNANDEZ, JOSE MANUEL| | |
+| ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador_Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.5 |
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| | |
-| GARCIA MANCILLA, JAVIER| | |
+| GARCIA MANCILLA, JAVIER|[Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.5.1 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | 1.1 |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE| | |
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
-| HERRERA VARGAS, ALBERTO| | |
+| HERRERA VARGAS, ALBERTO| [Hospital-IV](https://github.com/alberturria/Hospital) | 1.2 |
 | JALDO RUIZ, JESUS MIGUEL| | |
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | 3.5 |
