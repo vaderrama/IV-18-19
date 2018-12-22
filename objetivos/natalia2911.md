@@ -48,7 +48,7 @@
  - [x] Resolver los problemas de los primeros desplieges
  - [x] Darse de alta en el servicio de PaaS en este caso en Heroku
  - [x] Desplegar el proyecto
- - [x] Probar diferentes PaaS 
+ - [x] Probar diferentes PaaS
  - [x] Probar diferentes formas de hacer el despliege: En linea de comandos, y Por la Web
  - [x] Interiorizar el concepto de PaaS, su aplicación y sus limitaciones
  - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo
@@ -72,5 +72,16 @@
  - [x] Darse de alta en Zeit e instalación del cliente
  - [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure
 
+## Hito 5:
 
-
+- [x] Corregir hito 4
+- [x] Superar el hito anterior
+- [x] Entender los conceptos de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos.
+- [x] Instalar hipervisores libres
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+- [x] Testear todo
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales
