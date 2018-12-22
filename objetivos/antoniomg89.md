@@ -64,3 +64,14 @@ Objetivos de la semana, comienza el 26 de noviembre
 ============================
 
 - [x] Hipervisor (virtualvox) instalado y realizando pruebas con máquinas virtuales.
+
+Objetivos de las últimas semanas
+============================
+
+- [x] Uso de vagrant para creación y configuración de máquinas virtuales.
+
+- [x] Ansible como herramienta de provisionamiento de máquinas virtuales.
+
+- [x] Fabric como herramienta de despliegue de aplicaciones en maquinas virtuales
+
+- [x] Conocer la forma de desplegar en Google Cloud Platform.
