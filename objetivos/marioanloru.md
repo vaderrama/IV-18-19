@@ -99,10 +99,28 @@ Objetivos Infraestructura Virtual
 
 - [x] Entender los conceptos fundamentales de virtualización
 - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay
-- [ ] Instalar hipervisores libres y trabajar con ellos
+- [x] Instalar hipervisores libres y trabajar con ellos
 - [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres
 
 #### Semana 11
 
 - [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales
 - [ ] Corregir posibles errores y puntos a mejorar del hito 4
+
+#### Semana 12
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales
+- [x] Entender los conceptos de los servicios en la nube
+- [x] Entender el concepto de provisionamiento
+
+#### Semana 13
+
+- [x] Entender el concepto de aprovisionamiento y como encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube
+
+#### Semana 14
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube
+- [ ] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+  - [ ] Entregar el hito final del proyecto
