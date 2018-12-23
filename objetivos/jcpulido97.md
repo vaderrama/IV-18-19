@@ -119,3 +119,42 @@
 - [x] Es un hito adicional de una aplicación. Si has testeado una clase en el hito 2, tienes que usarla en el hito 3.
 - [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
 - [x] Familiarizarse con Docker.
+
+
+
+# Objetivos semana 10 (19 de Noviembre)
+
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+
+
+# Objetivos semana 11 (26 de noviembre)
+
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
+- [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. 
+
+
+# Objetivos semana 12 (3 de Diciembre)
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+
+
+# Objetivos semana 13 (10 de Diciembre)
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+
+
+# Objetivos semana 14 (17 de Diciembre)
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
