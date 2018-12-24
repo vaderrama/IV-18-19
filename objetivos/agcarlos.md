@@ -71,3 +71,9 @@
 
 -   [x] Revisar errores comunes en el hito 4
 -   [x] Reenvío hito 4
+
+#### Semana 14
+
+-   [x] Realizar el despliegue y provisionamiento
+-   [x] Revisar IV_1819_Proyecto
+-   [x] Correcto funcionamiento en IaaS
