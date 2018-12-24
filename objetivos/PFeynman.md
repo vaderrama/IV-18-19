@@ -126,3 +126,18 @@
 ### Otros objetivos
 - [x] Instalar hipervisores libres y trabajar con ellos.
 - [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+## Objetivos de la Semana 11
+
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+
+### Otros objetivos
+- [ ] Algunos consejos para el último hito
+	- [ ] Hay que testear todo, inclusive las rutas.
+	- [ ] Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
+	- [x] Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
+	- [ ] Organizarse las tareas por semanas o días, con "sprints" que terminen el trabajo.
+- [x] Terminar las entregas del 4º hito, los que no lo hayan hecho.
+- [x] Ya deberíais haber instalado algún hipervisor libre.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
+- [ ] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
