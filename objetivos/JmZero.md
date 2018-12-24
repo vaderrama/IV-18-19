@@ -123,7 +123,7 @@
 - [ ] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
 - [x] Familiarizarse con Docker.
 - [x] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
-- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
+- [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
 
 ## Semana 10
 ### Objetivos Principales:
@@ -144,12 +144,49 @@
 
 ### Otros Objetivos
 
-- [ ] Algunos consejos para el último hito
-	- [ ] Hay que testear todo, inclusive las rutas.
-	- [ ] Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
-	- [ ] Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
-	- [ ] Organizarse las tareas por semanas o días, con "sprints" que terminen el trabajo.
+- [x] Algunos consejos para el último hito
+	- [x] Hay que testear todo, inclusive las rutas.
+	- [x] Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
+	- [x] Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
+	- [x] Organizarse las tareas por semanas o días, con "sprints" que terminen el trabajo.
 - [x] Terminar las entregas del 4º hito, los que no lo hayan hecho.
 - [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 - [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
 - [X] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+## Semana 12
+### Objetivos Principales:
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+### Otros Objetivos
+
+- [x] Revisar errores comunes en el hito 4.
+- [x] Instalar clientes de servicios en la nube.
+- [X] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Semana 13
+### Objetivos Principales:
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+### Otros Objetivos
+
+- [x] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.
+- [x] Volver a entregar el hito anterior para aprobar y/o subir nota.
+- [X] Resolver dudas relativas a la entrega del hito final de la asignatura.
+
+## Semana 14
+### Objetivos Principales:
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+### Otros Objetivos
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
