@@ -119,28 +119,28 @@
 
 ### Semana 10
 
-* [ ] Entender los conceptos fundamentales de virtualización
-* [ ] Comprender el concepto de hipervisor y los diferentes tipos que hay.
-* [ ] Instalar hipervisores libres y trabajar con ellos.
-* [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+* [x] Entender los conceptos fundamentales de virtualización
+* [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+* [x] Instalar hipervisores libres y trabajar con ellos.
+* [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
 ### Semana 11
 
 * [x] Algunos consejos para el último hito
     * [x] Hay que testear todo, inclusive las rutas.
     * [x] Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
-    * [ ] Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
-    * [ ] Organizarse las tareas por semanas o días, con "sprints" que terminen el trabajo.
+    * [x] Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
+    * [x] Organizarse las tareas por semanas o días, con "sprints" que terminen el trabajo.
 * [x] Terminar las entregas del 4º hito, los que no lo hayan hecho.
-* [ ] Ya deberíais haber instalado algún hipervisor libre.
-* [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
-* [ ] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+* [x] Ya deberíais haber instalado algún hipervisor libre.
+* [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
+* [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
 
 ### Semana 12
 
-* [ ] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+* [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
 * [x] Entender los conceptos de los servicios en la nube.
-* [ ] Entender el concepto de provisionamiento.
+* [x] Entender el concepto de provisionamiento.
 * [x] Revisar errores comunes en el hito 4.
 * [x] Comprender qué es exactamente la documentación y para qué sirve.
     * No es para:
@@ -162,6 +162,6 @@
     * No poner más que métodos GET. Para añadir información, se debe usar PUT
     * Usar métodos GET para cambiar el estado del servidor. Para ello se deben usar todos menos este.
     * Diseño de rutas arbitrario y como nombre de funciones. Se deben diseñar alrededor del nombre del recurso al que se accede que puede ser el mismo nombre de la clase.
-* [ ] Instalar clientes de servicios en la nube.
-* [ ] Entender temas de seguridad de la información relacionados con los servicios en la nube.
-* [ ] Hacer pruebas de provisionamiento de servicios en la nube.
+* [x] Instalar clientes de servicios en la nube.
+* [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+* [x] Hacer pruebas de provisionamiento de servicios en la nube.
