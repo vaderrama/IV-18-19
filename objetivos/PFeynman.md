@@ -141,3 +141,37 @@
 - [x] Ya deberíais haber instalado algún hipervisor libre.
 - [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
 - [ ] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+## Objetivos de la Semana 12
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales. 
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+## Otros objetivos
+
+- [ ] Revisar errores comunes en el hito 4.
+	- [ ] Comprender qué es exactamente la documentación y para qué sirve. 
+    	- [ ] No es para:
+        	- [ ] Que calquéis lo que hay en otro sitio.
+        	- [ ] Que pongáis como os habéis registrado en algo.
+        	- [ ] Que pongáis tal cual lo que hay en un fichero sin
+            explicarlo.
+      	- [x] *Sí* es para:
+        	- [x] Justificar lo que no se ve a simple vista (configuraciones que se han tenido que hacer en la web, por ejemplo).
+        	- [x] Justificar por qué habéis elegido algo (Por qué habéis escogido como imagen base `python:3` en este hito, por ejemplo).
+   	- [x] La aplicación debe ejecutarse siempre de la misma forma: en heroku.yml, en el CMD del Dockerfile, en el Procfile.
+   	- [ ] La aplicación debe seguirse completando, no sólo la infraestructura.
+		- [ ] Las rutas se deben testear también. Y se deben testear no usando requests (o similar), sino llamando a las funciones internamente. 
+	   	- [ ] Los objetos de una clase no pueden inicializarse todos desde una constante o un fichero, deben usar su constructor para ello.
+   	- [ ] Errores en la creación del Dockerfile. 
+    	- [ ] Justificar la imagen base que se usa.
+    	- [x] Tener claro qué ficheros son necesarios para el despliegue, y copiar sólo esos. Usar `.dockerignore` o simplemente copiar sólo lo que haga falta.
+    - [ ] Errores en el diseño de la aplicación REST
+		- [ ] Poner métodos GET y PUT sin tratarlos de forma diferente.
+		- [ ] No poner más que métodos GET. Para añadir información, se debe usar un método _no seguro_ como, por ejemplo, [PUT] (https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT).
+    	- [ ] Usar métodos GET para cambiar el estado del servidor. Para ello se deben usar los llamados métodos [_no seguros_](https://developer.mozilla.org/en-US/docs/Glossary/safe), viz.: DELETE, PATCH, POST y PUT.
+		- [ ] Diseño de rutas arbitrario y como nombre de funciones. Se deben diseñar alrededor del nombre del recurso al que se accede, que puede ser el mismo nombre de la clase.  
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube. 
