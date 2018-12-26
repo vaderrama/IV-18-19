@@ -117,3 +117,80 @@
 - [x] Familiarizarse con Docker.
 - [ ] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
 - [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
+
+## Objetivos de la Semana 10
+
+- [x] Entender los conceptos fundamentales de virtualización.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [ ] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+## Objetivos de la Semana 11
+
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+
+### Otros objetivos
+- [ ] Algunos consejos para el último hito
+	- [ ] Hay que testear todo, inclusive las rutas.
+	- [ ] Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
+	- [x] Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
+	- [ ] Organizarse las tareas por semanas o días, con "sprints" que terminen el trabajo.
+- [x] Terminar las entregas del 4º hito, los que no lo hayan hecho.
+- [x] Ya deberíais haber instalado algún hipervisor libre.
+- [ ] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
+- [ ] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+## Objetivos de la Semana 12
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales. 
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+## Otros objetivos
+
+- [ ] Revisar errores comunes en el hito 4.
+	- [ ] Comprender qué es exactamente la documentación y para qué sirve. 
+    	- [ ] No es para:
+        	- [ ] Que calquéis lo que hay en otro sitio.
+        	- [ ] Que pongáis como os habéis registrado en algo.
+        	- [ ] Que pongáis tal cual lo que hay en un fichero sin
+            explicarlo.
+      	- [x] *Sí* es para:
+        	- [x] Justificar lo que no se ve a simple vista (configuraciones que se han tenido que hacer en la web, por ejemplo).
+        	- [x] Justificar por qué habéis elegido algo (Por qué habéis escogido como imagen base `python:3` en este hito, por ejemplo).
+   	- [x] La aplicación debe ejecutarse siempre de la misma forma: en heroku.yml, en el CMD del Dockerfile, en el Procfile.
+   	- [ ] La aplicación debe seguirse completando, no sólo la infraestructura.
+		- [ ] Las rutas se deben testear también. Y se deben testear no usando requests (o similar), sino llamando a las funciones internamente. 
+	   	- [ ] Los objetos de una clase no pueden inicializarse todos desde una constante o un fichero, deben usar su constructor para ello.
+   	- [ ] Errores en la creación del Dockerfile. 
+    	- [ ] Justificar la imagen base que se usa.
+    	- [x] Tener claro qué ficheros son necesarios para el despliegue, y copiar sólo esos. Usar `.dockerignore` o simplemente copiar sólo lo que haga falta.
+    - [ ] Errores en el diseño de la aplicación REST
+		- [ ] Poner métodos GET y PUT sin tratarlos de forma diferente.
+		- [ ] No poner más que métodos GET. Para añadir información, se debe usar un método _no seguro_ como, por ejemplo, [PUT] (https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT).
+    	- [ ] Usar métodos GET para cambiar el estado del servidor. Para ello se deben usar los llamados métodos [_no seguros_](https://developer.mozilla.org/en-US/docs/Glossary/safe), viz.: DELETE, PATCH, POST y PUT.
+		- [ ] Diseño de rutas arbitrario y como nombre de funciones. Se deben diseñar alrededor del nombre del recurso al que se accede, que puede ser el mismo nombre de la clase.  
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube. 
+
+## Objetivos de la Semana 13
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+## Otros objetivos
+- [x] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.
+- [ ] Volver a entregar el hito anterior para aprobar y/o subir nota.
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura.
+
+## Objetivos de la Semana 14
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+## Otros objetivos
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura.
