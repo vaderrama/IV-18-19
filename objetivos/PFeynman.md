@@ -185,3 +185,12 @@
 - [x] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.
 - [ ] Volver a entregar el hito anterior para aprobar y/o subir nota.
 - [x] Resolver dudas relativas a la entrega del hito final de la asignatura.
+
+## Objetivos de la Semana 14
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+## Otros objetivos
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura.
