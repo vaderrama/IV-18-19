@@ -12,7 +12,7 @@
 - [X] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [X] Darse de ata y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura y conocer el resto de los recursos de la asignatura.
 - [X] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
-- [X] Entender la importacia de metodologías 
+- [X] Entender la importacia de metodologías
 
 ## Semana 2
 
@@ -60,7 +60,7 @@
 - [X] Probar algún PaaS con su sistema de despliegue correspondiente. En mi caso lo he realizado con Heroku.
 - [X] Darse de alta el Openshift Online.
 - [X] Trabajar con los toolbers de los diferentes PaaS.
-- [ ] Pruebas de rendimiento de los servicios web.
+- [X] Pruebas de rendimiento de los servicios web.
 - [X] Despliegue simultáneo a varios PaaS desde GitHub.
 - [X] Descargar y conocer el CLI de Travis para usarlo para configurarlo y cosas así
 
@@ -72,3 +72,7 @@
 - [X] Instalación de Docker y hacer pruebas con él.
 - [X] Utilizar imágenes de docker publicadas.
 
+## Semana 10
+
+- [X] Entender los conceptos de la virtualización.
+- [X] Concepto de hipervisor y sus tipos: tipo 1,bare metal o nativo y tipo 2 o alojado.
