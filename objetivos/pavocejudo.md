@@ -81,3 +81,9 @@
 - [X] API de hipervisores locales y remotos desde vagrant para crear máquinas virtuales.
 - [X] Herramientas de virtualización como VirtualBox o VMWare.
 - [X] Realizar tareas de administración de infraestructuras virtuales.
+
+## Semana 12
+- [X] Trabajar con proveedores en la nuba (Azure y Heroku) y apreciar los parecidos y diferencias.
+- [X] Concepto de servicios en la nube.
+- [X] Concepto de provisionamiento.
+
