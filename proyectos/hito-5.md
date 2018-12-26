@@ -25,7 +25,7 @@ Añade debajo enlaces a tu proyecto
 | GUTIERREZ SEGOVIA, JORGE| | |
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO| [Hospital-IV](https://github.com/alberturria/Hospital) | 1.2 |
-| JALDO RUIZ, JESUS MIGUEL| [OWStatistics](https://github.com/JmZero/Proyecto-IV) | 5.1 |
+| JALDO RUIZ, JESUS MIGUEL| [OWStatistics](https://github.com/JmZero/Proyecto-IV) | 5.2 |
 | JIMENEZ ARGUELLO, ANTONIO JOSE| | |
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | 3.5 |
 | KEMP MUÑOZ, MARCEL| | |
