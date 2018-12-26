@@ -63,8 +63,11 @@ Lista de objetivos
   - [x] Usar imágenes de Docker publicadas.
 
 ## Semana 9
-  - [] Entender la base del aislamiento de recursos en el sistema operativo.
-  - [] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-  - [] Entender los errores comunes del hito anterior (PaaS).
-  - [] Familiarizarse con Docker.
+  - [x] Entender la base del aislamiento de recursos en el sistema operativo.
+  - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+  - [x] Entender los errores comunes del hito anterior (PaaS).
+  - [x] Familiarizarse con Docker.
 
+## Semana 10
+  - [x] Entender los conceptos fundamentales de virtualización.
+  - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
