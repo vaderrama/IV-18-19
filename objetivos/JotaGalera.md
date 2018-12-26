@@ -73,4 +73,20 @@ Lista de objetivos Semana 10:
 - [x] Comprender el concepto de hipervisor y los diferentes tipos.
 Lista de objetivos Semana 11:
 
-- [] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+
+Lista de objetivos Semana 11:
+
+- [x] Reenvío del hito 4 corrigiendo errores.
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad respecto a la nube.
+
+Lista de objetivos Semana 12:
+
+- [] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales.
+- [x] Entender cómo combinar las distintas tecnologías para realizar un despliegue de una apliación en la nube.
+
+Lista de objetivos Semana 13:
+
+- [x] Terminar de entender el concepto de infraestructura como software y ponerlo en práctica en el hito final.
+- [] Entrega del hito final.
