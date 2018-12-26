@@ -175,3 +175,13 @@
 - [x] Instalar clientes de servicios en la nube.
 - [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
 - [x] Hacer pruebas de provisionamiento de servicios en la nube. 
+
+## Objetivos de la Semana 13
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+## Otros objetivos
+- [x] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.
+- [ ] Volver a entregar el hito anterior para aprobar y/o subir nota.
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura.
