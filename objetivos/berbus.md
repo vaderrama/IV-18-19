@@ -92,6 +92,16 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 - [X] Seleccionados sistema operativo e imágenes adecuadas.
 
-Ya deberíais haber instalado algún hipervisor libre.
-    Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
-    Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+### Semana 12
+- [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [X] Entender los conceptos de los servicios en la nube.
+- [X] Entender el concepto de provisionamiento.
+
+### Semana 13
+- [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+### Semana 14
+- [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [X] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
