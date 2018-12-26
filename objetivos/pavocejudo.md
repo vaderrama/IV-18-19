@@ -87,3 +87,7 @@
 - [X] Concepto de servicios en la nube.
 - [X] Concepto de provisionamiento.
 
+## Semana 13
+- [X] Orquestación de máquinas virtuales con Vagrant.
+- [X] Combinar tecnologías como Log y Servidor en una aplicación en la nube.
+
