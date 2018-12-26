@@ -96,3 +96,7 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
 - [X] Entender los conceptos de los servicios en la nube.
 - [X] Entender el concepto de provisionamiento.
+
+### Semana 13
+- [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
