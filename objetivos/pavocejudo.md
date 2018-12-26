@@ -76,3 +76,8 @@
 
 - [X] Entender los conceptos de la virtualización.
 - [X] Concepto de hipervisor y sus tipos: tipo 1,bare metal o nativo y tipo 2 o alojado.
+
+## Semana 11
+- [X] API de hipervisores locales y remotos desde vagrant para crear máquinas virtuales.
+- [X] Herramientas de virtualización como VirtualBox o VMWare.
+- [X] Realizar tareas de administración de infraestructuras virtuales.
