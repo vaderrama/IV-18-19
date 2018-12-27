@@ -29,7 +29,7 @@ SKIP: {
   my ($this_hito) = ($diff =~ $diff_regex);
   skip "No hay envío de proyecto" unless defined $this_hito;
   my @files = split(/diff --git/,$diff);
-        
+
   my ($diff_hito) = grep( /$diff_regex/, @files);
   say "Tratando diff\n\t$diff_hito";
   my @lines = split("\n",$diff_hito);
