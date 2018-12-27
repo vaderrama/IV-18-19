@@ -317,3 +317,123 @@ puede usar la versión legacy, mejor.
   de las mismas.
     
 
+## Semana del 19 de noviembre
+
+### Objetivos de la semana
+
+- [x] Entender los conceptos fundamentales de la virtualización
+
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que
+  hay
+  
+### Otros objetivos
+
+- [x] Instalar supervisores libres y trabajar con ellos
+
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas
+  operativos libres
+  
+## Semana del 26 de noviembre
+
+### Objetivos de la semana
+
+- [ ] Usar el API de hipervisores locales y remotos desde Vagrant para
+  crear máquinas virtuales. 
+  
+### Otros objetivos
+
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas
+  operativos libres y ver qué diferencias de prestaciones y otras
+  ofrecen. 
+  
+- [ ] Seleccionar sistemas operativos e imágenes adecuadas al
+  trabajo. El seleccionar una imagen para desplegar es esencial para
+  que se trabaje de forma eficiente, y en la asignatura de ISE se
+  proporcionan diferentes herramientas para evaluar las prestaciones
+  de diferentes sistemas operativos. 
+  
+## Semana del 3 de diciembre
+
+### Objetivos de la semana
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y
+  diferencias con los locales. 
+
+- [x] Entender los conceptos de los servicios en la nube.
+
+- [x] Entender el concepto de provisionamiento.
+
+### Otros objetivos
+
+- [ ] Revisar errores del hito 4.
+
+- [x] Instalar clientes de servicios en la nube.
+
+- [ ] Entender temas de seguridad de la información relacionados con
+  los servicios en la nube.
+  
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Objetivos tema Uso de Sistemas
+
+- [x] Conocer las diferentes tecnologías y herramientas de
+  virtualización tanto para procesamiento, comunicación y
+  almacenamiento.
+
+- [x] Diseñar, construir y analizar las prestaciones de un centro de
+  proceso de datos virtual.
+
+- [ ] Documentar y mantener una plataforma virtual.
+
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+
+
+## Semana del 10 de diciembre
+
+## Objetivos de la semana 
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la
+    orquestación de máquinas virtuales y el resto de conceptos vistos
+    en la asignatura. 
+    
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura
+  para un despliegue de una aplicación en la nube.
+  
+  
+## Semana del 17 de diciembre
+
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la
+  orquestación de máquinas virtuales y el resto de conceptos vistos en
+  la asignatura.
+  
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura
+    para un despliegue de una aplicación en la nube. 
+    
+- [ ] Terminar de entender el concepto de “infraestructura como
+  software” y ponerlo en práctica en el hito final del proyecto.
+
+  
+  
+## Objetivos del tema Gestión de Infraestructuras Virtuales
+
+### Objetivos de la asignatura
+
+
+- [x] Diseñar, construir y analizar las prestaciones de un centro de
+  proceso de datos virtual. 
+
+- [ ] Documentar y mantener una plataforma virtual.
+
+- [x] Realizar tareas de administración en infraestructura virtual.
+
+### Objetivos específicos
+
+- [x] Aprender lenguajes de configuración usados en infraestructuras
+  virtuales. 
+  
+- [x] Saber cómo aplicarlos en un caso determinado.
+
+- [x] Conocer los sistemas de gestión de la configuración,
+  provisionamiento y monitorización más usados hoy en día.
+
