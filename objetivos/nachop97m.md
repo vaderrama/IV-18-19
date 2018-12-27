@@ -85,4 +85,6 @@ Lista de objetivos de Ingacio Pineda Mochon
 - [x] Errores comines hito 4.
 - [ ] Instalar clientes de servicios en la nube.
 - [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
-
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
