@@ -62,3 +62,17 @@
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] Mejorado el envio inicial del hito corrigiendo todos los puntos sancionados.
+
+# Hito 5
+
+## Objetivos
+
+- [x] Tener superados todos los hitos anteriores y haber superado los objetivos correspondientes.
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+- [x] Llevado a cabo todos los puntos del Hito 5 para finalizar la asignatura.
