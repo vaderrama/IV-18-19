@@ -38,7 +38,7 @@ Añade debajo enlaces a tu proyecto
 | MORENO LOPEZ, JUAN ESTEBAN| | |
 | NAVARRETE CAMPOS, GINES| | |
 | ORDUÑA DIAZ, ADRIAN| | |
-| OSORIO GIRALDEZ, OSCAR| | |
+| OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)| 3.0 |
 | PEREZ RUBIALES, DAVID JESUS| | |
 | PINEDA MOCHON, IGNACIO| | |
 | PRALEA , MARICICA| | |
