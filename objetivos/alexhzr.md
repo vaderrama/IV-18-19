@@ -13,7 +13,7 @@
 - [x] Entender el concepto de desarrollo con test
 - [x] Ampliar la descripción de mi proyecto y trabajar con milestones
 
-## Semana 03
+## Semana 03 - Hito 1
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
