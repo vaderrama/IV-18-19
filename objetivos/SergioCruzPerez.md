@@ -69,3 +69,55 @@
 - [x] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Semana del 5 de noviembre
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+- [x] Haber entregado el tercer hito del proyecto.
+- [x] Instalar Docker y empezar a trabajar con él. Si hay problemas en Windows, conviene instalar Linux si no se ha hecho hasta ahora porque la mayoría de los contenedores son para Linux.
+- [ ] Mirar ejercicio para crédito adicional
+- [x] Usar imágenes de docker publicadas.
+
+## Semana del 12 de noviembre
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender los errores comunes del hito anterior
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Familiarizarse con Docker. 
+- [x] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
+
+## Semana del 19 de noviembre
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+## Semana del 26 de noviembre
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+- [x] Hay que testear todo, inclusive las rutas.
+- [x] Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
+- [x] Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
+- [x] Organizarse las tareas por semanas o días, con "sprints" que terminen el trabajo.
+- [x] Terminar las entregas del 4º hito, los que no lo hayan hecho.
+- [x] Ya deberíais haber instalado algún hipervisor libre.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen. 
+- [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+## Semana del 3 de diciembre
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+- [x] Revisar errores comunes en el hito 4.
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Semana del 17 de diciembre
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para despliegue de una aplicación en la nube.
+- [x] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.
+- [] Volver a entregar el hito anterior para aprobar y/o subir nota.
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura.
