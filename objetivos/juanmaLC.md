@@ -106,3 +106,11 @@
  - [ ] Trabajar con proveedores en la nube.
  - [x] Entender los conceptos de los servicios en la nube.
  - [x] Entender el concepto de provisionamiento.
+ 
+ 
+ **Objetivos de la décimo tercera semana**
+ 
+ - [x] Entender el concepto de aprovisionamiento y como encaja en la orquestación de máquinas virtuales.
+ - [x] Mitad de las tareas del hito 5 realizadas.
+ - [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube 
+ 

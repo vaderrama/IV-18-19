@@ -72,27 +72,43 @@
 - [x] -Comprender la importancia de los contenedores en el el desarrollo informático actual
 - [x] -Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] -Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [] -Entender las arquitecturas software basadas en contenedores
+- [x] -Entender las arquitecturas software basadas en contenedores
 
 ## Semana 12 de Noviembre
-- [ ] -Entender la base del aislamiento de recursos en el sistema operativo.
-- [ ] -Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [ ] -Entender los errores comunes del hito anterior (PaaS):
-- [ ] -Leer el guión y seguirlo:
-- [ ] -Documentar despliegue directamente desde GitHub
-- [ ] -Explicar el Procfile (o fichero que se use), las partes que tiene y qué hace cada una y por qué.
-- [ ] -Lo que tiene que devolver status hay que sustituirlo por las rutas que haya definidas y qué devuelven.
-- [ ] -Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
-- [ ] -Familiarizarse con Docker.
-- [ ] -Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
+- [x] -Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] -Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] -Entender los errores comunes del hito anterior (PaaS):
+- [x] -Leer el guión y seguirlo:
+- [x] -Documentar despliegue directamente desde GitHub
+- [x] -Explicar el Procfile (o fichero que se use), las partes que tiene y qué hace cada una y por qué.
+- [x] -Lo que tiene que devolver status hay que sustituirlo por las rutas que haya definidas y qué devuelven.
+- [x] -Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] -Familiarizarse con Docker.
+- [x] -Si no se ha hecho, alta en Zeit e instalación del cliente. Si se puede usar la versión legacy, mejor.
 Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube, tales como Azure.
 
 
 ## Semana 19 de Noviembre
-- [ ] -Entender los conceptos fundamentales de virtualización.
-- [ ] -Comprender el concepto de hipervisor y los diferentes tipos que hay.
-- [ ] -Instalar hipervisores libres y trabajar con ellos.
-- [ ] -Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+- [x] -Entender los conceptos fundamentales de virtualización.
+- [x] -Comprender el concepto de hipervisor y los diferentes tipos que hay.
+- [x] -Instalar hipervisores libres y trabajar con ellos.
+- [x] -Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
 
-## Semana 26 de noviembre
-- [ ] -Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+## Semana 26 de Noviembre
+- [x] -Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+
+### Otros objetivos
+- Algunos consejos para el último hito
+- [x] - Hay que testear todo, inclusive las rutas.
+- [x] - Hay que seguir atentamente la descripción del mismo y los consejos de corrección.
+- [x] - Debe ser un proyecto real, y usar algún servicio externo como una base de datos, configuración distribuida o logs.
+- [x] - Organizarse las tareas por semanas o días, con "sprints" que terminen el trabajo.
+- [x] Terminar las entregas del 4º hito, los que no lo hayan hecho.
+- [x] Ya deberíais haber instalado algún hipervisor libre.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
+- [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+## Semana 3 de Diciembre
+- [ ] -Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [ ] -Entender los conceptos de los servicios en la nube.
+- [ ] -Entender el concepto de provisionamiento.

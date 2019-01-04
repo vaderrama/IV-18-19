@@ -71,3 +71,7 @@ Lista de objetivos
 ## Semana 10
   - [x] Entender los conceptos fundamentales de virtualización.
   - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Lista de objetivos Semana 11:
+  - [x] Instalar clientes de servicios en la nube.
+  - [x] Entender temas de seguridad respecto a la nube.
