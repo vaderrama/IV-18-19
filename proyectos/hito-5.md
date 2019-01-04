@@ -10,8 +10,8 @@ Añade debajo enlaces a tu proyecto
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 5.3 |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) | 0.1|
 | CALVO VILLAZAN, RUBEN| | |
-| CRUZ PEREZ, SERGIO| | |
-| DEL RIO AGUILAR, ALBERTO| | |
+| CRUZ PEREZ, SERGIO|[AlmacenparaunDJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual.git) | 5.1 |
+| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 5.8 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador_Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.5 |
@@ -36,10 +36,10 @@ Añade debajo enlaces a tu proyecto
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.5.0 |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
-| NAVARRETE CAMPOS, GINES| | |
+| NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) | 2.6 |
 | ORDUÑA DIAZ, ADRIAN| | |
-| OSORIO GIRALDEZ, OSCAR| | |
-| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 4.6|
+| OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)| 3.0 |
+| PEREZ RUBIALES, DAVID JESUS| | |
 | PINEDA MOCHON, IGNACIO| | |
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
@@ -49,10 +49,10 @@ Añade debajo enlaces a tu proyecto
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 2.2 |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ PALOMINO, ALVARO| | |
-| SANCHEZ DE LECHINA TEJADA, JESUS| | |
+| SANCHEZ DE LECHINA TEJADA, JESUS| [Duckpiler](https://github.com/jojelupipa/Duckpiler) | 0.9.9.0 |
 | SARRIONANDIA DE LEÓN, AITOR| | |
-| TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 2.7 |
-| TOLEDO AGUILERA, FRANCISCO MIGUEL| | |
+| TALAVERA MENDOZA, FERNANDO RAFAEL| [Proyecto](https://github.com/Thejokeri/IV-18-19-Proyecto) | 2.9 |
+| TOLEDO AGUILERA, FRANCISCO MIGUEL| [Proyecto](https://github.com/maikeltoledo/IV-18-19-Proyecto) | 2.2 |
 | TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.8 |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
