@@ -49,7 +49,7 @@ Objetivos Infraestructura Virtual
 
 #### Semana 6
 
-- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure
 - [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura
 - [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones
 - [x] Entender el concepto de despliegue y cómo la infraestructura virtual y sus especificación son esenciales para el mismo.
@@ -105,7 +105,7 @@ Objetivos Infraestructura Virtual
 #### Semana 11
 
 - [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales
-- [ ] Corregir posibles errores y puntos a mejorar del hito 4
+- [x] Corregir posibles errores y puntos a mejorar del hito 4
 
 #### Semana 12
 
@@ -122,5 +122,5 @@ Objetivos Infraestructura Virtual
 
 - [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
 - [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube
-- [ ] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
-  - [ ] Entregar el hito final del proyecto
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+  - [x] Entregar el hito final del proyecto
