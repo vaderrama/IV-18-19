@@ -44,7 +44,7 @@ Añade debajo enlaces a tu proyecto
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
 | PULIDO POVEDA, JUAN CARLOS| [Gestión de VM](https://github.com/jcpulido97/ProyectoIV) | 4.2 |
-| REY PEDROSA, PABLO| [Proyecto](https://github.com/PFeynman/proyecto-iv) | 1.0.0 |
+| REY PEDROSA, PABLO| [Proyecto](https://github.com/PFeynman/proyecto-iv) | 1.0.1 |
 | RODRIGUEZ MARIN, SERGIO| | |
 | RUIZ LOPEZ, MANUEL | [Proyecto](https://github.com/manoliot/tiempo-aemet-bot) | 2.2 |
 | SANCHEZ JIMENEZ, DAVID| | |
