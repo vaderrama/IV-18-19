@@ -39,7 +39,7 @@ Añade debajo enlaces a tu proyecto
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) | 2.6 |
 | ORDUÑA DIAZ, ADRIAN| | |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)| 3.0 |
-| PEREZ RUBIALES, DAVID JESUS| | |
+| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 4.7|
 | PINEDA MOCHON, IGNACIO| | |
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
