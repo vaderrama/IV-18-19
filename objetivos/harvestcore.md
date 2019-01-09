@@ -87,9 +87,9 @@
 - [x] Darse de alta en Openshift online.
 - [x] Trabajar con los *toolbelts* de los diferentes PaaS.
 - [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
-- [ ] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Probar otras herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
-- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
 
 
@@ -98,10 +98,10 @@
 - [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
-- [ ] Entender las arquitecturas software basadas en contenedores.
+- [x] Entender las arquitecturas software basadas en contenedores.
 - [x] Haber entregado el [tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS).
 - [x] Instalar Docker y empezar a trabajar con él.
-- [ ] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests).
+- [x] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests).
 - [x] Usar imágenes de docker publicadas.
 
 
@@ -129,7 +129,7 @@
 
 ## Semana 11 (26 nov)
 
-- [ ] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
 - [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
 - [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
 
@@ -141,7 +141,7 @@
 - [x] Entender los conceptos de los servicios en la nube.
 - [x] Entender el concepto de provisionamiento.
 - [x] Instalar clientes de servicios en la nube.
-- [ ] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
 - [x] Hacer pruebas de provisionamiento de servicios en la nube.
 
 
@@ -155,4 +155,4 @@
 
 ## Semana 14 (17 dic)
 
-- [ ] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
