@@ -87,3 +87,4 @@ Repositorio de ejercicios: [Ejercicios IV](https://github.com/iMiguel10/Ejercici
 - [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
 - [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
 
+- [x] Corregir hito 5
