@@ -36,7 +36,7 @@ Añade debajo enlaces a tu proyecto
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.5.0 |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
-| NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) | 2.6 |
+| NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) | **2.8** |
 | ORDUÑA DIAZ, ADRIAN| | |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)| 3.0 |
 | PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 4.7|
