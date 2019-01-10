@@ -209,7 +209,7 @@ ejemplos de la asignatura.
 - [x]  Continuar con el desarrollo y test de código específico para
     desplegar en el PaaS. 
     
-- [ ] Probar zeit.co, aunque funcione sólo con JavaScript y
+- [x] Probar zeit.co, aunque funcione sólo con JavaScript y
   contenedores. Más adelante se verá su utilidad. Darse de alta en
   Openshift online. 
   
@@ -221,7 +221,7 @@ ejemplos de la asignatura.
 - [ ] Probar otras herramientas de integración continua para ver cuál
     funciona mejor con cada PaaS. 
     
-- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde
     GitHub. 
     
 - [ ] Descargarse y conocer el CLI de Travis para usarlo para
@@ -264,7 +264,7 @@ ejemplos de la asignatura.
 - [x] Entender las diferentes formas de aislar recursos en Linux u
   otros sistemas operativos. 
   
-- [ ] Entender las arquitecturas software basadas en contenedores.
+- [x] Entender las arquitecturas software basadas en contenedores.
 
 ### Otros objetivos
 
@@ -302,7 +302,7 @@ ahora.
 - [x] Si no se ha hecho, alta en Zeit e instalación del cliente. Si se
 puede usar la versión legacy, mejor. 
 
-- [ ] Comprobar los servicios de publicación de contenedores de los
+- [x] Comprobar los servicios de publicación de contenedores de los
   diferentes sistemas en la nube, tales como Azure. 
   
 
@@ -313,7 +313,7 @@ puede usar la versión legacy, mejor.
 
 - [x] Crear infraestructuras virtuales completas.
 
-- [ ] Comprender los pasos necesarios para la configuración automática
+- [x] Comprender los pasos necesarios para la configuración automática
   de las mismas.
     
 
@@ -337,7 +337,7 @@ puede usar la versión legacy, mejor.
 
 ### Objetivos de la semana
 
-- [ ] Usar el API de hipervisores locales y remotos desde Vagrant para
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para
   crear máquinas virtuales. 
   
 ### Otros objetivos
@@ -383,7 +383,7 @@ puede usar la versión legacy, mejor.
 - [x] Diseñar, construir y analizar las prestaciones de un centro de
   proceso de datos virtual.
 
-- [ ] Documentar y mantener una plataforma virtual.
+- [x] Documentar y mantener una plataforma virtual.
 
 - [x] Realizar tareas de administración de infraestructuras virtuales.
 
@@ -410,7 +410,7 @@ puede usar la versión legacy, mejor.
 - [x] Entender cómo combinar las tecnologías vistas en la asignatura
     para un despliegue de una aplicación en la nube. 
     
-- [ ] Terminar de entender el concepto de “infraestructura como
+- [x] Terminar de entender el concepto de “infraestructura como
   software” y ponerlo en práctica en el hito final del proyecto.
 
   
@@ -423,7 +423,7 @@ puede usar la versión legacy, mejor.
 - [x] Diseñar, construir y analizar las prestaciones de un centro de
   proceso de datos virtual. 
 
-- [ ] Documentar y mantener una plataforma virtual.
+- [x] Documentar y mantener una plataforma virtual.
 
 - [x] Realizar tareas de administración en infraestructura virtual.
 
@@ -436,4 +436,3 @@ puede usar la versión legacy, mejor.
 
 - [x] Conocer los sistemas de gestión de la configuración,
   provisionamiento y monitorización más usados hoy en día.
-
