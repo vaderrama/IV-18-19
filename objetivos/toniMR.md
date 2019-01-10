@@ -69,3 +69,19 @@
 
 ## Objetivos de la Undécima Semana
 - [X] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+
+## Objetivos de la Duodécima Semana
+- [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [X] Entender los conceptos de los servicios en la nube.
+- [X] Entender el concepto de provisionamiento.
+
+## Objetivos de la DecimoTercera Semana
+- [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+## Objetivos de la DecimoCuarta Semana
+- [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [X] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+
