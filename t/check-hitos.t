@@ -127,6 +127,7 @@ SKIP: {
   if ( $this_hito > 3 ) { # Despliegue en algún lado
     doing("hito 4");
     my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https:..\S+)\b/);
+    unlike($deployment_url, qr{/status}, 'El URL apunta al dominio, no a la ruta status');
     if ( $deployment_url ) {
       diag "☑ Detectado URL de despliegue Docker $deployment_url";
     } else {
@@ -138,7 +139,6 @@ SKIP: {
     $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
     ok($dockerhub_url, "Detectado URL de DockerHub");
-    
     if ( ok( $deployment_url,  "URL de despliegue hito 4") ) {
     SKIP: {
 	skip "Ya en el hito siguiente", 4 unless $this_hito == 4;
