@@ -77,3 +77,8 @@
 -   [x] Realizar el despliegue y provisionamiento
 -   [x] Revisar IV_1819_Proyecto
 -   [x] Correcto funcionamiento en IaaS
+
+#### Última Semana
+
+-   [x] Reenvío del hito 5
+-   [x] Documentación correcta del hito 5
