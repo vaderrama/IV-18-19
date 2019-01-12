@@ -146,3 +146,8 @@
 * [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
 * [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
 * [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+### Última Semana
+
+*   [x] Reenvío del hito 5
+*   [x] Ampliada documentación del hito 5
