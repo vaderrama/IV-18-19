@@ -114,3 +114,9 @@
  - [x] Mitad de las tareas del hito 5 realizadas.
  - [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube 
  
+ 
+ **Objetivos de la décimo cuarta semana**
+ 
+ - [x] Concepto de infraestructura como software
+ - [x] Mejorar hito 5
+ 
