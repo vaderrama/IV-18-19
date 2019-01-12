@@ -96,8 +96,6 @@
 
 ## Objetivos del hito 5 ##
 
-
-
 [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
 
 [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
