@@ -127,7 +127,7 @@ Lista de objetivos de Alberto Herrera
 - [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
 - [x] La mitad de las tareas del hito final, más o menos, deberían estar terminadas porque quedan apenas dos semanas para la entrega.
 - [x] Volver a entregar el hito anterior para aprobar y/o subir nota.
-- [x] Resolver dudas relativas a la entrega del hito final de la asignatura.
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura. 
 
 
 
