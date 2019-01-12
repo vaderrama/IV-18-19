@@ -56,4 +56,4 @@ Añade debajo enlaces a tu proyecto
 | TORRES ROSEL, PABLO| [Proyecto](https://github.com/pablotr9/SimuladorBolsa-IV1819) | 0.8 |
 | UCEDA MORENO, ALEJANDRO| | |
 | VALENZUELA GARCIA, JORGE| | |
-| VIÑAS RODRIGUEZ, JOSE MARIA | [Repo](https://github.com/joseviro/ProyectoTPV)| **3.2** |
+| VIÑAS RODRIGUEZ, JOSE MARIA | [Repo](https://github.com/joseviro/ProyectoTPV)| **4.1** |
