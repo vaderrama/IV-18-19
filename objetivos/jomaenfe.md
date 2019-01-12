@@ -100,5 +100,5 @@
 - [X] Documentar y mantener una plataforma virtual.
 - [X] Realizar tareas de administración en infraestructura virtual.
 - [X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
-- [ ] Saber cómo aplicarlos en un caso determinado. 
+- [X] Saber cómo aplicarlos en un caso determinado. 
 - [X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
