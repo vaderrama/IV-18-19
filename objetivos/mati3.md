@@ -119,3 +119,9 @@
 [X] Conocer los sistemas de gestión de la configuración, aprovisionamiento y monitorización más usados hoy en día.
 
 [X] Hacer los ejercicios del tema 5 y 6.
+
+[X] Repetir despliegue
+
+[X] Enterder todas las partes del hito.
+
+[X] Documentar todo lo realizado adecuadamente.
